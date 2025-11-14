@@ -25,7 +25,9 @@ Selection criteria:
 - DIVERSITY: Mix topics (politics, tech, business, science, health, world events)
 - GEOGRAPHY: Maximum 2 stories from same region
 - TIMELINESS: Events from last 24 hours only
-- BALANCE: Avoid all negative news - include positive developments
+- BALANCE: Include a mix of positive and negative news. Do not avoid negative
+  stories if they are major, but ensure at least one uplifting or positive
+  development when available.
 
 For each story provide:
 - Headline: Clear, factual, max 80 characters (no clickbait, no questions)
