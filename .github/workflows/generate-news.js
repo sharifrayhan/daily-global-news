@@ -2,7 +2,7 @@ import fs from "fs/promises";
 
 const GEMINI_KEY = process.env.GEMINI_KEY;
 const NEWS_FILE = "news.json";
-const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=${GEMINI_KEY}`;
+const API_URL = `https://generativelanguage.googleapis.com/v1/models/gemini-2.5-flash:generateContent?key=${GEMINI_KEY}`;
 
 async function fetchNewsFromGemini() {
   const today = new Date().toISOString().split("T")[0];
@@ -60,7 +60,6 @@ Ensure exactly 5 stories with good topic and geographic diversity.`,
         topP: 0.8,
         topK: 40,
         maxOutputTokens: 2048,
-        responseMimeType: "application/json",
       },
     }),
   });
