@@ -20,9 +20,6 @@ jobs:
         with:
           node-version: "22"
 
-      - name: Install dependencies
-        run: npm install node-fetch@2
-
       - name: Generate daily news
         env:
           GEMINI_KEY: ${{ secrets.GEMINI_KEY }}

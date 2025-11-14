@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Daily Global News</title>
+    <link rel="stylesheet" href="popup.css" />
+  </head>
+  <body>
+    <div class="container">
+      <!-- Header -->
+      <header class="header">
+        <h1>🌍 Daily Global News</h1>
+        <p class="subtitle" id="dateDisplay">Loading...</p>
+      </header>
+
+      <!-- Loading State -->
+      <div id="loading" class="loading">
+        <div class="spinner"></div>
+        <p>Fetching latest news...</p>
+      </div>
+
+      <!-- Error State -->
+      <div id="error" class="error hidden">
+        <p>❌ Failed to load news</p>
+        <button id="retryBtn" class="retry-btn">Retry</button>
+      </div>
+
+      <!-- News Stories -->
+      <div id="newsContainer" class="news-container hidden">
+        <!-- Stories will be inserted here by JavaScript -->
+      </div>
+
+      <!-- Footer -->
+      <footer class="footer">
+        <p id="updateTime">Updated: --</p>
+      </footer>
+    </div>
+
+    <script src="popup.js"></script>
+  </body>
+</html>

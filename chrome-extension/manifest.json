@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "Daily Global News",
+  "version": "1.0.0",
+  "description": "Stay updated with the top 5 global news stories every day",
+  "permissions": [],
+  "host_permissions": ["https://sharifrayhan.github.io/*"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Daily Global News",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}

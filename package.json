@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "name": "daily-global-news",
+  "version": "1.0.0",
+  "description": "Daily global news aggregator for Chrome extension",
+  "scripts": {
+    "generate": "node .github/workflows/generate-news.js"
+  }
+}
