@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2025-11-15T01:46:58.661Z",
+  "updatedAt": "2025-11-16T01:56:01.657Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2025-11-14",
+  "date": "2025-11-16",
   "stories": [
     {
-      "headline": "Middle East Peace Talks See Unexpected Progress on Border Demarcation",
-      "summary": "Negotiators made headway on a key territorial dispute, raising hopes for a lasting ceasefire. This could reshape regional stability and aid efforts.",
+      "headline": "EU Leaders Hold Emergency Summit on Mediterranean Migration Surge",
+      "summary": "A sudden increase in migrant arrivals across the Mediterranean Sea prompts urgent talks among EU leaders to coordinate a response and resource allocation.",
       "category": "Politics",
-      "region": "Middle East",
+      "region": "Europe",
       "urgency": "high"
     },
     {
-      "headline": "Global Regulators Propose Unified AI Safety Standards Amid Rapid Development",
-      "summary": "Major nations are collaborating on comprehensive AI governance frameworks to mitigate risks from advanced systems. This aims to ensure responsible innovation and public trust.",
+      "headline": "Quantum Computing Achieves Milestone in Protein Folding for Drug Design",
+      "summary": "Researchers announced a significant leap in using quantum computers to model complex protein structures, accelerating the drug discovery process globally.",
       "category": "Technology",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "European Central Bank Signals Potential Interest Rate Cut Amid Stagnant Growth",
-      "summary": "The ECB hinted at easing monetary policy to stimulate the Eurozone economy, citing persistent inflation concerns. This decision could impact borrowing costs and investment.",
-      "category": "Business",
-      "region": "Europe",
-      "urgency": "high"
-    },
-    {
-      "headline": "Breakthrough Gene Therapy Shows Promise in Reversing Genetic Blindness",
-      "summary": "Clinical trials for a novel gene therapy demonstrated significant vision restoration in patients with inherited conditions. This offers hope for millions affected worldwide.",
-      "category": "Health",
-      "region": "Global",
-      "urgency": "medium"
-    },
-    {
-      "headline": "Southeast Asia Grapples with Severe Flooding After Unprecedented Monsoon Rains",
-      "summary": "Record rainfall has caused widespread displacement and infrastructure damage across several nations. Humanitarian aid efforts are being mobilized to assist affected populations.",
+      "headline": "Powerful Earthquake Strikes Southeast Asia, Causing Widespread Damage",
+      "summary": "A 7.2 magnitude earthquake hit a densely populated region, leading to significant infrastructure damage and fears of high casualties. Rescue efforts are underway.",
       "category": "World",
       "region": "Asia",
+      "urgency": "breaking"
+    },
+    {
+      "headline": "Federal Reserve Hikes Interest Rates to Combat Persistent Inflation",
+      "summary": "The US Federal Reserve raised its benchmark interest rate by 25 basis points, signaling continued efforts to cool the economy and control inflation.",
+      "category": "Business",
+      "region": "US",
       "urgency": "high"
+    },
+    {
+      "headline": "New Vaccine Rollout Faces Logistical Hurdles Across Several African Nations",
+      "summary": "Efforts to distribute a critical new vaccine are hampered by infrastructure and supply chain issues, raising concerns about equitable access.",
+      "category": "Health",
+      "region": "Africa",
+      "urgency": "medium"
     }
-  ],
-  "fallback": true
+  ]
 }
