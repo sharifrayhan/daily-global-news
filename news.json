@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2025-11-18T01:49:49.582Z",
+  "updatedAt": "2025-11-19T01:49:49.238Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2025-11-16",
+  "date": "2025-11-19",
   "stories": [
     {
-      "headline": "EU Leaders Hold Emergency Summit on Mediterranean Migration Surge",
-      "summary": "A sudden increase in migrant arrivals across the Mediterranean Sea prompts urgent talks among EU leaders to coordinate a response and resource allocation.",
+      "headline": "Nations Agree on Landmark Global Carbon Reduction Targets at COP30 Summit",
+      "summary": "Major economies committed to ambitious new carbon emission cuts at the UN Climate Summit, signaling a renewed global effort against climate change.",
       "category": "Politics",
-      "region": "Europe",
-      "urgency": "high"
-    },
-    {
-      "headline": "Quantum Computing Achieves Milestone in Protein Folding for Drug Design",
-      "summary": "Researchers announced a significant leap in using quantum computers to model complex protein structures, accelerating the drug discovery process globally.",
-      "category": "Technology",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "Powerful Earthquake Strikes Southeast Asia, Causing Widespread Damage",
-      "summary": "A 7.2 magnitude earthquake hit a densely populated region, leading to significant infrastructure damage and fears of high casualties. Rescue efforts are underway.",
-      "category": "World",
-      "region": "Asia",
-      "urgency": "breaking"
-    },
-    {
-      "headline": "Federal Reserve Hikes Interest Rates to Combat Persistent Inflation",
-      "summary": "The US Federal Reserve raised its benchmark interest rate by 25 basis points, signaling continued efforts to cool the economy and control inflation.",
-      "category": "Business",
+      "headline": "US Congress Passes Bipartisan AI Safety and Ethics Bill",
+      "summary": "The landmark legislation establishes new oversight for AI development and deployment, aiming to balance innovation with public safety and ethical concerns.",
+      "category": "Technology",
       "region": "US",
       "urgency": "high"
     },
     {
-      "headline": "New Vaccine Rollout Faces Logistical Hurdles Across Several African Nations",
-      "summary": "Efforts to distribute a critical new vaccine are hampered by infrastructure and supply chain issues, raising concerns about equitable access.",
-      "category": "Health",
-      "region": "Africa",
+      "headline": "Emergency Summit Convenes on Escalating Gaza Humanitarian Crisis",
+      "summary": "International leaders meet to address the dire humanitarian situation in Gaza, seeking urgent aid delivery and pathways to de-escalation.",
+      "category": "World",
+      "region": "Middle East",
+      "urgency": "breaking"
+    },
+    {
+      "headline": "European Central Bank Hints at Future Interest Rate Cuts Amid Slowing Inflation",
+      "summary": "The ECB signals potential rate reductions next year, offering relief to businesses and consumers across the Eurozone as inflation eases.",
+      "category": "Business",
+      "region": "Europe",
       "urgency": "medium"
+    },
+    {
+      "headline": "New Dengue Fever Vaccine Shows High Efficacy in Asia Clinical Trials",
+      "summary": "Phase 3 clinical trials in Southeast Asia reveal a highly effective new vaccine against dengue fever, offering hope for millions at risk.",
+      "category": "Health",
+      "region": "Asia",
+      "urgency": "high"
     }
-  ],
-  "fallback": true
+  ]
 }
