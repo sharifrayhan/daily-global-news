@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2025-12-02T01:53:28.200Z",
+  "updatedAt": "2025-12-03T01:53:12.102Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2025-11-28",
+  "date": "2025-12-03",
   "stories": [
     {
-      "headline": "EU Leaders Agree on New Green Deal Funding Mechanism",
-      "summary": "European Union leaders concluded a summit, agreeing on a new financial framework to accelerate green transition goals. This impacts economic stability and environmental efforts across the continent.",
+      "headline": "Nations Reach Landmark Agreement on Carbon Emissions Targets at COP30",
+      "summary": "Delegates at COP30 finalized a historic pact to accelerate emissions reductions, offering renewed hope for global climate action and sustainable development.",
       "category": "Politics",
-      "region": "Europe",
+      "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "Global Tech Alliance Proposes Unified AI Safety Standards",
-      "summary": "A consortium of leading tech companies and governments unveiled a framework for global AI safety and ethics. This aims to standardize development and mitigate risks worldwide.",
+      "headline": "Major Tech Firm Unveils Groundbreaking AI Assistant for Enterprise Solutions",
+      "summary": "A leading tech company launched an advanced AI assistant designed to revolutionize business operations, promising significant productivity gains across industries.",
       "category": "Technology",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "East African Nations Sign Landmark Regional Trade Agreement",
-      "summary": "Several East African countries formalized a new free trade agreement to boost economic integration and development. This promises significant economic growth and stability for the region.",
+      "headline": "Humanitarian Crisis Deepens in East Africa Amid Severe Drought and Conflict",
+      "summary": "UN agencies report millions face acute food insecurity as prolonged drought exacerbates ongoing conflict and displacement in the region, demanding urgent aid.",
       "category": "World",
       "region": "Africa",
-      "urgency": "high"
-    },
-    {
-      "headline": "US Federal Reserve Signals Potential Rate Hike Amid Inflation Concerns",
-      "summary": "The Federal Reserve indicated a potential interest rate increase in early 2026, citing persistent inflation. This impacts borrowing costs and economic forecasts for businesses and consumers.",
-      "category": "Business",
-      "region": "US",
-      "urgency": "high"
-    },
-    {
-      "headline": "WHO Warns of New Respiratory Virus Strain in Southeast Asia",
-      "summary": "The World Health Organization issued an alert regarding a rapidly spreading new respiratory virus strain. Public health measures are being reinforced to prevent a wider outbreak.",
-      "category": "Health",
-      "region": "Asia",
       "urgency": "breaking"
+    },
+    {
+      "headline": "European Central Bank Holds Interest Rates Steady Amid Inflation Concerns",
+      "summary": "The ECB maintained key interest rates, signaling caution on inflation despite slowing economic growth, impacting Eurozone markets and borrowing costs.",
+      "category": "Business",
+      "region": "Europe",
+      "urgency": "high"
+    },
+    {
+      "headline": "New Alzheimer's Drug Shows Promising Results in Phase 3 Clinical Trials",
+      "summary": "Researchers announced a novel drug significantly slowed cognitive decline in late-stage trials, offering new hope for patients and families battling the disease.",
+      "category": "Health",
+      "region": "Global",
+      "urgency": "high"
     }
-  ],
-  "fallback": true
+  ]
 }
