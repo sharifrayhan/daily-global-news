@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2025-12-12T01:57:05.581Z",
+  "updatedAt": "2025-12-13T01:50:39.478Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2025-12-03",
+  "date": "2025-12-13",
   "stories": [
     {
-      "headline": "Nations Reach Landmark Agreement on Carbon Emissions Targets at COP30",
-      "summary": "Delegates at COP30 finalized a historic pact to accelerate emissions reductions, offering renewed hope for global climate action and sustainable development.",
+      "headline": "Middle East Peace Summit Yields Limited Progress on Ceasefire",
+      "summary": "Leaders from regional powers met to discuss a lasting ceasefire, but deep divisions remain on key issues. This impacts stability and humanitarian efforts.",
       "category": "Politics",
-      "region": "Global",
+      "region": "Middle East",
       "urgency": "high"
     },
     {
-      "headline": "Major Tech Firm Unveils Groundbreaking AI Assistant for Enterprise Solutions",
-      "summary": "A leading tech company launched an advanced AI assistant designed to revolutionize business operations, promising significant productivity gains across industries.",
-      "category": "Technology",
-      "region": "Global",
-      "urgency": "high"
-    },
-    {
-      "headline": "Humanitarian Crisis Deepens in East Africa Amid Severe Drought and Conflict",
-      "summary": "UN agencies report millions face acute food insecurity as prolonged drought exacerbates ongoing conflict and displacement in the region, demanding urgent aid.",
-      "category": "World",
-      "region": "Africa",
-      "urgency": "breaking"
-    },
-    {
-      "headline": "European Central Bank Holds Interest Rates Steady Amid Inflation Concerns",
-      "summary": "The ECB maintained key interest rates, signaling caution on inflation despite slowing economic growth, impacting Eurozone markets and borrowing costs.",
-      "category": "Business",
+      "headline": "New Carbon Capture Plant Exceeds Expectations in Initial Tests",
+      "summary": "A large-scale direct air capture facility in Iceland demonstrated higher-than-projected CO2 removal rates. This offers a promising tool in combating climate change.",
+      "category": "Science",
       "region": "Europe",
+      "urgency": "medium"
+    },
+    {
+      "headline": "Asian Nations Sign Landmark Digital Trade Agreement",
+      "summary": "Several Asian economies finalized a new pact to streamline digital commerce and data flows. This could boost regional economic growth and innovation.",
+      "category": "Business",
+      "region": "Asia",
+      "urgency": "medium"
+    },
+    {
+      "headline": "Global Health Initiative Launches New Malaria Eradication Program",
+      "summary": "A consortium of international organizations unveiled an ambitious plan to accelerate malaria eradication efforts in Africa. This could save millions of lives.",
+      "category": "Health",
+      "region": "Africa",
       "urgency": "high"
     },
     {
-      "headline": "New Alzheimer's Drug Shows Promising Results in Phase 3 Clinical Trials",
-      "summary": "Researchers announced a novel drug significantly slowed cognitive decline in late-stage trials, offering new hope for patients and families battling the disease.",
-      "category": "Health",
-      "region": "Global",
+      "headline": "US Congress Passes Bipartisan Infrastructure Spending Bill",
+      "summary": "After months of debate, the US Congress approved a significant infrastructure package. This aims to modernize national infrastructure and create jobs.",
+      "category": "Politics",
+      "region": "US",
       "urgency": "high"
     }
-  ],
-  "fallback": true
+  ]
 }
