@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2025-12-14T02:03:40.488Z",
+  "updatedAt": "2025-12-15T02:01:03.723Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2025-12-13",
+  "date": "2025-12-15",
   "stories": [
     {
-      "headline": "Middle East Peace Summit Yields Limited Progress on Ceasefire",
-      "summary": "Leaders from regional powers met to discuss a lasting ceasefire, but deep divisions remain on key issues. This impacts stability and humanitarian efforts.",
+      "headline": "UN Security Council Adopts New Climate Action Framework",
+      "summary": "Member states approved a binding resolution to accelerate emissions cuts and aid vulnerable nations, marking a significant step towards global climate goals.",
       "category": "Politics",
-      "region": "Middle East",
+      "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "New Carbon Capture Plant Exceeds Expectations in Initial Tests",
-      "summary": "A large-scale direct air capture facility in Iceland demonstrated higher-than-projected CO2 removal rates. This offers a promising tool in combating climate change.",
-      "category": "Science",
-      "region": "Europe",
-      "urgency": "medium"
+      "headline": "Major US AI Firm Releases Ethical Guidelines for Advanced AI",
+      "summary": "A leading US AI developer published a comprehensive framework for safe and responsible AI, aiming to set industry standards amid growing concerns.",
+      "category": "Technology",
+      "region": "US",
+      "urgency": "high"
     },
     {
-      "headline": "Asian Nations Sign Landmark Digital Trade Agreement",
-      "summary": "Several Asian economies finalized a new pact to streamline digital commerce and data flows. This could boost regional economic growth and innovation.",
-      "category": "Business",
+      "headline": "East African Nations Deploy Peacekeeping Force to Sudan Border",
+      "summary": "Regional bloc forces entered a disputed zone to stabilize escalating tensions and protect civilians following recent clashes.",
+      "category": "World",
+      "region": "Africa",
+      "urgency": "breaking"
+    },
+    {
+      "headline": "Global Health Initiative Reports Success in Asia Malaria Vaccine Rollout",
+      "summary": "A major public health campaign has significantly reduced malaria cases in pilot regions across Asia, offering hope for broader eradication.",
+      "category": "Health",
       "region": "Asia",
       "urgency": "medium"
     },
     {
-      "headline": "Global Health Initiative Launches New Malaria Eradication Program",
-      "summary": "A consortium of international organizations unveiled an ambitious plan to accelerate malaria eradication efforts in Africa. This could save millions of lives.",
-      "category": "Health",
-      "region": "Africa",
-      "urgency": "high"
-    },
-    {
-      "headline": "US Congress Passes Bipartisan Infrastructure Spending Bill",
-      "summary": "After months of debate, the US Congress approved a significant infrastructure package. This aims to modernize national infrastructure and create jobs.",
-      "category": "Politics",
-      "region": "US",
+      "headline": "EU Parliament Approves Landmark Digital Services Tax on Tech Giants",
+      "summary": "The new tax aims to ensure fair contribution from large digital companies operating within the EU, potentially reshaping global corporate taxation.",
+      "category": "Business",
+      "region": "Europe",
       "urgency": "high"
     }
-  ],
-  "fallback": true
+  ]
 }
