@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2025-12-19T01:56:50.972Z",
+  "updatedAt": "2025-12-20T01:50:20.941Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2025-12-17",
+  "date": "2025-12-20",
   "stories": [
     {
-      "headline": "EU Leaders Finalize Landmark Green Transition Funding Package",
-      "summary": "European Union leaders approved a multi-billion euro fund to accelerate the bloc's green energy transition, aiming to meet ambitious climate targets. This impacts global climate efforts and European industry competitiveness.",
+      "headline": "Middle East Peace Talks Yield Conditional Ceasefire Agreement",
+      "summary": "Rival factions in the Levant region have agreed to a conditional ceasefire following intensive UN-brokered talks. This development offers a fragile hope for de-escalation after months of conflict.",
       "category": "Politics",
-      "region": "Europe",
+      "region": "Middle East",
       "urgency": "high"
     },
     {
-      "headline": "Breakthrough in Quantum Computing Stability Achieved",
-      "summary": "Researchers announced a significant advancement in quantum computer error correction, bringing practical applications closer. This could revolutionize fields from medicine to artificial intelligence globally.",
+      "headline": "Global AI Ethics Accord Signed by Leading Tech Nations",
+      "summary": "Over 30 nations have signed a landmark agreement on AI development and deployment ethics. This aims to establish international standards for responsible AI use and mitigate future risks.",
       "category": "Technology",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "New Malaria Vaccine Shows High Efficacy in African Trials",
-      "summary": "The latest phase of a novel malaria vaccine trial in several African nations reported promising efficacy rates. This offers significant hope for reducing a major cause of mortality and illness in the region.",
+      "headline": "New Malaria Vaccine Program Shows Promising Results in Africa",
+      "summary": "A large-scale trial of a novel malaria vaccine in several African nations has reported high efficacy rates. This could significantly reduce disease burden and save millions of lives.",
       "category": "Health",
       "region": "Africa",
       "urgency": "high"
     },
     {
-      "headline": "Asian Markets Volatile Amid Central Bank Rate Hike Speculation",
-      "summary": "Major Asian stock exchanges experienced significant fluctuations following increased speculation of an impending interest rate hike by a key regional central bank. This could impact global investment flows and trade.",
+      "headline": "Eurozone Inflation Unexpectedly Rises, Raising Rate Hike Concerns",
+      "summary": "New data shows Eurozone inflation unexpectedly climbed to 3.2% in November, defying predictions of a slowdown. This puts pressure on the ECB to potentially resume interest rate hikes.",
       "category": "Business",
-      "region": "Asia",
-      "urgency": "medium"
+      "region": "Europe",
+      "urgency": "high"
     },
     {
-      "headline": "International Aid Reaches Remote Communities After Caribbean Storm",
-      "summary": "Emergency supplies and medical teams have successfully reached several isolated areas devastated by a recent hurricane in the Caribbean. This provides critical relief and initiates crucial recovery efforts for affected populations.",
+      "headline": "Amazon Rainforest Fires Intensify Amid Record Dry Season",
+      "summary": "Wildfires are raging across vast areas of the Amazon, exacerbated by an unprecedented dry season. International aid efforts are mobilizing to combat the ecological crisis and protect indigenous communities.",
       "category": "World",
       "region": "Americas",
-      "urgency": "breaking"
+      "urgency": "high"
     }
-  ],
-  "fallback": true
+  ]
 }
