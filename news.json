@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2025-12-20T01:50:20.941Z",
+  "updatedAt": "2025-12-21T02:03:35.100Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2025-12-20",
+  "date": "2025-12-21",
   "stories": [
     {
-      "headline": "Middle East Peace Talks Yield Conditional Ceasefire Agreement",
-      "summary": "Rival factions in the Levant region have agreed to a conditional ceasefire following intensive UN-brokered talks. This development offers a fragile hope for de-escalation after months of conflict.",
+      "headline": "Middle East Peace Summit Yields Landmark Ceasefire Agreement",
+      "summary": "Leaders from warring factions signed a historic ceasefire, offering hope for stability after years of conflict. This marks a significant diplomatic breakthrough.",
       "category": "Politics",
       "region": "Middle East",
       "urgency": "high"
     },
     {
-      "headline": "Global AI Ethics Accord Signed by Leading Tech Nations",
-      "summary": "Over 30 nations have signed a landmark agreement on AI development and deployment ethics. This aims to establish international standards for responsible AI use and mitigate future risks.",
+      "headline": "New Quantum Computing Chip Achieves Unprecedented Processing Speed",
+      "summary": "Researchers unveiled a quantum chip that dramatically outperforms current supercomputers, promising breakthroughs in medicine and AI. It could revolutionize data processing.",
       "category": "Technology",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "New Malaria Vaccine Program Shows Promising Results in Africa",
-      "summary": "A large-scale trial of a novel malaria vaccine in several African nations has reported high efficacy rates. This could significantly reduce disease burden and save millions of lives.",
+      "headline": "Malaria Vaccine Shows 90% Efficacy in Final Clinical Trials",
+      "summary": "A new vaccine against malaria achieved high efficacy in large-scale trials, offering hope to millions in endemic regions. This could save countless lives globally.",
       "category": "Health",
       "region": "Africa",
       "urgency": "high"
     },
     {
-      "headline": "Eurozone Inflation Unexpectedly Rises, Raising Rate Hike Concerns",
-      "summary": "New data shows Eurozone inflation unexpectedly climbed to 3.2% in November, defying predictions of a slowdown. This puts pressure on the ECB to potentially resume interest rate hikes.",
-      "category": "Business",
-      "region": "Europe",
+      "headline": "Severe Flooding Displaces Millions Across Southeast Asia",
+      "summary": "Monsoon rains caused catastrophic flooding across multiple Southeast Asian nations, leading to widespread displacement and infrastructure damage. Humanitarian aid is urgently needed.",
+      "category": "World",
+      "region": "Asia",
       "urgency": "high"
     },
     {
-      "headline": "Amazon Rainforest Fires Intensify Amid Record Dry Season",
-      "summary": "Wildfires are raging across vast areas of the Amazon, exacerbated by an unprecedented dry season. International aid efforts are mobilizing to combat the ecological crisis and protect indigenous communities.",
-      "category": "World",
-      "region": "Americas",
+      "headline": "Global Markets React to Unexpected Interest Rate Hike by Major Central Bank",
+      "summary": "A surprise interest rate increase by a leading central bank caused market volatility worldwide. Investors are bracing for potential economic slowdowns.",
+      "category": "Business",
+      "region": "Global",
       "urgency": "high"
     }
   ]
