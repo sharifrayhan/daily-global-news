@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2025-12-21T02:03:35.100Z",
+  "updatedAt": "2025-12-22T02:02:49.716Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2025-12-21",
+  "date": "2025-12-22",
   "stories": [
     {
-      "headline": "Middle East Peace Summit Yields Landmark Ceasefire Agreement",
-      "summary": "Leaders from warring factions signed a historic ceasefire, offering hope for stability after years of conflict. This marks a significant diplomatic breakthrough.",
+      "headline": "New Ceasefire Proposal Gains Traction in Middle East Conflict",
+      "summary": "Major powers present a new peace plan, offering a potential path to de-escalation after months of conflict. This could save lives and stabilize the region.",
       "category": "Politics",
       "region": "Middle East",
       "urgency": "high"
     },
     {
-      "headline": "New Quantum Computing Chip Achieves Unprecedented Processing Speed",
-      "summary": "Researchers unveiled a quantum chip that dramatically outperforms current supercomputers, promising breakthroughs in medicine and AI. It could revolutionize data processing.",
+      "headline": "Global AI Ethics Council Publishes Landmark Regulatory Framework",
+      "summary": "The new framework aims to standardize AI development and deployment, addressing concerns about safety, bias, and privacy worldwide. Impacts future tech.",
       "category": "Technology",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "Malaria Vaccine Shows 90% Efficacy in Final Clinical Trials",
-      "summary": "A new vaccine against malaria achieved high efficacy in large-scale trials, offering hope to millions in endemic regions. This could save countless lives globally.",
-      "category": "Health",
-      "region": "Africa",
-      "urgency": "high"
+      "headline": "Breakthrough Gene Therapy Shows Promise for Alzheimer's Treatment",
+      "summary": "European researchers announce successful early-stage trials of a gene therapy, offering new hope for millions suffering from Alzheimer's disease.",
+      "category": "Science",
+      "region": "Europe",
+      "urgency": "medium"
     },
     {
-      "headline": "Severe Flooding Displaces Millions Across Southeast Asia",
-      "summary": "Monsoon rains caused catastrophic flooding across multiple Southeast Asian nations, leading to widespread displacement and infrastructure damage. Humanitarian aid is urgently needed.",
-      "category": "World",
-      "region": "Asia",
-      "urgency": "high"
-    },
-    {
-      "headline": "Global Markets React to Unexpected Interest Rate Hike by Major Central Bank",
-      "summary": "A surprise interest rate increase by a leading central bank caused market volatility worldwide. Investors are bracing for potential economic slowdowns.",
+      "headline": "Asian Nations Form New Trade Bloc to Boost Regional Economic Growth",
+      "summary": "Several key Asian economies finalize a new trade agreement, aiming to reduce tariffs and foster greater economic integration and stability in the region.",
       "category": "Business",
-      "region": "Global",
-      "urgency": "high"
+      "region": "Asia",
+      "urgency": "medium"
+    },
+    {
+      "headline": "Caribbean Nations Brace for Category 5 Hurricane Landfall",
+      "summary": "A powerful hurricane rapidly intensified overnight, threatening widespread devastation across multiple Caribbean islands. Evacuations are underway.",
+      "category": "World",
+      "region": "Americas",
+      "urgency": "breaking"
     }
   ]
 }
