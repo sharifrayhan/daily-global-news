@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2025-12-23T01:57:54.998Z",
+  "updatedAt": "2025-12-24T01:56:16.570Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2025-12-22",
+  "date": "2025-12-24",
   "stories": [
     {
-      "headline": "New Ceasefire Proposal Gains Traction in Middle East Conflict",
-      "summary": "Major powers present a new peace plan, offering a potential path to de-escalation after months of conflict. This could save lives and stabilize the region.",
+      "headline": "UN Security Council Passes Resolution on Global Cyber Warfare Norms",
+      "summary": "The resolution establishes new international guidelines to prevent state-sponsored cyberattacks, aiming to reduce global digital conflicts and enhance stability.",
       "category": "Politics",
-      "region": "Middle East",
-      "urgency": "high"
-    },
-    {
-      "headline": "Global AI Ethics Council Publishes Landmark Regulatory Framework",
-      "summary": "The new framework aims to standardize AI development and deployment, addressing concerns about safety, bias, and privacy worldwide. Impacts future tech.",
-      "category": "Technology",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "Breakthrough Gene Therapy Shows Promise for Alzheimer's Treatment",
-      "summary": "European researchers announce successful early-stage trials of a gene therapy, offering new hope for millions suffering from Alzheimer's disease.",
-      "category": "Science",
-      "region": "Europe",
-      "urgency": "medium"
+      "headline": "Quantum Computing Startup Achieves New Milestone in Error Correction",
+      "summary": "A leading quantum firm announced a significant breakthrough in reducing quantum error rates, accelerating the path to practical quantum applications.",
+      "category": "Technology",
+      "region": "US",
+      "urgency": "high"
     },
     {
-      "headline": "Asian Nations Form New Trade Bloc to Boost Regional Economic Growth",
-      "summary": "Several key Asian economies finalize a new trade agreement, aiming to reduce tariffs and foster greater economic integration and stability in the region.",
-      "category": "Business",
-      "region": "Asia",
-      "urgency": "medium"
-    },
-    {
-      "headline": "Caribbean Nations Brace for Category 5 Hurricane Landfall",
-      "summary": "A powerful hurricane rapidly intensified overnight, threatening widespread devastation across multiple Caribbean islands. Evacuations are underway.",
+      "headline": "East African Nations Launch Joint Initiative to Combat Desert Locust Swarms",
+      "summary": "Several countries have united to deploy advanced pest control methods against resurgent locust swarms, protecting food security for millions.",
       "category": "World",
+      "region": "Africa",
+      "urgency": "medium"
+    },
+    {
+      "headline": "Major Trade Bloc Finalizes Digital Services Tax Agreement",
+      "summary": "European Union nations reached a consensus on a harmonized digital services tax, impacting global tech giants and setting a precedent for other regions.",
+      "category": "Business",
+      "region": "Europe",
+      "urgency": "high"
+    },
+    {
+      "headline": "Deep-Sea Expedition Discovers New Ecosystem Thriving Near Volcanic Vents",
+      "summary": "Scientists found a unique ecosystem in the Pacific, revealing unknown biodiversity and offering insights into extremophile life on Earth.",
+      "category": "Science",
       "region": "Americas",
-      "urgency": "breaking"
+      "urgency": "medium"
     }
-  ],
-  "fallback": true
+  ]
 }
