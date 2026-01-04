@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-01-03T01:54:19.379Z",
+  "updatedAt": "2026-01-04T02:10:42.070Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2025-12-24",
+  "date": "2026-01-04",
   "stories": [
     {
-      "headline": "UN Security Council Passes Resolution on Global Cyber Warfare Norms",
-      "summary": "The resolution establishes new international guidelines to prevent state-sponsored cyberattacks, aiming to reduce global digital conflicts and enhance stability.",
+      "headline": "Global Leaders Reach Landmark Climate Accord on Emissions Targets",
+      "summary": "Nations agreed to aggressive new emission cuts, aiming to avert severe climate change. This sets a critical path for environmental policy.",
       "category": "Politics",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "Quantum Computing Startup Achieves New Milestone in Error Correction",
-      "summary": "A leading quantum firm announced a significant breakthrough in reducing quantum error rates, accelerating the path to practical quantum applications.",
+      "headline": "Quantum Computing Breakthrough Promises Exponential Processing Power",
+      "summary": "Researchers announced a significant leap in quantum computing stability, potentially revolutionizing data processing and AI development worldwide.",
       "category": "Technology",
-      "region": "US",
+      "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "East African Nations Launch Joint Initiative to Combat Desert Locust Swarms",
-      "summary": "Several countries have united to deploy advanced pest control methods against resurgent locust swarms, protecting food security for millions.",
+      "headline": "Renewed Fighting in Sahel Region Displaces Thousands More Civilians",
+      "summary": "Intense clashes between armed groups and government forces in the Sahel have forced over 50,000 people to flee their homes, deepening the humanitarian crisis.",
       "category": "World",
       "region": "Africa",
-      "urgency": "medium"
-    },
-    {
-      "headline": "Major Trade Bloc Finalizes Digital Services Tax Agreement",
-      "summary": "European Union nations reached a consensus on a harmonized digital services tax, impacting global tech giants and setting a precedent for other regions.",
-      "category": "Business",
-      "region": "Europe",
       "urgency": "high"
     },
     {
-      "headline": "Deep-Sea Expedition Discovers New Ecosystem Thriving Near Volcanic Vents",
-      "summary": "Scientists found a unique ecosystem in the Pacific, revealing unknown biodiversity and offering insights into extremophile life on Earth.",
-      "category": "Science",
-      "region": "Americas",
-      "urgency": "medium"
+      "headline": "Central Banks Signal Continued Vigilance Amidst Global Inflation Concerns",
+      "summary": "Major central banks indicated readiness to adjust interest rates further if inflation persists, impacting global financial markets and consumer spending.",
+      "category": "Business",
+      "region": "Global",
+      "urgency": "high"
+    },
+    {
+      "headline": "New Malaria Vaccine Shows Promising Results in Phase 3 African Trials",
+      "summary": "A novel malaria vaccine demonstrated high efficacy in large-scale trials across several African nations, offering hope against the deadly disease.",
+      "category": "Health",
+      "region": "Africa",
+      "urgency": "high"
     }
-  ],
-  "fallback": true
+  ]
 }
