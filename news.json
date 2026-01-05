@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-01-04T02:10:42.070Z",
+  "updatedAt": "2026-01-05T02:10:24.238Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-01-04",
+  "date": "2026-01-05",
   "stories": [
     {
-      "headline": "Global Leaders Reach Landmark Climate Accord on Emissions Targets",
-      "summary": "Nations agreed to aggressive new emission cuts, aiming to avert severe climate change. This sets a critical path for environmental policy.",
+      "headline": "Major Nations Agree to New Global Carbon Pricing Framework",
+      "summary": "Leading economies reached a landmark agreement on a unified carbon pricing mechanism, aiming to accelerate climate action and incentivize green technologies globally.",
       "category": "Politics",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "Quantum Computing Breakthrough Promises Exponential Processing Power",
-      "summary": "Researchers announced a significant leap in quantum computing stability, potentially revolutionizing data processing and AI development worldwide.",
+      "headline": "Quantum Computing Breakthrough Achieved by Asian Research Consortium",
+      "summary": "A consortium of universities and tech firms in Asia announced a significant leap in quantum error correction, potentially paving the way for more stable quantum processors.",
       "category": "Technology",
-      "region": "Global",
+      "region": "Asia",
       "urgency": "high"
     },
     {
-      "headline": "Renewed Fighting in Sahel Region Displaces Thousands More Civilians",
-      "summary": "Intense clashes between armed groups and government forces in the Sahel have forced over 50,000 people to flee their homes, deepening the humanitarian crisis.",
-      "category": "World",
-      "region": "Africa",
-      "urgency": "high"
-    },
-    {
-      "headline": "Central Banks Signal Continued Vigilance Amidst Global Inflation Concerns",
-      "summary": "Major central banks indicated readiness to adjust interest rates further if inflation persists, impacting global financial markets and consumer spending.",
+      "headline": "European Central Bank Holds Rates Amidst Stabilizing Inflation Data",
+      "summary": "The ECB maintained key interest rates, citing encouraging signs of inflation stabilization across the Eurozone, signaling cautious optimism for economic recovery.",
       "category": "Business",
-      "region": "Global",
+      "region": "Europe",
       "urgency": "high"
     },
     {
       "headline": "New Malaria Vaccine Shows Promising Results in Phase 3 African Trials",
-      "summary": "A novel malaria vaccine demonstrated high efficacy in large-scale trials across several African nations, offering hope against the deadly disease.",
+      "summary": "A novel malaria vaccine candidate demonstrated high efficacy in late-stage trials across several African nations, offering hope for combating the deadly disease.",
       "category": "Health",
       "region": "Africa",
       "urgency": "high"
+    },
+    {
+      "headline": "Major Humanitarian Aid Effort Launched for Caribbean Storm Victims",
+      "summary": "International agencies and governments initiated a large-scale relief operation following a devastating hurricane in the Caribbean, providing critical supplies and support.",
+      "category": "World",
+      "region": "Americas",
+      "urgency": "breaking"
     }
   ]
 }
