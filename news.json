@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-01-05T02:10:24.238Z",
+  "updatedAt": "2026-01-06T02:00:35.845Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-01-05",
+  "date": "2026-01-06",
   "stories": [
     {
-      "headline": "Major Nations Agree to New Global Carbon Pricing Framework",
-      "summary": "Leading economies reached a landmark agreement on a unified carbon pricing mechanism, aiming to accelerate climate action and incentivize green technologies globally.",
+      "headline": "EU Leaders Fail to Agree on New Migrant Quota System",
+      "summary": "Talks in Brussels collapsed over member states' resistance to mandatory migrant redistribution, deepening the bloc's asylum policy crisis. This failure prolongs uncertainty for thousands of asylum seekers.",
       "category": "Politics",
-      "region": "Global",
-      "urgency": "high"
-    },
-    {
-      "headline": "Quantum Computing Breakthrough Achieved by Asian Research Consortium",
-      "summary": "A consortium of universities and tech firms in Asia announced a significant leap in quantum error correction, potentially paving the way for more stable quantum processors.",
-      "category": "Technology",
-      "region": "Asia",
-      "urgency": "high"
-    },
-    {
-      "headline": "European Central Bank Holds Rates Amidst Stabilizing Inflation Data",
-      "summary": "The ECB maintained key interest rates, citing encouraging signs of inflation stabilization across the Eurozone, signaling cautious optimism for economic recovery.",
-      "category": "Business",
       "region": "Europe",
       "urgency": "high"
     },
     {
-      "headline": "New Malaria Vaccine Shows Promising Results in Phase 3 African Trials",
-      "summary": "A novel malaria vaccine candidate demonstrated high efficacy in late-stage trials across several African nations, offering hope for combating the deadly disease.",
-      "category": "Health",
-      "region": "Africa",
+      "headline": "Quantum Computing Breakthrough Achieved in Global Collaboration",
+      "summary": "Researchers from US and China announced a major leap in error correction for quantum processors, accelerating the path towards practical quantum applications. This could revolutionize computing and encryption.",
+      "category": "Technology",
+      "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "Major Humanitarian Aid Effort Launched for Caribbean Storm Victims",
-      "summary": "International agencies and governments initiated a large-scale relief operation following a devastating hurricane in the Caribbean, providing critical supplies and support.",
+      "headline": "Asian Markets React to China's Unexpected Interest Rate Cut",
+      "summary": "China's central bank unexpectedly lowered key interest rates to stimulate its slowing economy, impacting global trade and investment flows. This move signals concerns about growth stability.",
+      "category": "Business",
+      "region": "Asia",
+      "urgency": "high"
+    },
+    {
+      "headline": "New Malaria Vaccine Rollout Begins Across Several African Nations",
+      "summary": "A highly effective new malaria vaccine is now being administered to children in multiple African countries, promising a significant reduction in disease burden. This is a major step towards eradication.",
+      "category": "Health",
+      "region": "Africa",
+      "urgency": "medium"
+    },
+    {
+      "headline": "Escalating Tensions Reported in Red Sea Shipping Lanes",
+      "summary": "Fresh reports indicate increased attacks on commercial vessels in the Red Sea, prompting concerns over global supply chain disruptions and regional stability. International efforts to secure the vital waterway are intensifying.",
       "category": "World",
-      "region": "Americas",
-      "urgency": "breaking"
+      "region": "Middle East",
+      "urgency": "high"
     }
   ]
 }
