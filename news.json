@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-01-09T02:02:02.298Z",
+  "updatedAt": "2026-01-10T01:57:35.823Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-01-06",
+  "date": "2026-01-10",
   "stories": [
     {
-      "headline": "EU Leaders Fail to Agree on New Migrant Quota System",
-      "summary": "Talks in Brussels collapsed over member states' resistance to mandatory migrant redistribution, deepening the bloc's asylum policy crisis. This failure prolongs uncertainty for thousands of asylum seekers.",
+      "headline": "European Union Faces New Sanctions Dispute Over Energy Policy",
+      "summary": "Key EU members clash over proposed sanctions targeting a non-EU energy supplier, threatening bloc unity amid winter fuel concerns. This impacts energy prices and diplomatic relations.",
       "category": "Politics",
       "region": "Europe",
       "urgency": "high"
     },
     {
-      "headline": "Quantum Computing Breakthrough Achieved in Global Collaboration",
-      "summary": "Researchers from US and China announced a major leap in error correction for quantum processors, accelerating the path towards practical quantum applications. This could revolutionize computing and encryption.",
+      "headline": "Quantum Computing Breakthrough Achieves New Processing Speed Record",
+      "summary": "Researchers announce a significant leap in quantum processor speed, potentially accelerating drug discovery and complex data analysis globally. This marks a major step for future tech.",
       "category": "Technology",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "Asian Markets React to China's Unexpected Interest Rate Cut",
-      "summary": "China's central bank unexpectedly lowered key interest rates to stimulate its slowing economy, impacting global trade and investment flows. This move signals concerns about growth stability.",
+      "headline": "Major Asian Manufacturing Hub Reports Unexpected Economic Slowdown",
+      "summary": "A key Asian economy reports its lowest quarterly growth in five years, signaling potential global supply chain disruptions and market volatility.",
       "category": "Business",
       "region": "Asia",
       "urgency": "high"
     },
     {
-      "headline": "New Malaria Vaccine Rollout Begins Across Several African Nations",
-      "summary": "A highly effective new malaria vaccine is now being administered to children in multiple African countries, promising a significant reduction in disease burden. This is a major step towards eradication.",
+      "headline": "New Malaria Vaccine Pilot Program Shows Promising Results in Africa",
+      "summary": "A large-scale pilot of a novel malaria vaccine demonstrates high efficacy in several African nations, offering hope for millions. This could drastically reduce disease burden.",
       "category": "Health",
       "region": "Africa",
-      "urgency": "medium"
+      "urgency": "high"
     },
     {
-      "headline": "Escalating Tensions Reported in Red Sea Shipping Lanes",
-      "summary": "Fresh reports indicate increased attacks on commercial vessels in the Red Sea, prompting concerns over global supply chain disruptions and regional stability. International efforts to secure the vital waterway are intensifying.",
+      "headline": "Severe Drought Intensifies Food Security Crisis in South American Region",
+      "summary": "Prolonged drought in parts of South America exacerbates food shortages and displaces communities, prompting urgent international aid appeals.",
       "category": "World",
-      "region": "Middle East",
+      "region": "Americas",
       "urgency": "high"
     }
-  ],
-  "fallback": true
+  ]
 }
