@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-01-10T01:57:35.823Z",
+  "updatedAt": "2026-01-11T02:10:15.066Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-01-10",
+  "date": "2026-01-11",
   "stories": [
     {
-      "headline": "European Union Faces New Sanctions Dispute Over Energy Policy",
-      "summary": "Key EU members clash over proposed sanctions targeting a non-EU energy supplier, threatening bloc unity amid winter fuel concerns. This impacts energy prices and diplomatic relations.",
+      "headline": "EU Leaders Agree Provisional Climate Funding Mechanism",
+      "summary": "European Union leaders have reached a preliminary deal on a new fund to support green initiatives, signaling a unified push for environmental goals. This impacts global climate efforts.",
       "category": "Politics",
       "region": "Europe",
       "urgency": "high"
     },
     {
-      "headline": "Quantum Computing Breakthrough Achieves New Processing Speed Record",
-      "summary": "Researchers announce a significant leap in quantum processor speed, potentially accelerating drug discovery and complex data analysis globally. This marks a major step for future tech.",
+      "headline": "Asian Tech Giant Unveils Quantum Computing Breakthrough",
+      "summary": "A leading Asian technology company announced a significant advance in quantum computing, potentially revolutionizing data processing speeds and cybersecurity globally.",
       "category": "Technology",
-      "region": "Global",
-      "urgency": "high"
-    },
-    {
-      "headline": "Major Asian Manufacturing Hub Reports Unexpected Economic Slowdown",
-      "summary": "A key Asian economy reports its lowest quarterly growth in five years, signaling potential global supply chain disruptions and market volatility.",
-      "category": "Business",
       "region": "Asia",
       "urgency": "high"
     },
     {
-      "headline": "New Malaria Vaccine Pilot Program Shows Promising Results in Africa",
-      "summary": "A large-scale pilot of a novel malaria vaccine demonstrates high efficacy in several African nations, offering hope for millions. This could drastically reduce disease burden.",
+      "headline": "US Inflation Rises Unexpectedly, Fueling Rate Hike Fears",
+      "summary": "New economic data reveals a surprising uptick in US inflation, leading to significant market volatility and increasing speculation about potential Federal Reserve interest rate hikes.",
+      "category": "Business",
+      "region": "US",
+      "urgency": "high"
+    },
+    {
+      "headline": "New Vaccine Initiative Targets Resurgent Disease in West Africa",
+      "summary": "A major international consortium launched a new vaccine distribution program across West Africa to combat a rapidly spreading tropical disease, aiming to save millions of lives.",
       "category": "Health",
       "region": "Africa",
       "urgency": "high"
     },
     {
-      "headline": "Severe Drought Intensifies Food Security Crisis in South American Region",
-      "summary": "Prolonged drought in parts of South America exacerbates food shortages and displaces communities, prompting urgent international aid appeals.",
+      "headline": "Middle East Tensions Rise After Border Skirmish",
+      "summary": "A cross-border incident in the Middle East has led to increased regional tensions, drawing swift condemnation from international bodies and calls for de-escalation.",
       "category": "World",
-      "region": "Americas",
-      "urgency": "high"
+      "region": "Middle East",
+      "urgency": "breaking"
     }
   ]
 }
