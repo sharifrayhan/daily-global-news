@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-01-16T02:02:21.816Z",
+  "updatedAt": "2026-01-17T01:56:19.138Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-01-11",
+  "date": "2026-01-17",
   "stories": [
     {
-      "headline": "EU Leaders Agree Provisional Climate Funding Mechanism",
-      "summary": "European Union leaders have reached a preliminary deal on a new fund to support green initiatives, signaling a unified push for environmental goals. This impacts global climate efforts.",
-      "category": "Politics",
+      "headline": "UN Security Council Approves Major Humanitarian Aid Resolution for Gaza",
+      "summary": "This marks a critical diplomatic breakthrough, aiming to ease severe suffering and stabilize the volatile region.",
+      "category": "World",
+      "region": "Middle East",
+      "urgency": "high"
+    },
+    {
+      "headline": "Tech Giant Unveils Breakthrough Energy-Efficient AI Processor",
+      "summary": "This innovation promises to dramatically cut data center power consumption, impacting global sustainability efforts.",
+      "category": "Technology",
+      "region": "Global",
+      "urgency": "medium"
+    },
+    {
+      "headline": "ECB Signals Potential Interest Rate Cuts Amidst Economic Slowdown",
+      "summary": "This move aims to boost investment and consumer spending across the Eurozone, impacting global markets.",
+      "category": "Business",
       "region": "Europe",
       "urgency": "high"
     },
     {
-      "headline": "Asian Tech Giant Unveils Quantum Computing Breakthrough",
-      "summary": "A leading Asian technology company announced a significant advance in quantum computing, potentially revolutionizing data processing speeds and cybersecurity globally.",
-      "category": "Technology",
-      "region": "Asia",
+      "headline": "Novel Malaria Vaccine Shows Promising Phase 3 Trial Results",
+      "summary": "This breakthrough offers hope for eradicating a disease that affects millions, especially in Africa and Asia.",
+      "category": "Health",
+      "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "US Inflation Rises Unexpectedly, Fueling Rate Hike Fears",
-      "summary": "New economic data reveals a surprising uptick in US inflation, leading to significant market volatility and increasing speculation about potential Federal Reserve interest rate hikes.",
-      "category": "Business",
+      "headline": "US Congress Passes Landmark Infrastructure Modernization Bill",
+      "summary": "This bipartisan legislation aims to create jobs, upgrade critical infrastructure, and boost long-term economic growth.",
+      "category": "Politics",
       "region": "US",
       "urgency": "high"
-    },
-    {
-      "headline": "New Vaccine Initiative Targets Resurgent Disease in West Africa",
-      "summary": "A major international consortium launched a new vaccine distribution program across West Africa to combat a rapidly spreading tropical disease, aiming to save millions of lives.",
-      "category": "Health",
-      "region": "Africa",
-      "urgency": "high"
-    },
-    {
-      "headline": "Middle East Tensions Rise After Border Skirmish",
-      "summary": "A cross-border incident in the Middle East has led to increased regional tensions, drawing swift condemnation from international bodies and calls for de-escalation.",
-      "category": "World",
-      "region": "Middle East",
-      "urgency": "breaking"
     }
-  ],
-  "fallback": true
+  ]
 }
