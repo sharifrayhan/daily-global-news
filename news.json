@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-01-21T02:05:02.585Z",
+  "updatedAt": "2026-01-22T02:05:40.346Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-01-17",
+  "date": "2026-01-22",
   "stories": [
     {
-      "headline": "UN Security Council Approves Major Humanitarian Aid Resolution for Gaza",
-      "summary": "This marks a critical diplomatic breakthrough, aiming to ease severe suffering and stabilize the volatile region.",
-      "category": "World",
-      "region": "Middle East",
-      "urgency": "high"
-    },
-    {
-      "headline": "Tech Giant Unveils Breakthrough Energy-Efficient AI Processor",
-      "summary": "This innovation promises to dramatically cut data center power consumption, impacting global sustainability efforts.",
-      "category": "Technology",
-      "region": "Global",
-      "urgency": "medium"
-    },
-    {
-      "headline": "ECB Signals Potential Interest Rate Cuts Amidst Economic Slowdown",
-      "summary": "This move aims to boost investment and consumer spending across the Eurozone, impacting global markets.",
-      "category": "Business",
+      "headline": "EU Leaders Agree on Ambitious 2040 Climate Emissions Reduction Targets",
+      "summary": "European Union leaders concluded a summit, agreeing to new, more ambitious 2040 climate targets. This signifies a strong commitment to global climate action and could influence other major economies.",
+      "category": "Politics",
       "region": "Europe",
       "urgency": "high"
     },
     {
-      "headline": "Novel Malaria Vaccine Shows Promising Phase 3 Trial Results",
-      "summary": "This breakthrough offers hope for eradicating a disease that affects millions, especially in Africa and Asia.",
-      "category": "Health",
+      "headline": "UN Panel Proposes Global AI Ethics Framework to Guide Development",
+      "summary": "A UN expert panel unveiled a comprehensive global framework for AI ethics, aiming to ensure responsible development and deployment. This could set international standards for AI governance.",
+      "category": "Technology",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "US Congress Passes Landmark Infrastructure Modernization Bill",
-      "summary": "This bipartisan legislation aims to create jobs, upgrade critical infrastructure, and boost long-term economic growth.",
-      "category": "Politics",
-      "region": "US",
+      "headline": "New Malaria Vaccine Distribution Program Launched Across African Nations",
+      "summary": "A large-scale distribution program for a highly effective new malaria vaccine has begun in several African countries. This initiative promises to significantly reduce malaria mortality and morbidity.",
+      "category": "Health",
+      "region": "Africa",
       "urgency": "high"
+    },
+    {
+      "headline": "ASEAN Nations Finalize Major Digital Economy Trade Agreement",
+      "summary": "Several ASEAN member states finalized a significant digital economy trade agreement, expected to boost regional commerce and innovation. This agreement aims to streamline digital trade and investment.",
+      "category": "Business",
+      "region": "Asia",
+      "urgency": "medium"
+    },
+    {
+      "headline": "UN Warns of Worsening Humanitarian Crisis in Beleaguered Latin American Nation",
+      "summary": "The UN issued an urgent warning about the escalating humanitarian crisis in a specific Latin American country, citing severe food shortages and displacement. International aid efforts are being intensified.",
+      "category": "World",
+      "region": "Americas",
+      "urgency": "breaking"
     }
-  ],
-  "fallback": true
+  ]
 }
