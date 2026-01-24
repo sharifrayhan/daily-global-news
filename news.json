@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-01-23T02:01:45.720Z",
+  "updatedAt": "2026-01-24T01:58:04.827Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-01-22",
+  "date": "2026-01-24",
   "stories": [
     {
-      "headline": "EU Leaders Agree on Ambitious 2040 Climate Emissions Reduction Targets",
-      "summary": "European Union leaders concluded a summit, agreeing to new, more ambitious 2040 climate targets. This signifies a strong commitment to global climate action and could influence other major economies.",
+      "headline": "UN Climate Talks Reach Tentative Deal on Carbon Emission Targets",
+      "summary": "Nations tentatively agree on new carbon emission reduction targets. This could significantly impact global efforts against climate change.",
       "category": "Politics",
-      "region": "Europe",
-      "urgency": "high"
-    },
-    {
-      "headline": "UN Panel Proposes Global AI Ethics Framework to Guide Development",
-      "summary": "A UN expert panel unveiled a comprehensive global framework for AI ethics, aiming to ensure responsible development and deployment. This could set international standards for AI governance.",
-      "category": "Technology",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "New Malaria Vaccine Distribution Program Launched Across African Nations",
-      "summary": "A large-scale distribution program for a highly effective new malaria vaccine has begun in several African countries. This initiative promises to significantly reduce malaria mortality and morbidity.",
+      "headline": "Leading Tech Firm Unveils Breakthrough AI Processor for Edge Computing",
+      "summary": "A major tech company launched a new AI processor, promising faster, more efficient on-device AI. This could revolutionize personal tech.",
+      "category": "Technology",
+      "region": "US",
+      "urgency": "high"
+    },
+    {
+      "headline": "New Malaria Vaccine Shows Promising Results in Phase 3 African Trials",
+      "summary": "A novel malaria vaccine demonstrated high efficacy in late-stage trials across Africa. This offers hope for combating a major global health burden.",
       "category": "Health",
       "region": "Africa",
       "urgency": "high"
     },
     {
-      "headline": "ASEAN Nations Finalize Major Digital Economy Trade Agreement",
-      "summary": "Several ASEAN member states finalized a significant digital economy trade agreement, expected to boost regional commerce and innovation. This agreement aims to streamline digital trade and investment.",
+      "headline": "Suez Canal Shipping Resumes Full Capacity After Week-Long Disruptions",
+      "summary": "Shipping through the Suez Canal returned to normal operations after recent disruptions. This eases concerns about global supply chain delays.",
       "category": "Business",
-      "region": "Asia",
+      "region": "Middle East",
       "urgency": "medium"
     },
     {
-      "headline": "UN Warns of Worsening Humanitarian Crisis in Beleaguered Latin American Nation",
-      "summary": "The UN issued an urgent warning about the escalating humanitarian crisis in a specific Latin American country, citing severe food shortages and displacement. International aid efforts are being intensified.",
-      "category": "World",
-      "region": "Americas",
-      "urgency": "breaking"
+      "headline": "European Union Finalizes Digital Services Act Enforcement Framework",
+      "summary": "The EU approved its framework for enforcing the Digital Services Act. This will reshape online content moderation and platform accountability.",
+      "category": "Politics",
+      "region": "Europe",
+      "urgency": "high"
     }
-  ],
-  "fallback": true
+  ]
 }
