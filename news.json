@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-01-25T02:12:31.212Z",
+  "updatedAt": "2026-01-26T02:11:47.621Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-01-24",
+  "date": "2026-01-26",
   "stories": [
     {
-      "headline": "UN Climate Talks Reach Tentative Deal on Carbon Emission Targets",
-      "summary": "Nations tentatively agree on new carbon emission reduction targets. This could significantly impact global efforts against climate change.",
+      "headline": "EU Leaders Agree on Ambitious 2040 Climate Targets",
+      "summary": "European Union leaders have finalized a new package of climate goals for 2040, aiming for significant emissions reductions. This sets a global precedent for environmental policy and sustainable development.",
       "category": "Politics",
-      "region": "Global",
+      "region": "Europe",
       "urgency": "high"
     },
     {
-      "headline": "Leading Tech Firm Unveils Breakthrough AI Processor for Edge Computing",
-      "summary": "A major tech company launched a new AI processor, promising faster, more efficient on-device AI. This could revolutionize personal tech.",
+      "headline": "UN Panel Proposes Global AI Ethics and Governance Framework",
+      "summary": "A UN-backed expert panel unveiled a comprehensive framework for ethical AI development and governance, urging international cooperation. This aims to ensure responsible and equitable AI use worldwide.",
       "category": "Technology",
-      "region": "US",
+      "region": "Global",
+      "urgency": "medium"
+    },
+    {
+      "headline": "Asian Markets Drop After Surprise Rate Hike in Major Economy",
+      "summary": "Stock markets across Asia saw significant declines following an unexpected interest rate increase by a key central bank. This move signals concerns about inflation and could impact global economic stability.",
+      "category": "Business",
+      "region": "Asia",
       "urgency": "high"
     },
     {
-      "headline": "New Malaria Vaccine Shows Promising Results in Phase 3 African Trials",
-      "summary": "A novel malaria vaccine demonstrated high efficacy in late-stage trials across Africa. This offers hope for combating a major global health burden.",
-      "category": "Health",
+      "headline": "Promising Malaria Vaccine Trial Results Announced in Africa",
+      "summary": "A new malaria vaccine candidate has shown high efficacy in late-stage trials across several African nations. This breakthrough offers significant hope for combating a major global health challenge.",
+      "category": "Science",
       "region": "Africa",
       "urgency": "high"
     },
     {
-      "headline": "Suez Canal Shipping Resumes Full Capacity After Week-Long Disruptions",
-      "summary": "Shipping through the Suez Canal returned to normal operations after recent disruptions. This eases concerns about global supply chain delays.",
-      "category": "Business",
+      "headline": "Regional Tensions Escalate in Middle East Border Clash",
+      "summary": "A border skirmish between two nations in the Middle East has led to increased military deployments and casualties. International bodies are calling for immediate de-escalation to prevent wider conflict.",
+      "category": "World",
       "region": "Middle East",
-      "urgency": "medium"
-    },
-    {
-      "headline": "European Union Finalizes Digital Services Act Enforcement Framework",
-      "summary": "The EU approved its framework for enforcing the Digital Services Act. This will reshape online content moderation and platform accountability.",
-      "category": "Politics",
-      "region": "Europe",
-      "urgency": "high"
+      "urgency": "breaking"
     }
-  ],
-  "fallback": true
+  ]
 }
