@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-02-04T02:27:04.213Z",
+  "updatedAt": "2026-02-05T02:28:59.287Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-02-01",
+  "date": "2026-02-05",
   "stories": [
     {
-      "headline": "Global Leaders Adopt Ambitious New Climate Action Framework",
-      "summary": "Nations finalized a landmark UN treaty setting aggressive carbon reduction targets, aiming to accelerate worldwide climate action and sustainable development.",
+      "headline": "Ceasefire Holds in Gaza Amid Hopes for Lasting Peace Negotiations",
+      "summary": "A newly brokered ceasefire between Israeli forces and Hamas has held for 24 hours, raising cautious optimism for sustained peace talks. This impacts regional stability and humanitarian aid efforts significantly.",
       "category": "Politics",
+      "region": "Middle East",
+      "urgency": "high"
+    },
+    {
+      "headline": "Quantum AI Breakthrough Accelerates Drug Discovery Research Globally",
+      "summary": "Researchers announced a significant leap in quantum AI, drastically reducing the time for complex molecular simulations. This could revolutionize medicine and material science worldwide, promising faster development.",
+      "category": "Technology",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "Leading Tech Firm Unveils Powerful New Multimodal AI Model",
-      "summary": "A major US tech company launched its latest AI, capable of advanced reasoning across diverse data types. This could transform industries and daily life.",
-      "category": "Technology",
-      "region": "US",
+      "headline": "Eurozone Inflation Falls Sharply, Easing Pressure on ECB Policy",
+      "summary": "New data shows Eurozone inflation dropped more than expected in January, signaling potential relief for consumers and businesses. This may influence future European Central Bank interest rate decisions.",
+      "category": "Business",
+      "region": "Europe",
       "urgency": "high"
     },
     {
-      "headline": "Eurozone Economy Exceeds Expectations with Strong Q4 Growth",
-      "summary": "New data shows the Eurozone economy grew more than anticipated last quarter, boosting investor confidence and easing recession fears across the continent.",
-      "category": "Business",
-      "region": "Europe",
-      "urgency": "medium"
-    },
-    {
-      "headline": "Promising New Malaria Vaccine Shows High Efficacy in Africa",
-      "summary": "A new malaria vaccine demonstrated high efficacy in late-stage trials in several African nations, offering hope to save millions of lives in the region.",
+      "headline": "New Malaria Vaccine Shows High Efficacy in African Clinical Trials",
+      "summary": "Final-stage clinical trials in several African nations confirm a new malaria vaccine is highly effective and safe. This offers a major new tool against a disease affecting millions globally, especially children.",
       "category": "Health",
       "region": "Africa",
       "urgency": "high"
     },
     {
-      "headline": "Red Sea Shipping Disruptions Escalate Amid Renewed Attacks",
-      "summary": "Increased attacks on commercial vessels in the Red Sea have led to significant global shipping delays and calls for stronger international intervention.",
+      "headline": "Extreme Winter Storms Cause Widespread Disruption Across US Midwest",
+      "summary": "A powerful winter storm brought record snowfall and freezing temperatures, leading to extensive power outages and travel chaos. Millions are affected, highlighting the increasing intensity of weather events.",
       "category": "World",
-      "region": "Middle East",
+      "region": "US",
       "urgency": "high"
     }
-  ],
-  "fallback": true
+  ]
 }
