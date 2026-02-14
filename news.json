@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-02-13T02:38:46.246Z",
+  "updatedAt": "2026-02-14T02:26:12.636Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-02-05",
+  "date": "2026-02-14",
   "stories": [
     {
-      "headline": "Ceasefire Holds in Gaza Amid Hopes for Lasting Peace Negotiations",
-      "summary": "A newly brokered ceasefire between Israeli forces and Hamas has held for 24 hours, raising cautious optimism for sustained peace talks. This impacts regional stability and humanitarian aid efforts significantly.",
+      "headline": "EU Parliament Approves Landmark AI Ethics and Governance Framework",
+      "summary": "The EU Parliament passed comprehensive AI regulations, setting a global precedent for responsible AI development and deployment. This impacts tech companies and user privacy worldwide.",
       "category": "Politics",
-      "region": "Middle East",
+      "region": "Europe",
       "urgency": "high"
     },
     {
-      "headline": "Quantum AI Breakthrough Accelerates Drug Discovery Research Globally",
-      "summary": "Researchers announced a significant leap in quantum AI, drastically reducing the time for complex molecular simulations. This could revolutionize medicine and material science worldwide, promising faster development.",
+      "headline": "Quantum Computing Breakthrough Achieved by Global Tech Consortium",
+      "summary": "Researchers announced a significant leap in quantum error correction, accelerating the timeline for practical quantum computers. This could revolutionize industries from finance to medicine.",
       "category": "Technology",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "Eurozone Inflation Falls Sharply, Easing Pressure on ECB Policy",
-      "summary": "New data shows Eurozone inflation dropped more than expected in January, signaling potential relief for consumers and businesses. This may influence future European Central Bank interest rate decisions.",
+      "headline": "Asian Markets React to China's Unexpected Q4 Economic Slowdown",
+      "summary": "China reported lower-than-expected Q4 growth, sparking concerns about global supply chains and commodity demand. This could impact worldwide economic stability.",
       "category": "Business",
-      "region": "Europe",
+      "region": "Asia",
       "urgency": "high"
     },
     {
-      "headline": "New Malaria Vaccine Shows High Efficacy in African Clinical Trials",
-      "summary": "Final-stage clinical trials in several African nations confirm a new malaria vaccine is highly effective and safe. This offers a major new tool against a disease affecting millions globally, especially children.",
+      "headline": "New Malaria Vaccine Shows Promising Results in Phase 3 African Trials",
+      "summary": "A novel malaria vaccine demonstrated high efficacy in large-scale trials across several African nations. This offers hope for significantly reducing disease burden globally.",
       "category": "Health",
       "region": "Africa",
       "urgency": "high"
     },
     {
-      "headline": "Extreme Winter Storms Cause Widespread Disruption Across US Midwest",
-      "summary": "A powerful winter storm brought record snowfall and freezing temperatures, leading to extensive power outages and travel chaos. Millions are affected, highlighting the increasing intensity of weather events.",
+      "headline": "UN Security Council Calls Emergency Session on Escalating Regional Conflict",
+      "summary": "The UN Security Council convened urgently following renewed clashes in a volatile Middle Eastern region. Diplomatic efforts are underway to prevent wider destabilization.",
       "category": "World",
-      "region": "US",
-      "urgency": "high"
+      "region": "Middle East",
+      "urgency": "breaking"
     }
-  ],
-  "fallback": true
+  ]
 }
