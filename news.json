@@ -1,42 +1,35 @@
 {
-  "updatedAt": "2026-02-14T02:26:12.636Z",
+  "updatedAt": "2026-02-15T02:39:11.290Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-02-14",
+  "date": "2026-02-15",
   "stories": [
     {
-      "headline": "EU Parliament Approves Landmark AI Ethics and Governance Framework",
-      "summary": "The EU Parliament passed comprehensive AI regulations, setting a global precedent for responsible AI development and deployment. This impacts tech companies and user privacy worldwide.",
-      "category": "Politics",
-      "region": "Europe",
-      "urgency": "high"
-    },
-    {
-      "headline": "Quantum Computing Breakthrough Achieved by Global Tech Consortium",
-      "summary": "Researchers announced a significant leap in quantum error correction, accelerating the timeline for practical quantum computers. This could revolutionize industries from finance to medicine.",
+      "headline": "Leading AI Consortium Unveils New Global Safety and Ethics Standards",
+      "summary": "This initiative aims to guide responsible AI development and deployment, addressing growing concerns over misuse and bias.",
       "category": "Technology",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "Asian Markets React to China's Unexpected Q4 Economic Slowdown",
-      "summary": "China reported lower-than-expected Q4 growth, sparking concerns about global supply chains and commodity demand. This could impact worldwide economic stability.",
+      "headline": "Asia's Manufacturing Sector Shows Unexpected Q4 Growth Amid Global Demand",
+      "summary": "Strong export performance and domestic consumption indicate resilience, potentially offsetting earlier economic slowdown fears.",
       "category": "Business",
       "region": "Asia",
-      "urgency": "high"
+      "urgency": "medium"
     },
     {
-      "headline": "New Malaria Vaccine Shows Promising Results in Phase 3 African Trials",
-      "summary": "A novel malaria vaccine demonstrated high efficacy in large-scale trials across several African nations. This offers hope for significantly reducing disease burden globally.",
-      "category": "Health",
+      "headline": "East Africa Faces Worsening Food Crisis Amid Prolonged Drought Conditions",
+      "summary": "Millions are at risk of severe hunger as failed rains devastate crops and livestock, prompting urgent international appeals.",
+      "category": "World",
       "region": "Africa",
       "urgency": "high"
     },
     {
-      "headline": "UN Security Council Calls Emergency Session on Escalating Regional Conflict",
-      "summary": "The UN Security Council convened urgently following renewed clashes in a volatile Middle Eastern region. Diplomatic efforts are underway to prevent wider destabilization.",
-      "category": "World",
-      "region": "Middle East",
+      "headline": "Landmark Study Confirms Effectiveness of New Alzheimer's Drug Candidate",
+      "summary": "Phase 3 trial results show significant slowing of cognitive decline, offering new hope for millions affected by the disease.",
+      "category": "Health",
+      "region": "US",
       "urgency": "breaking"
     }
   ]
