@@ -1,37 +1,43 @@
 {
-  "updatedAt": "2026-02-21T02:23:13.920Z",
+  "updatedAt": "2026-02-22T02:34:26.850Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-02-15",
+  "date": "2026-02-22",
   "stories": [
     {
-      "headline": "Leading AI Consortium Unveils New Global Safety and Ethics Standards",
-      "summary": "This initiative aims to guide responsible AI development and deployment, addressing growing concerns over misuse and bias.",
+      "headline": "EU Leaders Agree on New Common Security and Defense Strategy",
+      "summary": "European Union leaders reached a landmark agreement on a unified defense framework, aiming to bolster regional stability and collective response capabilities.",
+      "category": "Politics",
+      "region": "Europe",
+      "urgency": "high"
+    },
+    {
+      "headline": "Global Tech Firms Launch AI Ethics Pact and Open-Source Safety Initiative",
+      "summary": "Leading tech companies signed a pact for ethical AI development and pledged to open-source key AI safety research, promoting responsible innovation.",
       "category": "Technology",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "Asia's Manufacturing Sector Shows Unexpected Q4 Growth Amid Global Demand",
-      "summary": "Strong export performance and domestic consumption indicate resilience, potentially offsetting earlier economic slowdown fears.",
+      "headline": "US Federal Reserve Signals Potential Interest Rate Hike Amid Inflation",
+      "summary": "The Federal Reserve indicated a possible interest rate increase, citing persistent inflationary pressures. This could impact global markets and consumer spending.",
       "category": "Business",
-      "region": "Asia",
-      "urgency": "medium"
+      "region": "US",
+      "urgency": "high"
     },
     {
-      "headline": "East Africa Faces Worsening Food Crisis Amid Prolonged Drought Conditions",
-      "summary": "Millions are at risk of severe hunger as failed rains devastate crops and livestock, prompting urgent international appeals.",
-      "category": "World",
+      "headline": "Breakthrough Malaria Vaccine Shows High Efficacy in African Trials",
+      "summary": "Phase 3 clinical trials for a new malaria vaccine in Africa reported significantly high efficacy rates, offering immense hope for disease eradication.",
+      "category": "Health",
       "region": "Africa",
       "urgency": "high"
     },
     {
-      "headline": "Landmark Study Confirms Effectiveness of New Alzheimer's Drug Candidate",
-      "summary": "Phase 3 trial results show significant slowing of cognitive decline, offering new hope for millions affected by the disease.",
-      "category": "Health",
-      "region": "US",
-      "urgency": "breaking"
+      "headline": "Severe Drought Grips Southeast Asia, Raising Food Security Concerns",
+      "summary": "An extended period of severe drought across multiple Southeast Asian countries is causing widespread crop failures and escalating concerns over food security.",
+      "category": "World",
+      "region": "Asia",
+      "urgency": "high"
     }
-  ],
-  "fallback": true
+  ]
 }
