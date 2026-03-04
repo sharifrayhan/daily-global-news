@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-03-03T02:33:02.455Z",
+  "updatedAt": "2026-03-04T02:26:13.391Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-02-22",
+  "date": "2026-03-04",
   "stories": [
     {
-      "headline": "EU Leaders Agree on New Common Security and Defense Strategy",
-      "summary": "European Union leaders reached a landmark agreement on a unified defense framework, aiming to bolster regional stability and collective response capabilities.",
+      "headline": "EU Leaders Announce Major New Aid Package for Ukraine Amid Conflict",
+      "summary": "European Union leaders committed billions in new financial and military aid to Ukraine, bolstering its defense against ongoing aggression. This signals continued strong support for Kyiv.",
       "category": "Politics",
       "region": "Europe",
       "urgency": "high"
     },
     {
-      "headline": "Global Tech Firms Launch AI Ethics Pact and Open-Source Safety Initiative",
-      "summary": "Leading tech companies signed a pact for ethical AI development and pledged to open-source key AI safety research, promoting responsible innovation.",
+      "headline": "Leading AI Firm Unveils Next-Gen Language Model with Enhanced Capabilities",
+      "summary": "A major tech company launched its latest AI language model, demonstrating significant improvements in reasoning and creativity. This could accelerate AI integration across various industries globally.",
       "category": "Technology",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "US Federal Reserve Signals Potential Interest Rate Hike Amid Inflation",
-      "summary": "The Federal Reserve indicated a possible interest rate increase, citing persistent inflationary pressures. This could impact global markets and consumer spending.",
+      "headline": "China's Manufacturing PMI Shows Unexpected Growth Amid Global Demand Surge",
+      "summary": "China's purchasing managers' index rose, indicating stronger manufacturing activity than anticipated. This suggests a potential rebound in global supply chains and economic stability.",
       "category": "Business",
-      "region": "US",
-      "urgency": "high"
+      "region": "Asia",
+      "urgency": "medium"
     },
     {
-      "headline": "Breakthrough Malaria Vaccine Shows High Efficacy in African Trials",
-      "summary": "Phase 3 clinical trials for a new malaria vaccine in Africa reported significantly high efficacy rates, offering immense hope for disease eradication.",
+      "headline": "New Malaria Vaccine Pilot Program Shows Promising Results in African Nations",
+      "summary": "Initial data from a large-scale malaria vaccine pilot in several African countries indicates high efficacy rates. This offers significant hope for reducing the disease burden across the continent.",
       "category": "Health",
       "region": "Africa",
       "urgency": "high"
     },
     {
-      "headline": "Severe Drought Grips Southeast Asia, Raising Food Security Concerns",
-      "summary": "An extended period of severe drought across multiple Southeast Asian countries is causing widespread crop failures and escalating concerns over food security.",
+      "headline": "Tensions Rise in Red Sea After New Shipping Incident; Global Trade Impact Feared",
+      "summary": "A new incident involving a commercial vessel in the Red Sea has escalated regional tensions, raising concerns about maritime security. This threatens crucial global shipping lanes and could disrupt supply chains.",
       "category": "World",
-      "region": "Asia",
-      "urgency": "high"
+      "region": "Middle East",
+      "urgency": "breaking"
     }
-  ],
-  "fallback": true
+  ]
 }
