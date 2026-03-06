@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-03-05T02:28:57.173Z",
+  "updatedAt": "2026-03-06T02:27:05.760Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-03-04",
+  "date": "2026-03-06",
   "stories": [
     {
-      "headline": "EU Leaders Announce Major New Aid Package for Ukraine Amid Conflict",
-      "summary": "European Union leaders committed billions in new financial and military aid to Ukraine, bolstering its defense against ongoing aggression. This signals continued strong support for Kyiv.",
+      "headline": "EU Leaders Discuss New Ukraine Aid Package Amid Budget Debates",
+      "summary": "European heads of state are convening to finalize a critical military and financial aid package for Ukraine, crucial for its defense and economic stability.",
       "category": "Politics",
       "region": "Europe",
       "urgency": "high"
     },
     {
-      "headline": "Leading AI Firm Unveils Next-Gen Language Model with Enhanced Capabilities",
-      "summary": "A major tech company launched its latest AI language model, demonstrating significant improvements in reasoning and creativity. This could accelerate AI integration across various industries globally.",
+      "headline": "Leading Tech Firms Adopt Global AI Ethics Framework",
+      "summary": "Several major technology companies have agreed to a new international framework for ethical AI development, aiming to ensure responsible innovation and mitigate risks.",
       "category": "Technology",
       "region": "Global",
-      "urgency": "high"
-    },
-    {
-      "headline": "China's Manufacturing PMI Shows Unexpected Growth Amid Global Demand Surge",
-      "summary": "China's purchasing managers' index rose, indicating stronger manufacturing activity than anticipated. This suggests a potential rebound in global supply chains and economic stability.",
-      "category": "Business",
-      "region": "Asia",
       "urgency": "medium"
     },
     {
-      "headline": "New Malaria Vaccine Pilot Program Shows Promising Results in African Nations",
-      "summary": "Initial data from a large-scale malaria vaccine pilot in several African countries indicates high efficacy rates. This offers significant hope for reducing the disease burden across the continent.",
+      "headline": "Asian Central Bank Raises Interest Rates Amid Persistent Inflation Fears",
+      "summary": "A prominent Asian central bank hiked its key interest rate to combat rising inflation, signaling ongoing economic challenges for the region.",
+      "category": "Business",
+      "region": "Asia",
+      "urgency": "high"
+    },
+    {
+      "headline": "New Malaria Vaccine Distribution Program Launched Across Africa",
+      "summary": "A significant new initiative has begun distributing an advanced malaria vaccine across several African nations, promising to save millions of lives.",
       "category": "Health",
       "region": "Africa",
       "urgency": "high"
     },
     {
-      "headline": "Tensions Rise in Red Sea After New Shipping Incident; Global Trade Impact Feared",
-      "summary": "A new incident involving a commercial vessel in the Red Sea has escalated regional tensions, raising concerns about maritime security. This threatens crucial global shipping lanes and could disrupt supply chains.",
+      "headline": "Devastating Floods Displace Thousands in South American Nation",
+      "summary": "Torrential rains have caused widespread flooding in a South American country, leading to mass evacuations and significant infrastructure damage.",
       "category": "World",
-      "region": "Middle East",
+      "region": "Americas",
       "urgency": "breaking"
     }
-  ],
-  "fallback": true
+  ]
 }
