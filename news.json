@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-03-08T02:32:03.225Z",
+  "updatedAt": "2026-03-09T02:33:09.367Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-03-08",
+  "date": "2026-03-09",
   "stories": [
     {
-      "headline": "UN Security Council Deadlock on Sanctions Amid Rising Tensions",
-      "summary": "Member states failed to reach consensus on new sanctions for a conflict zone, underscoring deep geopolitical divisions and hindering de-escalation efforts.",
+      "headline": "EU Leaders Debate Ambitious 2040 Climate Targets Amid Economic Concerns",
+      "summary": "European Union leaders are meeting to finalize new, stricter climate goals for 2040, facing resistance from some nations concerned about economic impact. This will shape Europe's green transition.",
       "category": "Politics",
+      "region": "Europe",
+      "urgency": "high"
+    },
+    {
+      "headline": "UN Panel Proposes Global Framework for AI Governance and Ethics",
+      "summary": "A UN expert panel unveiled a draft global framework for AI regulation, aiming to ensure ethical development and prevent misuse. This could standardize international AI policy.",
+      "category": "Technology",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "US Lawmakers Introduce Bipartisan Bill for AI Regulation",
-      "summary": "A new bill aims to establish federal oversight for advanced AI development and deployment, seeking to balance innovation with safety and ethical concerns.",
-      "category": "Technology",
-      "region": "US",
-      "urgency": "high"
-    },
-    {
-      "headline": "Fusion Energy Breakthrough Boosts Clean Power Prospects in Europe",
-      "summary": "European researchers achieved a significant increase in fusion reactor efficiency, bringing sustainable, clean energy closer to commercial viability.",
-      "category": "Science",
-      "region": "Europe",
-      "urgency": "medium"
-    },
-    {
-      "headline": "Asian Markets Dip After Major Tech Giant Issues Profit Warning",
-      "summary": "Major stock exchanges across Asia saw declines following a leading technology company's revised profit outlook, raising concerns about regional economic growth.",
+      "headline": "New Asia-Pacific Trade Pact Boosts Regional Economic Outlook",
+      "summary": "Several Asia-Pacific nations ratified a new comprehensive trade agreement, expected to significantly boost regional trade and investment. This could counter global economic slowdowns.",
       "category": "Business",
       "region": "Asia",
+      "urgency": "medium"
+    },
+    {
+      "headline": "Malaria Vaccine Rollout Accelerates Across Sub-Saharan Africa",
+      "summary": "A major international initiative announced accelerated distribution of a highly effective malaria vaccine, reaching millions more children. This is a critical step against a deadly disease.",
+      "category": "Health",
+      "region": "Africa",
       "urgency": "high"
     },
     {
-      "headline": "Aid Program Lifts Millions from Hunger in East Africa",
-      "summary": "An international initiative reported substantial success in improving food security across several East African nations, significantly reducing severe hunger.",
+      "headline": "Powerful Earthquake Strikes Central American Pacific Coast",
+      "summary": "A magnitude 7.5 earthquake struck off the coast of Central America, prompting tsunami warnings and causing significant infrastructure damage. Rescue efforts are underway.",
       "category": "World",
-      "region": "Africa",
-      "urgency": "medium"
+      "region": "Americas",
+      "urgency": "breaking"
     }
   ]
 }
