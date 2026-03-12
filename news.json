@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-03-11T02:24:45.596Z",
+  "updatedAt": "2026-03-12T02:30:44.302Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-03-09",
+  "date": "2026-03-12",
   "stories": [
     {
-      "headline": "EU Leaders Debate Ambitious 2040 Climate Targets Amid Economic Concerns",
-      "summary": "European Union leaders are meeting to finalize new, stricter climate goals for 2040, facing resistance from some nations concerned about economic impact. This will shape Europe's green transition.",
+      "headline": "EU Parliament Approves Landmark AI Governance Framework",
+      "summary": "The European Parliament passed a comprehensive AI regulation bill, setting global standards for ethical AI development and deployment. This affects tech companies and citizens worldwide.",
       "category": "Politics",
       "region": "Europe",
       "urgency": "high"
     },
     {
-      "headline": "UN Panel Proposes Global Framework for AI Governance and Ethics",
-      "summary": "A UN expert panel unveiled a draft global framework for AI regulation, aiming to ensure ethical development and prevent misuse. This could standardize international AI policy.",
+      "headline": "Major Quantum Computing Breakthrough Achieved in Japan",
+      "summary": "Researchers in Japan announced a significant leap in quantum error correction, accelerating the timeline for practical quantum computers. This could revolutionize industries globally.",
       "category": "Technology",
-      "region": "Global",
+      "region": "Asia",
       "urgency": "high"
     },
     {
-      "headline": "New Asia-Pacific Trade Pact Boosts Regional Economic Outlook",
-      "summary": "Several Asia-Pacific nations ratified a new comprehensive trade agreement, expected to significantly boost regional trade and investment. This could counter global economic slowdowns.",
+      "headline": "Global Markets React to Unexpected US Interest Rate Hold",
+      "summary": "The US Federal Reserve unexpectedly held interest rates steady, defying predictions of a cut and causing volatility in global stock and bond markets. This impacts investor confidence and economic outlooks worldwide.",
       "category": "Business",
-      "region": "Asia",
-      "urgency": "medium"
+      "region": "US",
+      "urgency": "breaking"
     },
     {
-      "headline": "Malaria Vaccine Rollout Accelerates Across Sub-Saharan Africa",
-      "summary": "A major international initiative announced accelerated distribution of a highly effective malaria vaccine, reaching millions more children. This is a critical step against a deadly disease.",
-      "category": "Health",
+      "headline": "Humanitarian Aid Pledged as East African Famine Worsens",
+      "summary": "International donors committed emergency aid to East Africa as a severe drought exacerbates famine conditions, threatening millions. Urgent action is needed to prevent widespread loss of life.",
+      "category": "World",
       "region": "Africa",
       "urgency": "high"
     },
     {
-      "headline": "Powerful Earthquake Strikes Central American Pacific Coast",
-      "summary": "A magnitude 7.5 earthquake struck off the coast of Central America, prompting tsunami warnings and causing significant infrastructure damage. Rescue efforts are underway.",
-      "category": "World",
-      "region": "Americas",
-      "urgency": "breaking"
+      "headline": "New Gene Therapy Shows Promise for Inherited Blindness",
+      "summary": "Clinical trials for a novel gene therapy have yielded promising results in restoring sight for patients with a specific inherited retinal disease. This offers hope for millions suffering from similar conditions.",
+      "category": "Health",
+      "region": "Global",
+      "urgency": "medium"
     }
-  ],
-  "fallback": true
+  ]
 }
