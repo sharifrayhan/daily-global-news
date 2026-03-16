@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-03-15T02:46:37.768Z",
+  "updatedAt": "2026-03-16T02:46:59.411Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-03-12",
+  "date": "2026-03-16",
   "stories": [
     {
-      "headline": "EU Parliament Approves Landmark AI Governance Framework",
-      "summary": "The European Parliament passed a comprehensive AI regulation bill, setting global standards for ethical AI development and deployment. This affects tech companies and citizens worldwide.",
+      "headline": "Nations Agree on Global Carbon Emission Trading Framework at UN Summit",
+      "summary": "Major breakthrough at UN climate talks establishes global standards for carbon markets, aiming to accelerate emissions reduction worldwide. This significantly impacts climate efforts.",
       "category": "Politics",
-      "region": "Europe",
+      "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "Major Quantum Computing Breakthrough Achieved in Japan",
-      "summary": "Researchers in Japan announced a significant leap in quantum error correction, accelerating the timeline for practical quantum computers. This could revolutionize industries globally.",
+      "headline": "Quantum Computing Firm Achieves Major Breakthrough in Error Correction",
+      "summary": "A leading quantum computing company unveiled a significant leap in qubit stability, potentially accelerating practical quantum computer development. This could revolutionize industries.",
       "category": "Technology",
-      "region": "Asia",
+      "region": "US",
       "urgency": "high"
     },
     {
-      "headline": "Global Markets React to Unexpected US Interest Rate Hold",
-      "summary": "The US Federal Reserve unexpectedly held interest rates steady, defying predictions of a cut and causing volatility in global stock and bond markets. This impacts investor confidence and economic outlooks worldwide.",
-      "category": "Business",
-      "region": "US",
+      "headline": "Fragile Ceasefire Holds in Eastern Europe; Aid Convoys Reach Besieged Cities",
+      "summary": "A 24-hour ceasefire in the Eastern European conflict has allowed humanitarian aid to reach besieged areas, offering hope for peace talks. Millions could see relief.",
+      "category": "World",
+      "region": "Europe",
       "urgency": "breaking"
     },
     {
-      "headline": "Humanitarian Aid Pledged as East African Famine Worsens",
-      "summary": "International donors committed emergency aid to East Africa as a severe drought exacerbates famine conditions, threatening millions. Urgent action is needed to prevent widespread loss of life.",
-      "category": "World",
+      "headline": "New Malaria Vaccine Shows High Efficacy in Phase 3 African Trials",
+      "summary": "An experimental malaria vaccine demonstrated high efficacy in large-scale trials across Africa, offering a potential game-changer against the deadly disease. This could save millions.",
+      "category": "Health",
       "region": "Africa",
       "urgency": "high"
     },
     {
-      "headline": "New Gene Therapy Shows Promise for Inherited Blindness",
-      "summary": "Clinical trials for a novel gene therapy have yielded promising results in restoring sight for patients with a specific inherited retinal disease. This offers hope for millions suffering from similar conditions.",
-      "category": "Health",
-      "region": "Global",
-      "urgency": "medium"
+      "headline": "Major Asian Central Bank Unexpectedly Cuts Interest Rates to Boost Economy",
+      "summary": "A key Asian central bank unexpectedly cut its benchmark interest rate to stimulate economic growth, raising inflation concerns. This impacts regional and global financial stability.",
+      "category": "Business",
+      "region": "Asia",
+      "urgency": "high"
     }
-  ],
-  "fallback": true
+  ]
 }
