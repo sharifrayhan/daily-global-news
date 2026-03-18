@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-03-17T02:30:23.300Z",
+  "updatedAt": "2026-03-18T02:35:48.276Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-03-16",
+  "date": "2026-03-18",
   "stories": [
     {
-      "headline": "Nations Agree on Global Carbon Emission Trading Framework at UN Summit",
-      "summary": "Major breakthrough at UN climate talks establishes global standards for carbon markets, aiming to accelerate emissions reduction worldwide. This significantly impacts climate efforts.",
+      "headline": "EU Leaders Agree on Ambitious New Climate Targets for 2035",
+      "summary": "European Union leaders concluded a summit, committing to significantly stricter climate goals by 2035, impacting energy policy and industry across the continent.",
       "category": "Politics",
+      "region": "Europe",
+      "urgency": "high"
+    },
+    {
+      "headline": "Global Tech Giant Unveils Next-Gen AI Processor with Unprecedented Speed",
+      "summary": "A leading tech firm launched its new AI chip, promising a significant leap in processing power for AI applications, poised to accelerate technological advancements globally.",
+      "category": "Technology",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "Quantum Computing Firm Achieves Major Breakthrough in Error Correction",
-      "summary": "A leading quantum computing company unveiled a significant leap in qubit stability, potentially accelerating practical quantum computer development. This could revolutionize industries.",
-      "category": "Technology",
-      "region": "US",
-      "urgency": "high"
-    },
-    {
-      "headline": "Fragile Ceasefire Holds in Eastern Europe; Aid Convoys Reach Besieged Cities",
-      "summary": "A 24-hour ceasefire in the Eastern European conflict has allowed humanitarian aid to reach besieged areas, offering hope for peace talks. Millions could see relief.",
-      "category": "World",
-      "region": "Europe",
-      "urgency": "breaking"
-    },
-    {
       "headline": "New Malaria Vaccine Shows High Efficacy in Phase 3 African Trials",
-      "summary": "An experimental malaria vaccine demonstrated high efficacy in large-scale trials across Africa, offering a potential game-changer against the deadly disease. This could save millions.",
+      "summary": "Promising Phase 3 trial results for a novel malaria vaccine in several African nations offer hope for combating a leading cause of death globally.",
       "category": "Health",
       "region": "Africa",
       "urgency": "high"
     },
     {
-      "headline": "Major Asian Central Bank Unexpectedly Cuts Interest Rates to Boost Economy",
-      "summary": "A key Asian central bank unexpectedly cut its benchmark interest rate to stimulate economic growth, raising inflation concerns. This impacts regional and global financial stability.",
+      "headline": "US Federal Reserve Holds Interest Rates Steady Amid Inflation Concerns",
+      "summary": "The Federal Reserve maintained current interest rates, signaling caution over persistent inflation despite recent economic growth, impacting global markets.",
       "category": "Business",
-      "region": "Asia",
+      "region": "US",
+      "urgency": "high"
+    },
+    {
+      "headline": "Ceasefire Talks Progress in Middle East Conflict Amid Humanitarian Crisis",
+      "summary": "Diplomatic efforts show progress towards a ceasefire in a prolonged Middle East conflict, bringing cautious optimism for humanitarian aid delivery.",
+      "category": "World",
+      "region": "Middle East",
       "urgency": "high"
     }
-  ],
-  "fallback": true
+  ]
 }
