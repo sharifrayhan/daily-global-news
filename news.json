@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-03-18T02:35:48.276Z",
+  "updatedAt": "2026-03-19T02:37:13.926Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-03-18",
+  "date": "2026-03-19",
   "stories": [
     {
-      "headline": "EU Leaders Agree on Ambitious New Climate Targets for 2035",
-      "summary": "European Union leaders concluded a summit, committing to significantly stricter climate goals by 2035, impacting energy policy and industry across the continent.",
+      "headline": "EU Parliament Passes Landmark AI Act",
+      "summary": "The European Parliament approved the comprehensive AI Act, establishing strict rules for AI development and deployment. This landmark legislation aims to protect fundamental rights and set a global precedent.",
       "category": "Politics",
       "region": "Europe",
       "urgency": "high"
     },
     {
-      "headline": "Global Tech Giant Unveils Next-Gen AI Processor with Unprecedented Speed",
-      "summary": "A leading tech firm launched its new AI chip, promising a significant leap in processing power for AI applications, poised to accelerate technological advancements globally.",
+      "headline": "Quantum Computing Breakthrough Announced by Tech Giant",
+      "summary": "A major tech company revealed a significant leap in quantum computing, potentially revolutionizing drug development and material science with unprecedented processing power.",
       "category": "Technology",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "New Malaria Vaccine Shows High Efficacy in Phase 3 African Trials",
-      "summary": "Promising Phase 3 trial results for a novel malaria vaccine in several African nations offer hope for combating a leading cause of death globally.",
-      "category": "Health",
-      "region": "Africa",
-      "urgency": "high"
-    },
-    {
-      "headline": "US Federal Reserve Holds Interest Rates Steady Amid Inflation Concerns",
-      "summary": "The Federal Reserve maintained current interest rates, signaling caution over persistent inflation despite recent economic growth, impacting global markets.",
-      "category": "Business",
-      "region": "US",
-      "urgency": "high"
-    },
-    {
-      "headline": "Ceasefire Talks Progress in Middle East Conflict Amid Humanitarian Crisis",
-      "summary": "Diplomatic efforts show progress towards a ceasefire in a prolonged Middle East conflict, bringing cautious optimism for humanitarian aid delivery.",
+      "headline": "UN Warns of Worsening Famine in East Africa",
+      "summary": "UN agencies issued an urgent appeal for aid as famine conditions intensify across East Africa due to severe drought and ongoing conflicts, threatening millions of lives.",
       "category": "World",
-      "region": "Middle East",
+      "region": "Africa",
+      "urgency": "breaking"
+    },
+    {
+      "headline": "Global Markets React to Inflation Data, Central Banks Cautious",
+      "summary": "New inflation figures have prompted varied reactions in global markets, with major central banks reiterating a cautious stance on future interest rate decisions.",
+      "category": "Business",
+      "region": "Global",
+      "urgency": "high"
+    },
+    {
+      "headline": "New Broad-Spectrum Antiviral Drug Shows Promising Results",
+      "summary": "Scientists announced successful Phase 3 trials for a novel broad-spectrum antiviral drug, potentially offering a crucial tool against future viral outbreaks and emerging threats.",
+      "category": "Health",
+      "region": "Global",
       "urgency": "high"
     }
   ]
