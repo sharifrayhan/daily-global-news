@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-03-27T02:44:40.429Z",
+  "updatedAt": "2026-03-28T02:33:52.742Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-03-19",
+  "date": "2026-03-28",
   "stories": [
     {
-      "headline": "EU Parliament Passes Landmark AI Act",
-      "summary": "The European Parliament approved the comprehensive AI Act, establishing strict rules for AI development and deployment. This landmark legislation aims to protect fundamental rights and set a global precedent.",
+      "headline": "EU Unveils Ambitious Green Hydrogen Investment Plan",
+      "summary": "The European Union announced a multi-billion euro investment to accelerate green hydrogen production, aiming to boost energy independence and combat climate change.",
       "category": "Politics",
       "region": "Europe",
       "urgency": "high"
     },
     {
-      "headline": "Quantum Computing Breakthrough Announced by Tech Giant",
-      "summary": "A major tech company revealed a significant leap in quantum computing, potentially revolutionizing drug development and material science with unprecedented processing power.",
+      "headline": "Global Tech Leaders Agree on AI Safety and Ethics Framework",
+      "summary": "Major tech companies and governments signed a landmark agreement on AI safety protocols and ethical guidelines, seeking to prevent misuse and foster responsible innovation.",
       "category": "Technology",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "UN Warns of Worsening Famine in East Africa",
-      "summary": "UN agencies issued an urgent appeal for aid as famine conditions intensify across East Africa due to severe drought and ongoing conflicts, threatening millions of lives.",
+      "headline": "Sudan Peace Talks Yield Breakthrough Agreement",
+      "summary": "Rival factions in Sudan reached a preliminary peace agreement after weeks of negotiations, offering hope for an end to the prolonged conflict and humanitarian crisis.",
       "category": "World",
       "region": "Africa",
       "urgency": "breaking"
     },
     {
-      "headline": "Global Markets React to Inflation Data, Central Banks Cautious",
-      "summary": "New inflation figures have prompted varied reactions in global markets, with major central banks reiterating a cautious stance on future interest rate decisions.",
+      "headline": "Asian Manufacturing Hubs Face Supply Chain Disruptions Amid New Sanctions",
+      "summary": "Key Asian manufacturing regions are experiencing renewed supply chain pressures following new international sanctions, impacting global trade and consumer prices.",
       "category": "Business",
-      "region": "Global",
+      "region": "Asia",
       "urgency": "high"
     },
     {
-      "headline": "New Broad-Spectrum Antiviral Drug Shows Promising Results",
-      "summary": "Scientists announced successful Phase 3 trials for a novel broad-spectrum antiviral drug, potentially offering a crucial tool against future viral outbreaks and emerging threats.",
+      "headline": "New Dengue Vaccine Shows High Efficacy in Phase 3 Trials Across Americas",
+      "summary": "A novel dengue fever vaccine demonstrated significant efficacy in final clinical trials, offering a major tool against the mosquito-borne disease prevalent in the region.",
       "category": "Health",
-      "region": "Global",
+      "region": "Americas",
       "urgency": "high"
     }
-  ],
-  "fallback": true
+  ]
 }
