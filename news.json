@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-03-28T02:33:52.742Z",
+  "updatedAt": "2026-03-29T02:48:30.474Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-03-28",
+  "date": "2026-03-29",
   "stories": [
     {
-      "headline": "EU Unveils Ambitious Green Hydrogen Investment Plan",
-      "summary": "The European Union announced a multi-billion euro investment to accelerate green hydrogen production, aiming to boost energy independence and combat climate change.",
+      "headline": "UN Security Council Fails to Agree on Ceasefire Resolution in Sahel Conflict",
+      "summary": "Vetoes from permanent members blocked a resolution aimed at de-escalating the escalating conflict in the Sahel region. This prolongs instability and humanitarian suffering.",
       "category": "Politics",
-      "region": "Europe",
+      "region": "Africa",
       "urgency": "high"
     },
     {
-      "headline": "Global Tech Leaders Agree on AI Safety and Ethics Framework",
-      "summary": "Major tech companies and governments signed a landmark agreement on AI safety protocols and ethical guidelines, seeking to prevent misuse and foster responsible innovation.",
+      "headline": "Global Tech Leaders Unveil New AI Safety Standards Framework",
+      "summary": "Major tech companies and governments collaboratively released a comprehensive framework for AI safety and ethical development. This aims to guide responsible innovation and mitigate risks.",
       "category": "Technology",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "Sudan Peace Talks Yield Breakthrough Agreement",
-      "summary": "Rival factions in Sudan reached a preliminary peace agreement after weeks of negotiations, offering hope for an end to the prolonged conflict and humanitarian crisis.",
-      "category": "World",
-      "region": "Africa",
-      "urgency": "breaking"
-    },
-    {
-      "headline": "Asian Manufacturing Hubs Face Supply Chain Disruptions Amid New Sanctions",
-      "summary": "Key Asian manufacturing regions are experiencing renewed supply chain pressures following new international sanctions, impacting global trade and consumer prices.",
+      "headline": "Major Central Banks Signal Potential Interest Rate Hikes Amid Inflation Concerns",
+      "summary": "Leading central banks hinted at further rate increases to combat persistent global inflation, raising concerns for economic growth but aiming for stability.",
       "category": "Business",
-      "region": "Asia",
+      "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "New Dengue Vaccine Shows High Efficacy in Phase 3 Trials Across Americas",
-      "summary": "A novel dengue fever vaccine demonstrated significant efficacy in final clinical trials, offering a major tool against the mosquito-borne disease prevalent in the region.",
-      "category": "Health",
-      "region": "Americas",
+      "headline": "New Gene Therapy Shows Promise in Reversing Type 1 Diabetes in Early Trials",
+      "summary": "Researchers announced successful early human trials of a novel gene therapy that significantly reduced insulin dependence for Type 1 diabetes patients. This offers hope for a cure.",
+      "category": "Science",
+      "region": "Europe",
       "urgency": "high"
+    },
+    {
+      "headline": "Monsoon Flooding Displaces Thousands in Southeast Asia",
+      "summary": "Heavy monsoon rains across parts of Southeast Asia have led to severe flooding, forcing thousands to evacuate their homes. Humanitarian aid efforts are underway.",
+      "category": "World",
+      "region": "Asia",
+      "urgency": "medium"
     }
   ]
 }
