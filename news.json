@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-04-03T02:42:45.922Z",
+  "updatedAt": "2026-04-04T02:33:24.079Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-03-29",
+  "date": "2026-04-04",
   "stories": [
     {
-      "headline": "UN Security Council Fails to Agree on Ceasefire Resolution in Sahel Conflict",
-      "summary": "Vetoes from permanent members blocked a resolution aimed at de-escalating the escalating conflict in the Sahel region. This prolongs instability and humanitarian suffering.",
+      "headline": "UN Security Council Votes on New Middle East Ceasefire Resolution",
+      "summary": "The UNSC passed a resolution calling for an immediate ceasefire, but implementation faces challenges from key actors. This aims to de-escalate a critical regional conflict.",
       "category": "Politics",
-      "region": "Africa",
+      "region": "Middle East",
       "urgency": "high"
     },
     {
-      "headline": "Global Tech Leaders Unveil New AI Safety Standards Framework",
-      "summary": "Major tech companies and governments collaboratively released a comprehensive framework for AI safety and ethical development. This aims to guide responsible innovation and mitigate risks.",
+      "headline": "Major Tech Firm Unveils Energy-Efficient AI Processor Breakthrough",
+      "summary": "A leading tech company announced a new AI chip drastically reducing energy consumption. This innovation could reshape the future of sustainable artificial intelligence.",
       "category": "Technology",
       "region": "Global",
+      "urgency": "medium"
+    },
+    {
+      "headline": "Promising Vaccine Trials for Dengue Fever Show High Efficacy",
+      "summary": "New clinical trial results confirm a highly effective vaccine against Dengue fever. This offers significant hope for public health in tropical regions of the Americas.",
+      "category": "Health",
+      "region": "Americas",
       "urgency": "high"
     },
     {
-      "headline": "Major Central Banks Signal Potential Interest Rate Hikes Amid Inflation Concerns",
-      "summary": "Leading central banks hinted at further rate increases to combat persistent global inflation, raising concerns for economic growth but aiming for stability.",
-      "category": "Business",
-      "region": "Global",
-      "urgency": "high"
-    },
-    {
-      "headline": "New Gene Therapy Shows Promise in Reversing Type 1 Diabetes in Early Trials",
-      "summary": "Researchers announced successful early human trials of a novel gene therapy that significantly reduced insulin dependence for Type 1 diabetes patients. This offers hope for a cure.",
-      "category": "Science",
+      "headline": "EU Leaders Finalize Landmark Green Investment Fund for Climate Goals",
+      "summary": "European Union heads of state approved a multi-billion euro fund to boost green industries and climate resilience. It marks a major step towards ambitious environmental targets.",
+      "category": "Politics",
       "region": "Europe",
       "urgency": "high"
     },
     {
-      "headline": "Monsoon Flooding Displaces Thousands in Southeast Asia",
-      "summary": "Heavy monsoon rains across parts of Southeast Asia have led to severe flooding, forcing thousands to evacuate their homes. Humanitarian aid efforts are underway.",
+      "headline": "Powerful Earthquake Strikes Southeast Asia; Rescue Efforts Underway",
+      "summary": "A 7.2 magnitude earthquake hit a densely populated area in Southeast Asia, causing widespread damage and casualties. International aid is mobilizing to assist affected regions.",
       "category": "World",
       "region": "Asia",
-      "urgency": "medium"
+      "urgency": "breaking"
     }
-  ],
-  "fallback": true
+  ]
 }
