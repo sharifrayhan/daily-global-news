@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-04-07T02:45:51.071Z",
+  "updatedAt": "2026-04-08T02:46:51.893Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-04-04",
+  "date": "2026-04-08",
   "stories": [
     {
-      "headline": "UN Security Council Votes on New Middle East Ceasefire Resolution",
-      "summary": "The UNSC passed a resolution calling for an immediate ceasefire, but implementation faces challenges from key actors. This aims to de-escalate a critical regional conflict.",
-      "category": "Politics",
-      "region": "Middle East",
+      "headline": "East African Peace Talks Collapse Amid Border Dispute",
+      "summary": "Negotiations to end a long-standing border conflict between two East African nations failed, raising fears of renewed hostilities. Regional stability is at risk.",
+      "category": "World",
+      "region": "Africa",
       "urgency": "high"
     },
     {
-      "headline": "Major Tech Firm Unveils Energy-Efficient AI Processor Breakthrough",
-      "summary": "A leading tech company announced a new AI chip drastically reducing energy consumption. This innovation could reshape the future of sustainable artificial intelligence.",
+      "headline": "New AI Model Achieves Human-Level Problem Solving in Complex Tasks",
+      "summary": "Researchers unveiled an AI system demonstrating unprecedented capabilities in complex reasoning, sparking both excitement and ethical concerns about its societal impact.",
       "category": "Technology",
+      "region": "Global",
+      "urgency": "high"
+    },
+    {
+      "headline": "Global Inflation Eases Further, Boosting Consumer Confidence",
+      "summary": "Latest economic reports indicate a continued decline in global inflation rates, leading to increased consumer spending forecasts and market optimism worldwide.",
+      "category": "Business",
       "region": "Global",
       "urgency": "medium"
     },
     {
-      "headline": "Promising Vaccine Trials for Dengue Fever Show High Efficacy",
-      "summary": "New clinical trial results confirm a highly effective vaccine against Dengue fever. This offers significant hope for public health in tropical regions of the Americas.",
+      "headline": "Breakthrough Gene Therapy Shows Promise for Rare Neurological Disorder",
+      "summary": "Clinical trials reveal a novel gene therapy significantly improves symptoms in patients with a previously untreatable neurological condition, offering new hope.",
       "category": "Health",
-      "region": "Americas",
-      "urgency": "high"
-    },
-    {
-      "headline": "EU Leaders Finalize Landmark Green Investment Fund for Climate Goals",
-      "summary": "European Union heads of state approved a multi-billion euro fund to boost green industries and climate resilience. It marks a major step towards ambitious environmental targets.",
-      "category": "Politics",
       "region": "Europe",
       "urgency": "high"
     },
     {
-      "headline": "Powerful Earthquake Strikes Southeast Asia; Rescue Efforts Underway",
-      "summary": "A 7.2 magnitude earthquake hit a densely populated area in Southeast Asia, causing widespread damage and casualties. International aid is mobilizing to assist affected regions.",
-      "category": "World",
-      "region": "Asia",
-      "urgency": "breaking"
+      "headline": "US Congress Passes Landmark Infrastructure Investment Bill",
+      "summary": "The House of Representatives approved a multi-billion dollar infrastructure package, aiming to modernize national systems and create thousands of jobs across the country.",
+      "category": "Politics",
+      "region": "US",
+      "urgency": "high"
     }
-  ],
-  "fallback": true
+  ]
 }
