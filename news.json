@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-04-12T02:56:32.459Z",
+  "updatedAt": "2026-04-13T03:22:03.025Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-04-08",
+  "date": "2026-04-13",
   "stories": [
     {
-      "headline": "East African Peace Talks Collapse Amid Border Dispute",
-      "summary": "Negotiations to end a long-standing border conflict between two East African nations failed, raising fears of renewed hostilities. Regional stability is at risk.",
-      "category": "World",
-      "region": "Africa",
+      "headline": "EU Leaders Finalize Landmark Climate Adaptation Fund",
+      "summary": "European Union leaders today approved a multi-billion euro fund to aid member states in adapting to severe climate change impacts. This marks a significant step towards climate resilience.",
+      "category": "Politics",
+      "region": "Europe",
       "urgency": "high"
     },
     {
-      "headline": "New AI Model Achieves Human-Level Problem Solving in Complex Tasks",
-      "summary": "Researchers unveiled an AI system demonstrating unprecedented capabilities in complex reasoning, sparking both excitement and ethical concerns about its societal impact.",
+      "headline": "Global Tech Summit Proposes Unified AI Ethics Framework for Autonomous Systems",
+      "summary": "Delegates from leading nations concluded a summit proposing a unified international framework for AI ethics, focusing on safety and accountability in autonomous systems. This aims to prevent misuse.",
       "category": "Technology",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "Global Inflation Eases Further, Boosting Consumer Confidence",
-      "summary": "Latest economic reports indicate a continued decline in global inflation rates, leading to increased consumer spending forecasts and market optimism worldwide.",
+      "headline": "Major Asian Economies Sign New Regional Digital Trade Agreement",
+      "summary": "Ten Asian nations signed a landmark digital trade agreement today, aiming to streamline e-commerce and data flow across the region. This could significantly boost regional economic growth.",
       "category": "Business",
-      "region": "Global",
-      "urgency": "medium"
+      "region": "Asia",
+      "urgency": "high"
     },
     {
-      "headline": "Breakthrough Gene Therapy Shows Promise for Rare Neurological Disorder",
-      "summary": "Clinical trials reveal a novel gene therapy significantly improves symptoms in patients with a previously untreatable neurological condition, offering new hope.",
+      "headline": "New Gene Therapy Shows Promise in Early Alzheimer's Treatment Trials",
+      "summary": "Researchers announced promising preliminary results for a novel gene therapy that significantly slowed cognitive decline in early-stage Alzheimer's patients. This offers new hope for millions.",
       "category": "Health",
-      "region": "Europe",
+      "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "US Congress Passes Landmark Infrastructure Investment Bill",
-      "summary": "The House of Representatives approved a multi-billion dollar infrastructure package, aiming to modernize national systems and create thousands of jobs across the country.",
-      "category": "Politics",
-      "region": "US",
-      "urgency": "high"
+      "headline": "East Africa Faces Worsening Drought, UN Appeals for Emergency Aid",
+      "summary": "The United Nations issued an urgent appeal for humanitarian aid as East Africa experiences its most severe drought in decades, threatening millions with food insecurity. Immediate action is critical.",
+      "category": "World",
+      "region": "Africa",
+      "urgency": "breaking"
     }
-  ],
-  "fallback": true
+  ]
 }
