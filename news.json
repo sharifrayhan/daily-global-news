@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-04-15T02:51:50.899Z",
+  "updatedAt": "2026-04-16T03:18:37.657Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-04-13",
+  "date": "2026-04-16",
   "stories": [
     {
-      "headline": "EU Leaders Finalize Landmark Climate Adaptation Fund",
-      "summary": "European Union leaders today approved a multi-billion euro fund to aid member states in adapting to severe climate change impacts. This marks a significant step towards climate resilience.",
+      "headline": "UN Security Council Calls Emergency Session Over Red Sea Incident",
+      "summary": "A major shipping vessel was targeted in the Red Sea, escalating regional tensions and prompting urgent diplomatic talks to ensure maritime security.",
+      "category": "World",
+      "region": "Middle East",
+      "urgency": "high"
+    },
+    {
+      "headline": "US Researchers Unveil AI Achieving Human-Level Reasoning in New Benchmark",
+      "summary": "A US-based research consortium announced an AI system demonstrating unprecedented reasoning, promising breakthroughs in scientific discovery and complex problem-solving.",
+      "category": "Technology",
+      "region": "US",
+      "urgency": "high"
+    },
+    {
+      "headline": "Global Markets Jitter as Inflation Data Surpasses Expectations",
+      "summary": "Fresh economic reports show inflation rising faster than predicted worldwide. Central banks are reconsidering policies, impacting investor confidence globally.",
+      "category": "Business",
+      "region": "Global",
+      "urgency": "high"
+    },
+    {
+      "headline": "Malaria Vaccine Shows 90% Efficacy in Final Clinical Trials",
+      "summary": "A novel malaria vaccine achieved significant success in late-stage trials in Africa, offering hope for eradicating the disease in endemic regions worldwide.",
+      "category": "Health",
+      "region": "Africa",
+      "urgency": "high"
+    },
+    {
+      "headline": "EU Leaders Divided on New Unified Climate Migration Policy Proposal",
+      "summary": "European Union nations are in heated debate over a proposed policy to manage climate-induced migration, balancing humanitarian needs with national security concerns.",
       "category": "Politics",
       "region": "Europe",
-      "urgency": "high"
-    },
-    {
-      "headline": "Global Tech Summit Proposes Unified AI Ethics Framework for Autonomous Systems",
-      "summary": "Delegates from leading nations concluded a summit proposing a unified international framework for AI ethics, focusing on safety and accountability in autonomous systems. This aims to prevent misuse.",
-      "category": "Technology",
-      "region": "Global",
-      "urgency": "high"
-    },
-    {
-      "headline": "Major Asian Economies Sign New Regional Digital Trade Agreement",
-      "summary": "Ten Asian nations signed a landmark digital trade agreement today, aiming to streamline e-commerce and data flow across the region. This could significantly boost regional economic growth.",
-      "category": "Business",
-      "region": "Asia",
-      "urgency": "high"
-    },
-    {
-      "headline": "New Gene Therapy Shows Promise in Early Alzheimer's Treatment Trials",
-      "summary": "Researchers announced promising preliminary results for a novel gene therapy that significantly slowed cognitive decline in early-stage Alzheimer's patients. This offers new hope for millions.",
-      "category": "Health",
-      "region": "Global",
-      "urgency": "high"
-    },
-    {
-      "headline": "East Africa Faces Worsening Drought, UN Appeals for Emergency Aid",
-      "summary": "The United Nations issued an urgent appeal for humanitarian aid as East Africa experiences its most severe drought in decades, threatening millions with food insecurity. Immediate action is critical.",
-      "category": "World",
-      "region": "Africa",
-      "urgency": "breaking"
+      "urgency": "medium"
     }
-  ],
-  "fallback": true
+  ]
 }
