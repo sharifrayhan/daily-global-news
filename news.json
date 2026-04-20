@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-04-19T03:20:12.051Z",
+  "updatedAt": "2026-04-20T03:22:23.603Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-04-16",
+  "date": "2026-04-20",
   "stories": [
     {
-      "headline": "UN Security Council Calls Emergency Session Over Red Sea Incident",
-      "summary": "A major shipping vessel was targeted in the Red Sea, escalating regional tensions and prompting urgent diplomatic talks to ensure maritime security.",
-      "category": "World",
-      "region": "Middle East",
+      "headline": "European Leaders Announce Ceasefire Agreement in Eastern Conflict Zone",
+      "summary": "A fragile ceasefire has been agreed upon by warring factions, offering hope for de-escalation after months of intense fighting. International observers are being deployed.",
+      "category": "Politics",
+      "region": "Europe",
       "urgency": "high"
     },
     {
-      "headline": "US Researchers Unveil AI Achieving Human-Level Reasoning in New Benchmark",
-      "summary": "A US-based research consortium announced an AI system demonstrating unprecedented reasoning, promising breakthroughs in scientific discovery and complex problem-solving.",
+      "headline": "UN Committee Adopts Landmark Global AI Ethics Framework",
+      "summary": "The new framework aims to guide responsible AI development and deployment, emphasizing human rights and transparency. It's a crucial step for global governance.",
       "category": "Technology",
-      "region": "US",
-      "urgency": "high"
-    },
-    {
-      "headline": "Global Markets Jitter as Inflation Data Surpasses Expectations",
-      "summary": "Fresh economic reports show inflation rising faster than predicted worldwide. Central banks are reconsidering policies, impacting investor confidence globally.",
-      "category": "Business",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "Malaria Vaccine Shows 90% Efficacy in Final Clinical Trials",
-      "summary": "A novel malaria vaccine achieved significant success in late-stage trials in Africa, offering hope for eradicating the disease in endemic regions worldwide.",
+      "headline": "Novel Malaria Vaccine Shows 90% Efficacy in Phase 3 Trials",
+      "summary": "Researchers in Asia announced highly successful trial results for a new malaria vaccine, offering immense hope for eradication efforts in endemic regions worldwide.",
       "category": "Health",
-      "region": "Africa",
+      "region": "Asia",
       "urgency": "high"
     },
     {
-      "headline": "EU Leaders Divided on New Unified Climate Migration Policy Proposal",
-      "summary": "European Union nations are in heated debate over a proposed policy to manage climate-induced migration, balancing humanitarian needs with national security concerns.",
-      "category": "Politics",
-      "region": "Europe",
-      "urgency": "medium"
+      "headline": "US Federal Reserve Signals Continued Inflationary Pressures",
+      "summary": "The Fed warned that inflation remains persistent, hinting at potential further interest rate hikes. This could impact global markets and consumer spending significantly.",
+      "category": "Business",
+      "region": "US",
+      "urgency": "high"
+    },
+    {
+      "headline": "Severe Flooding Displaces Thousands in East African Nations",
+      "summary": "Torrential rains have caused widespread flooding across several East African countries, leading to massive displacement and urgent calls for international aid.",
+      "category": "World",
+      "region": "Africa",
+      "urgency": "breaking"
     }
-  ],
-  "fallback": true
+  ]
 }
