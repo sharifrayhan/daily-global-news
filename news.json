@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-05-02T03:19:54.039Z",
+  "updatedAt": "2026-05-03T03:37:22.385Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-04-20",
+  "date": "2026-05-03",
   "stories": [
     {
-      "headline": "European Leaders Announce Ceasefire Agreement in Eastern Conflict Zone",
-      "summary": "A fragile ceasefire has been agreed upon by warring factions, offering hope for de-escalation after months of intense fighting. International observers are being deployed.",
+      "headline": "Major Powers Resume Middle East Peace Talks Amid Cautious Optimism",
+      "summary": "Diplomatic efforts to resolve long-standing conflicts in the Middle East have restarted, aiming for regional stability and humanitarian relief.",
       "category": "Politics",
-      "region": "Europe",
+      "region": "Middle East",
       "urgency": "high"
     },
     {
-      "headline": "UN Committee Adopts Landmark Global AI Ethics Framework",
-      "summary": "The new framework aims to guide responsible AI development and deployment, emphasizing human rights and transparency. It's a crucial step for global governance.",
+      "headline": "Quantum Computing Breakthrough Promises Faster AI Development",
+      "summary": "Researchers announced a significant leap in quantum computing, potentially accelerating AI capabilities and impacting future tech industries globally.",
       "category": "Technology",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "Novel Malaria Vaccine Shows 90% Efficacy in Phase 3 Trials",
-      "summary": "Researchers in Asia announced highly successful trial results for a new malaria vaccine, offering immense hope for eradication efforts in endemic regions worldwide.",
+      "headline": "ECB's Surprise Rate Hike Shakes Global Markets, Inflation Fight Intensifies",
+      "summary": "The European Central Bank's unexpected interest rate increase aims to curb inflation, sending ripples through global stock markets and investments.",
+      "category": "Business",
+      "region": "Europe",
+      "urgency": "high"
+    },
+    {
+      "headline": "Southeast Asia Battles Severe Dengue Outbreak Amid Climate Change Concerns",
+      "summary": "Several Southeast Asian nations face a major dengue fever surge, exacerbated by changing weather patterns and impacting public health systems.",
       "category": "Health",
       "region": "Asia",
       "urgency": "high"
     },
     {
-      "headline": "US Federal Reserve Signals Continued Inflationary Pressures",
-      "summary": "The Fed warned that inflation remains persistent, hinting at potential further interest rate hikes. This could impact global markets and consumer spending significantly.",
-      "category": "Business",
-      "region": "US",
-      "urgency": "high"
-    },
-    {
-      "headline": "Severe Flooding Displaces Thousands in East African Nations",
-      "summary": "Torrential rains have caused widespread flooding across several East African countries, leading to massive displacement and urgent calls for international aid.",
+      "headline": "Amazon Deforestation Rates Show Alarming Increase, Global Concerns Mount",
+      "summary": "New data reveals a sharp rise in Amazon rainforest destruction, raising global alarm for biodiversity and climate change mitigation efforts.",
       "category": "World",
-      "region": "Africa",
-      "urgency": "breaking"
+      "region": "Americas",
+      "urgency": "high"
     }
-  ],
-  "fallback": true
+  ]
 }
