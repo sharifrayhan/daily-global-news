@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-05-07T03:32:51.331Z",
+  "updatedAt": "2026-05-08T03:28:34.875Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-05-03",
+  "date": "2026-05-08",
   "stories": [
     {
-      "headline": "Major Powers Resume Middle East Peace Talks Amid Cautious Optimism",
-      "summary": "Diplomatic efforts to resolve long-standing conflicts in the Middle East have restarted, aiming for regional stability and humanitarian relief.",
+      "headline": "EU Unveils Ambitious Green Energy Investment Plan",
+      "summary": "The European Commission detailed a multi-billion euro package to accelerate renewable energy adoption, aiming for significant carbon reduction by 2030. This impacts global climate efforts.",
       "category": "Politics",
-      "region": "Middle East",
+      "region": "Europe",
       "urgency": "high"
     },
     {
-      "headline": "Quantum Computing Breakthrough Promises Faster AI Development",
-      "summary": "Researchers announced a significant leap in quantum computing, potentially accelerating AI capabilities and impacting future tech industries globally.",
+      "headline": "Leading Tech Firms Form Global AI Safety Consortium",
+      "summary": "Leading AI developers formed a consortium to establish ethical guidelines and safety protocols. This initiative aims to prevent misuse and ensure responsible AI development globally.",
       "category": "Technology",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "ECB's Surprise Rate Hike Shakes Global Markets, Inflation Fight Intensifies",
-      "summary": "The European Central Bank's unexpected interest rate increase aims to curb inflation, sending ripples through global stock markets and investments.",
-      "category": "Business",
-      "region": "Europe",
-      "urgency": "high"
+      "headline": "UN Warns of Worsening Food Crisis in East Africa",
+      "summary": "The UN reported that millions in East Africa face severe food insecurity due to prolonged drought and conflict. Urgent international aid is required to avert widespread famine.",
+      "category": "World",
+      "region": "Africa",
+      "urgency": "breaking"
     },
     {
-      "headline": "Southeast Asia Battles Severe Dengue Outbreak Amid Climate Change Concerns",
-      "summary": "Several Southeast Asian nations face a major dengue fever surge, exacerbated by changing weather patterns and impacting public health systems.",
-      "category": "Health",
+      "headline": "Asian Markets React to Unexpected Inflation Surge",
+      "summary": "Key Asian economies saw unexpected inflation spikes, leading to concerns about interest rate hikes and potential economic slowdowns across the region.",
+      "category": "Business",
       "region": "Asia",
       "urgency": "high"
     },
     {
-      "headline": "Amazon Deforestation Rates Show Alarming Increase, Global Concerns Mount",
-      "summary": "New data reveals a sharp rise in Amazon rainforest destruction, raising global alarm for biodiversity and climate change mitigation efforts.",
-      "category": "World",
-      "region": "Americas",
-      "urgency": "high"
+      "headline": "New Gene Therapy Shows Promise for Rare Neurological Disorder",
+      "summary": "Researchers in the US announced successful early-stage trials of a gene therapy for a previously untreatable neurological condition. This offers hope for thousands of patients.",
+      "category": "Health",
+      "region": "US",
+      "urgency": "medium"
     }
-  ],
-  "fallback": true
+  ]
 }
