@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-05-08T03:28:34.875Z",
+  "updatedAt": "2026-05-09T03:27:48.744Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-05-08",
+  "date": "2026-05-09",
   "stories": [
     {
-      "headline": "EU Unveils Ambitious Green Energy Investment Plan",
-      "summary": "The European Commission detailed a multi-billion euro package to accelerate renewable energy adoption, aiming for significant carbon reduction by 2030. This impacts global climate efforts.",
+      "headline": "EU Leaders Finalize Landmark AI Regulation Framework Agreement",
+      "summary": "European Union leaders reached a definitive agreement on comprehensive AI regulation, setting global standards for technology governance. This impacts tech companies and consumer privacy worldwide.",
       "category": "Politics",
       "region": "Europe",
       "urgency": "high"
     },
     {
-      "headline": "Leading Tech Firms Form Global AI Safety Consortium",
-      "summary": "Leading AI developers formed a consortium to establish ethical guidelines and safety protocols. This initiative aims to prevent misuse and ensure responsible AI development globally.",
-      "category": "Technology",
-      "region": "Global",
-      "urgency": "high"
-    },
-    {
-      "headline": "UN Warns of Worsening Food Crisis in East Africa",
-      "summary": "The UN reported that millions in East Africa face severe food insecurity due to prolonged drought and conflict. Urgent international aid is required to avert widespread famine.",
+      "headline": "UN Appeals for Urgent Aid as Humanitarian Crisis Deepens in Sudan",
+      "summary": "The United Nations issued an emergency appeal for Sudan, where escalating conflict and food insecurity have displaced millions. Immediate international assistance is critical to prevent widespread famine.",
       "category": "World",
       "region": "Africa",
       "urgency": "breaking"
     },
     {
-      "headline": "Asian Markets React to Unexpected Inflation Surge",
-      "summary": "Key Asian economies saw unexpected inflation spikes, leading to concerns about interest rate hikes and potential economic slowdowns across the region.",
-      "category": "Business",
-      "region": "Asia",
+      "headline": "Breakthrough in Sustainable Battery Technology Promises Cleaner Energy",
+      "summary": "Scientists announced a major advancement in solid-state battery technology, offering higher efficiency and longer lifespan. This innovation could accelerate the global transition to renewable energy.",
+      "category": "Science",
+      "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "New Gene Therapy Shows Promise for Rare Neurological Disorder",
-      "summary": "Researchers in the US announced successful early-stage trials of a gene therapy for a previously untreatable neurological condition. This offers hope for thousands of patients.",
-      "category": "Health",
-      "region": "US",
+      "headline": "Major Asian Tech Firm Reports Record Quarterly Profits Amid Market Shifts",
+      "summary": "A leading Asian technology company posted unprecedented profits for the first quarter, defying broader market volatility. This signals resilience in the tech sector and could boost investor confidence.",
+      "category": "Business",
+      "region": "Asia",
       "urgency": "medium"
+    },
+    {
+      "headline": "US Congress Deadlocks on Critical Infrastructure Spending Bill",
+      "summary": "A vital infrastructure bill failed to advance in the U.S. Congress due to partisan disagreements over funding and scope. This delay impacts job creation and modernization efforts nationwide.",
+      "category": "Politics",
+      "region": "US",
+      "urgency": "high"
     }
   ]
 }
