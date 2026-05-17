@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-05-16T03:32:03.622Z",
+  "updatedAt": "2026-05-17T03:49:53.246Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-05-09",
+  "date": "2026-05-17",
   "stories": [
     {
-      "headline": "EU Leaders Finalize Landmark AI Regulation Framework Agreement",
-      "summary": "European Union leaders reached a definitive agreement on comprehensive AI regulation, setting global standards for technology governance. This impacts tech companies and consumer privacy worldwide.",
+      "headline": "EU Parliament Finalizes Landmark AI Governance Framework",
+      "summary": "The European Union passed comprehensive AI regulations, setting a global precedent for ethical AI development and deployment. This impacts tech companies worldwide.",
       "category": "Politics",
       "region": "Europe",
       "urgency": "high"
     },
     {
-      "headline": "UN Appeals for Urgent Aid as Humanitarian Crisis Deepens in Sudan",
-      "summary": "The United Nations issued an emergency appeal for Sudan, where escalating conflict and food insecurity have displaced millions. Immediate international assistance is critical to prevent widespread famine.",
-      "category": "World",
-      "region": "Africa",
-      "urgency": "breaking"
-    },
-    {
-      "headline": "Breakthrough in Sustainable Battery Technology Promises Cleaner Energy",
-      "summary": "Scientists announced a major advancement in solid-state battery technology, offering higher efficiency and longer lifespan. This innovation could accelerate the global transition to renewable energy.",
+      "headline": "Scientists Announce Major Leap in Room-Temperature Quantum Computing",
+      "summary": "Researchers achieved stable quantum entanglement at ambient temperatures, potentially accelerating the development of powerful new computing systems. This has global tech implications.",
       "category": "Science",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "Major Asian Tech Firm Reports Record Quarterly Profits Amid Market Shifts",
-      "summary": "A leading Asian technology company posted unprecedented profits for the first quarter, defying broader market volatility. This signals resilience in the tech sector and could boost investor confidence.",
+      "headline": "Major US Bank Exceeds Q2 Earnings Forecasts, Bolstering Market Confidence",
+      "summary": "A leading American financial institution reported better-than-expected quarterly profits, signaling resilience in the banking sector and positively impacting investor sentiment.",
       "category": "Business",
-      "region": "Asia",
+      "region": "US",
       "urgency": "medium"
     },
     {
-      "headline": "US Congress Deadlocks on Critical Infrastructure Spending Bill",
-      "summary": "A vital infrastructure bill failed to advance in the U.S. Congress due to partisan disagreements over funding and scope. This delay impacts job creation and modernization efforts nationwide.",
-      "category": "Politics",
-      "region": "US",
+      "headline": "Renewed Clashes Displace Thousands in East African Border Region",
+      "summary": "Fresh fighting erupted between rival factions in a contested border area, forcing thousands to flee their homes and exacerbating an already dire humanitarian situation.",
+      "category": "World",
+      "region": "Africa",
+      "urgency": "breaking"
+    },
+    {
+      "headline": "Promising Phase 3 Trial Results for Novel Malaria Vaccine Announced",
+      "summary": "Clinical trials show a new malaria vaccine to be highly effective, offering hope for significantly reducing disease burden in endemic regions worldwide.",
+      "category": "Health",
+      "region": "Global",
       "urgency": "high"
     }
-  ],
-  "fallback": true
+  ]
 }
