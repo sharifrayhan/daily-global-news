@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-05-22T04:00:04.815Z",
+  "updatedAt": "2026-05-23T03:36:59.049Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-05-17",
+  "date": "2026-05-23",
   "stories": [
     {
-      "headline": "EU Parliament Finalizes Landmark AI Governance Framework",
-      "summary": "The European Union passed comprehensive AI regulations, setting a global precedent for ethical AI development and deployment. This impacts tech companies worldwide.",
+      "headline": "UN Security Council Emergency Session Called Over Escalating Border Tensions",
+      "summary": "A sudden increase in cross-border skirmishes between two nations has prompted an urgent UN Security Council meeting. This escalation threatens regional stability and could draw in more international actors.",
       "category": "Politics",
+      "region": "Asia",
+      "urgency": "high"
+    },
+    {
+      "headline": "Global AI Ethics Framework Adopted by Major Nations",
+      "summary": "A landmark agreement on AI ethics and governance has been signed by leading technological powers. This framework aims to guide responsible AI development and prevent misuse, setting a global standard.",
+      "category": "Technology",
+      "region": "Global",
+      "urgency": "medium"
+    },
+    {
+      "headline": "European Central Bank Hints at Further Rate Hikes Amid Persistent Inflation",
+      "summary": "The ECB president indicated more interest rate increases might be necessary to combat stubbornly high inflation across the Eurozone. This signals continued economic tightening, impacting businesses and consumers.",
+      "category": "Business",
       "region": "Europe",
       "urgency": "high"
     },
     {
-      "headline": "Scientists Announce Major Leap in Room-Temperature Quantum Computing",
-      "summary": "Researchers achieved stable quantum entanglement at ambient temperatures, potentially accelerating the development of powerful new computing systems. This has global tech implications.",
+      "headline": "New Drought-Resistant Crop Varieties Boost Food Security in Africa",
+      "summary": "Scientists have successfully deployed genetically modified, drought-resistant staple crops across several African nations. This innovation is significantly improving food security and resilience against climate change impacts.",
       "category": "Science",
-      "region": "Global",
-      "urgency": "high"
-    },
-    {
-      "headline": "Major US Bank Exceeds Q2 Earnings Forecasts, Bolstering Market Confidence",
-      "summary": "A leading American financial institution reported better-than-expected quarterly profits, signaling resilience in the banking sector and positively impacting investor sentiment.",
-      "category": "Business",
-      "region": "US",
+      "region": "Africa",
       "urgency": "medium"
     },
     {
-      "headline": "Renewed Clashes Displace Thousands in East African Border Region",
-      "summary": "Fresh fighting erupted between rival factions in a contested border area, forcing thousands to flee their homes and exacerbating an already dire humanitarian situation.",
-      "category": "World",
-      "region": "Africa",
-      "urgency": "breaking"
-    },
-    {
-      "headline": "Promising Phase 3 Trial Results for Novel Malaria Vaccine Announced",
-      "summary": "Clinical trials show a new malaria vaccine to be highly effective, offering hope for significantly reducing disease burden in endemic regions worldwide.",
+      "headline": "New Respiratory Virus Strain Prompts Health Alert in Americas",
+      "summary": "Health authorities in several American nations have issued alerts regarding a rapidly spreading new strain of a respiratory virus. Public health measures are being reinforced to contain its transmission.",
       "category": "Health",
-      "region": "Global",
+      "region": "Americas",
       "urgency": "high"
     }
-  ],
-  "fallback": true
+  ]
 }
