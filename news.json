@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-05-24T03:59:13.028Z",
+  "updatedAt": "2026-05-25T04:10:35.793Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-05-23",
+  "date": "2026-05-25",
   "stories": [
     {
-      "headline": "UN Security Council Emergency Session Called Over Escalating Border Tensions",
-      "summary": "A sudden increase in cross-border skirmishes between two nations has prompted an urgent UN Security Council meeting. This escalation threatens regional stability and could draw in more international actors.",
+      "headline": "Global Climate Accord Signed, Boosting Renewable Energy Goals",
+      "summary": "Major nations agree on ambitious new emissions reduction targets and accelerate renewable energy transition, a significant step to combat climate change.",
       "category": "Politics",
-      "region": "Asia",
+      "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "Global AI Ethics Framework Adopted by Major Nations",
-      "summary": "A landmark agreement on AI ethics and governance has been signed by leading technological powers. This framework aims to guide responsible AI development and prevent misuse, setting a global standard.",
+      "headline": "EU Adopts Landmark AI Ethics Framework, Setting Global Standard",
+      "summary": "European Union passes legislation establishing ethical guidelines for AI development and deployment, aiming for responsible innovation.",
       "category": "Technology",
-      "region": "Global",
-      "urgency": "medium"
-    },
-    {
-      "headline": "European Central Bank Hints at Further Rate Hikes Amid Persistent Inflation",
-      "summary": "The ECB president indicated more interest rate increases might be necessary to combat stubbornly high inflation across the Eurozone. This signals continued economic tightening, impacting businesses and consumers.",
-      "category": "Business",
       "region": "Europe",
       "urgency": "high"
     },
     {
-      "headline": "New Drought-Resistant Crop Varieties Boost Food Security in Africa",
-      "summary": "Scientists have successfully deployed genetically modified, drought-resistant staple crops across several African nations. This innovation is significantly improving food security and resilience against climate change impacts.",
-      "category": "Science",
-      "region": "Africa",
-      "urgency": "medium"
+      "headline": "Central Banks Hike Rates Globally to Combat Persistent Inflation",
+      "summary": "Major central banks implement synchronized interest rate increases to stabilize the global economy amidst ongoing inflationary pressures.",
+      "category": "Business",
+      "region": "Global",
+      "urgency": "high"
     },
     {
-      "headline": "New Respiratory Virus Strain Prompts Health Alert in Americas",
-      "summary": "Health authorities in several American nations have issued alerts regarding a rapidly spreading new strain of a respiratory virus. Public health measures are being reinforced to contain its transmission.",
+      "headline": "New Malaria Vaccine Shows High Efficacy in African Trials",
+      "summary": "A novel malaria vaccine demonstrates promising results in late-stage trials across Africa, offering hope for reducing disease burden.",
       "category": "Health",
-      "region": "Americas",
+      "region": "Africa",
       "urgency": "high"
+    },
+    {
+      "headline": "Brazil Congress Passes Sweeping Amazon Protection Legislation",
+      "summary": "Brazil's legislature approves a landmark bill strengthening environmental protections for the Amazon, aiming to curb deforestation.",
+      "category": "Politics",
+      "region": "Americas",
+      "urgency": "medium"
     }
-  ],
-  "fallback": true
+  ]
 }
