@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-06-01T04:26:08.442Z",
+  "updatedAt": "2026-06-02T04:19:15.415Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-05-25",
+  "date": "2026-06-02",
   "stories": [
     {
-      "headline": "Global Climate Accord Signed, Boosting Renewable Energy Goals",
-      "summary": "Major nations agree on ambitious new emissions reduction targets and accelerate renewable energy transition, a significant step to combat climate change.",
+      "headline": "EU Parliament Finalizes Landmark AI Governance Framework",
+      "summary": "The EU has passed its comprehensive AI Act, setting global standards for AI development and deployment. This will shape future tech innovation and user rights worldwide.",
       "category": "Politics",
-      "region": "Global",
-      "urgency": "high"
-    },
-    {
-      "headline": "EU Adopts Landmark AI Ethics Framework, Setting Global Standard",
-      "summary": "European Union passes legislation establishing ethical guidelines for AI development and deployment, aiming for responsible innovation.",
-      "category": "Technology",
       "region": "Europe",
       "urgency": "high"
     },
     {
-      "headline": "Central Banks Hike Rates Globally to Combat Persistent Inflation",
-      "summary": "Major central banks implement synchronized interest rate increases to stabilize the global economy amidst ongoing inflationary pressures.",
-      "category": "Business",
+      "headline": "Scientists Announce Major Leap in Net-Energy Fusion Reactor Design",
+      "summary": "Researchers achieved a sustained net energy gain in a new fusion prototype, signaling a significant step towards clean, limitless energy. This could revolutionize global power grids.",
+      "category": "Science",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "New Malaria Vaccine Shows High Efficacy in African Trials",
-      "summary": "A novel malaria vaccine demonstrates promising results in late-stage trials across Africa, offering hope for reducing disease burden.",
-      "category": "Health",
+      "headline": "Aid Agencies Warn of Worsening Famine in Sahel Region Amid Conflict",
+      "summary": "UN agencies report a critical increase in displacement and food insecurity in the Sahel due to ongoing conflict. Millions face starvation, requiring urgent international intervention.",
+      "category": "World",
       "region": "Africa",
-      "urgency": "high"
+      "urgency": "breaking"
     },
     {
-      "headline": "Brazil Congress Passes Sweeping Amazon Protection Legislation",
-      "summary": "Brazil's legislature approves a landmark bill strengthening environmental protections for the Amazon, aiming to curb deforestation.",
-      "category": "Politics",
-      "region": "Americas",
+      "headline": "Asian Tech Giant Reports Record Earnings, Plans Aggressive Global Expansion",
+      "summary": "A leading Asian tech firm announced unprecedented quarterly profits and significant investment in new markets. This signals shifting economic power and increased competition.",
+      "category": "Business",
+      "region": "Asia",
       "urgency": "medium"
+    },
+    {
+      "headline": "New Zero-Day Exploit Threatens Global Critical Infrastructure Networks",
+      "summary": "Cybersecurity experts warn of a sophisticated zero-day vulnerability actively exploited, targeting energy and financial systems worldwide. Governments issue urgent patching advisories.",
+      "category": "Technology",
+      "region": "Global",
+      "urgency": "high"
     }
-  ],
-  "fallback": true
+  ]
 }
