@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-06-04T04:23:43.808Z",
+  "updatedAt": "2026-06-05T04:07:03.705Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-06-02",
+  "date": "2026-06-05",
   "stories": [
     {
-      "headline": "EU Parliament Finalizes Landmark AI Governance Framework",
-      "summary": "The EU has passed its comprehensive AI Act, setting global standards for AI development and deployment. This will shape future tech innovation and user rights worldwide.",
+      "headline": "G7 Leaders Agree on New Global Digital Tax Framework",
+      "summary": "G7 nations reached a landmark agreement on a unified global digital tax, aiming to ensure large tech companies pay fair taxes worldwide. This impacts global corporate taxation and national revenues.",
       "category": "Politics",
-      "region": "Europe",
-      "urgency": "high"
-    },
-    {
-      "headline": "Scientists Announce Major Leap in Net-Energy Fusion Reactor Design",
-      "summary": "Researchers achieved a sustained net energy gain in a new fusion prototype, signaling a significant step towards clean, limitless energy. This could revolutionize global power grids.",
-      "category": "Science",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "Aid Agencies Warn of Worsening Famine in Sahel Region Amid Conflict",
-      "summary": "UN agencies report a critical increase in displacement and food insecurity in the Sahel due to ongoing conflict. Millions face starvation, requiring urgent international intervention.",
+      "headline": "Asian Tech Giant Unveils Quantum Computing Breakthrough",
+      "summary": "A leading Asian tech firm announced a significant advance in quantum error correction, pushing quantum computing closer to practical applications. This could revolutionize data processing and security.",
+      "category": "Technology",
+      "region": "Asia",
+      "urgency": "high"
+    },
+    {
+      "headline": "Urgent Humanitarian Aid Deployed to Drought-Stricken East Africa",
+      "summary": "International agencies launched a massive aid operation to deliver food and water to millions facing severe drought in East Africa. The crisis threatens widespread famine.",
       "category": "World",
       "region": "Africa",
       "urgency": "breaking"
     },
     {
-      "headline": "Asian Tech Giant Reports Record Earnings, Plans Aggressive Global Expansion",
-      "summary": "A leading Asian tech firm announced unprecedented quarterly profits and significant investment in new markets. This signals shifting economic power and increased competition.",
+      "headline": "European Central Bank Holds Interest Rates Amid Inflation Concerns",
+      "summary": "The ECB kept benchmark interest rates unchanged, citing persistent inflation pressures across the Eurozone. This decision impacts borrowing costs and economic growth for millions.",
       "category": "Business",
-      "region": "Asia",
-      "urgency": "medium"
+      "region": "Europe",
+      "urgency": "high"
     },
     {
-      "headline": "New Zero-Day Exploit Threatens Global Critical Infrastructure Networks",
-      "summary": "Cybersecurity experts warn of a sophisticated zero-day vulnerability actively exploited, targeting energy and financial systems worldwide. Governments issue urgent patching advisories.",
-      "category": "Technology",
-      "region": "Global",
+      "headline": "New Alzheimer's Drug Shows Promising Results in Phase 3 Trials",
+      "summary": "A US-based pharmaceutical company reported positive late-stage trial data for a novel Alzheimer's treatment, showing significant cognitive improvement. This offers hope for millions affected globally.",
+      "category": "Health",
+      "region": "US",
       "urgency": "high"
     }
-  ],
-  "fallback": true
+  ]
 }
