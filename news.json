@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-06-16T01:15:50.092Z",
+  "updatedAt": "2026-06-17T01:10:27.724Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-06-05",
+  "date": "2026-06-17",
   "stories": [
     {
-      "headline": "G7 Leaders Agree on New Global Digital Tax Framework",
-      "summary": "G7 nations reached a landmark agreement on a unified global digital tax, aiming to ensure large tech companies pay fair taxes worldwide. This impacts global corporate taxation and national revenues.",
+      "headline": "UN Security Council Votes on New Sanctions Amid Eastern European Tensions",
+      "summary": "The UN Security Council passed new sanctions against a nation involved in regional conflict, aiming to de-escalate hostilities and prevent wider war.",
       "category": "Politics",
-      "region": "Global",
-      "urgency": "high"
-    },
-    {
-      "headline": "Asian Tech Giant Unveils Quantum Computing Breakthrough",
-      "summary": "A leading Asian tech firm announced a significant advance in quantum error correction, pushing quantum computing closer to practical applications. This could revolutionize data processing and security.",
-      "category": "Technology",
-      "region": "Asia",
-      "urgency": "high"
-    },
-    {
-      "headline": "Urgent Humanitarian Aid Deployed to Drought-Stricken East Africa",
-      "summary": "International agencies launched a massive aid operation to deliver food and water to millions facing severe drought in East Africa. The crisis threatens widespread famine.",
-      "category": "World",
-      "region": "Africa",
-      "urgency": "breaking"
-    },
-    {
-      "headline": "European Central Bank Holds Interest Rates Amid Inflation Concerns",
-      "summary": "The ECB kept benchmark interest rates unchanged, citing persistent inflation pressures across the Eurozone. This decision impacts borrowing costs and economic growth for millions.",
-      "category": "Business",
       "region": "Europe",
       "urgency": "high"
     },
     {
-      "headline": "New Alzheimer's Drug Shows Promising Results in Phase 3 Trials",
-      "summary": "A US-based pharmaceutical company reported positive late-stage trial data for a novel Alzheimer's treatment, showing significant cognitive improvement. This offers hope for millions affected globally.",
-      "category": "Health",
+      "headline": "Global Tech Leaders Agree on AI Ethics Framework at Summit",
+      "summary": "Major tech companies and governments signed a landmark agreement on AI development and deployment ethics, setting global standards for responsible innovation.",
+      "category": "Technology",
+      "region": "Global",
+      "urgency": "high"
+    },
+    {
+      "headline": "US Federal Reserve Signals Rate Hikes Pause Amid Stabilizing Inflation",
+      "summary": "The US Federal Reserve indicated a potential pause in interest rate hikes following new data showing inflation stabilizing, boosting market confidence.",
+      "category": "Business",
       "region": "US",
       "urgency": "high"
+    },
+    {
+      "headline": "New Malaria Vaccine Shows 90% Efficacy in Phase 3 African Trials",
+      "summary": "A novel malaria vaccine demonstrated unprecedented efficacy in large-scale trials across Africa, offering hope for combating a leading cause of death.",
+      "category": "Health",
+      "region": "Africa",
+      "urgency": "high"
+    },
+    {
+      "headline": "Extreme Heatwave Grips South Asia, Prompting Emergency Measures",
+      "summary": "An unprecedented heatwave continues to affect millions across South Asia, leading to power outages and health warnings, highlighting climate change impacts.",
+      "category": "World",
+      "region": "Asia",
+      "urgency": "breaking"
     }
-  ],
-  "fallback": true
+  ]
 }
