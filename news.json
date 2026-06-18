@@ -1,40 +1,40 @@
 {
-  "updatedAt": "2026-06-17T01:10:27.724Z",
+  "updatedAt": "2026-06-18T01:09:15.186Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-06-17",
+  "date": "2026-06-18",
   "stories": [
     {
-      "headline": "UN Security Council Votes on New Sanctions Amid Eastern European Tensions",
-      "summary": "The UN Security Council passed new sanctions against a nation involved in regional conflict, aiming to de-escalate hostilities and prevent wider war.",
+      "headline": "Middle East Peace Talks Yield Tentative Ceasefire Agreement",
+      "summary": "Diplomatic efforts led to a fragile ceasefire in the ongoing regional conflict, offering hope for stability and humanitarian aid.",
       "category": "Politics",
+      "region": "Middle East",
+      "urgency": "high"
+    },
+    {
+      "headline": "Global AI Regulatory Body Proposes New Ethical Guidelines",
+      "summary": "An international consortium released a framework for responsible AI development, aiming to prevent misuse and ensure equitable access.",
+      "category": "Technology",
+      "region": "Global",
+      "urgency": "medium"
+    },
+    {
+      "headline": "European Union Announces Major Green Energy Investment Surge",
+      "summary": "The EU unveiled a multi-billion euro package to accelerate renewable energy projects, boosting economic growth and climate goals.",
+      "category": "Business",
       "region": "Europe",
       "urgency": "high"
     },
     {
-      "headline": "Global Tech Leaders Agree on AI Ethics Framework at Summit",
-      "summary": "Major tech companies and governments signed a landmark agreement on AI development and deployment ethics, setting global standards for responsible innovation.",
-      "category": "Technology",
+      "headline": "Breakthrough Gene Therapy Shows Promise for Rare Neurological Disorder",
+      "summary": "Clinical trials report significant success in a novel gene therapy, offering new hope for patients with a previously untreatable condition.",
+      "category": "Health",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "US Federal Reserve Signals Rate Hikes Pause Amid Stabilizing Inflation",
-      "summary": "The US Federal Reserve indicated a potential pause in interest rate hikes following new data showing inflation stabilizing, boosting market confidence.",
-      "category": "Business",
-      "region": "US",
-      "urgency": "high"
-    },
-    {
-      "headline": "New Malaria Vaccine Shows 90% Efficacy in Phase 3 African Trials",
-      "summary": "A novel malaria vaccine demonstrated unprecedented efficacy in large-scale trials across Africa, offering hope for combating a leading cause of death.",
-      "category": "Health",
-      "region": "Africa",
-      "urgency": "high"
-    },
-    {
-      "headline": "Extreme Heatwave Grips South Asia, Prompting Emergency Measures",
-      "summary": "An unprecedented heatwave continues to affect millions across South Asia, leading to power outages and health warnings, highlighting climate change impacts.",
+      "headline": "UN Appeals for Urgent Aid After Devastating Floods in Southeast Asia",
+      "summary": "Record monsoon rains caused widespread flooding across several Asian nations, displacing millions and prompting a massive humanitarian response.",
       "category": "World",
       "region": "Asia",
       "urgency": "breaking"
