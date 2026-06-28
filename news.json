@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-06-27T01:00:47.837Z",
+  "updatedAt": "2026-06-28T01:05:32.912Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-06-24",
+  "date": "2026-06-28",
   "stories": [
     {
-      "headline": "European Leaders Fail to Reach Consensus on New Climate Fund Allocation",
-      "summary": "EU leaders concluded a summit without agreement on funding distribution for a critical climate adaptation fund. This deadlock delays urgent environmental projects across the bloc.",
+      "headline": "EU Leaders Finalize Landmark Green Transition Investment Package",
+      "summary": "European Union leaders concluded a summit by approving a multi-billion euro investment to accelerate green energy and climate resilience, aiming for long-term economic stability.",
       "category": "Politics",
       "region": "Europe",
       "urgency": "high"
     },
     {
-      "headline": "Breakthrough in Fusion Energy Reactor Achieves Sustained Net Energy Gain",
-      "summary": "Scientists announced a major milestone in fusion energy, demonstrating sustained net energy gain in a prototype reactor. This paves the way for clean, abundant power.",
+      "headline": "Global Tech Consortium Launches Open-Source AI Ethics Framework",
+      "summary": "A coalition of leading tech companies and governments unveiled a universal ethical AI framework, setting new standards for responsible development and deployment worldwide.",
       "category": "Technology",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "Major Asian Semiconductor Manufacturer Reports Significant Q2 Revenue Decline",
-      "summary": "A leading chipmaker in Asia announced a sharper-than-expected revenue drop, signaling a slowdown in global tech demand. This could impact the broader electronics industry.",
-      "category": "Business",
-      "region": "Asia",
-      "urgency": "high"
-    },
-    {
-      "headline": "Humanitarian Crisis Deepens in East Africa Amidst Severe Drought and Conflict",
-      "summary": "UN agencies report millions facing acute food insecurity as prolonged drought exacerbates conflict-driven displacement. Urgent international aid is desperately needed.",
+      "headline": "Monsoon Floods Displace Millions Across Southeast Asia",
+      "summary": "Record monsoon rains have caused widespread flooding in several Southeast Asian nations, leading to mass evacuations and urgent international calls for humanitarian aid.",
       "category": "World",
-      "region": "Africa",
+      "region": "Asia",
       "urgency": "breaking"
     },
     {
-      "headline": "New CDC Report Highlights Rise in Antibiotic-Resistant Infections in US",
-      "summary": "A new CDC report reveals a concerning increase in antibiotic-resistant bacterial infections across the US. This poses a significant threat to public health and treatment options.",
+      "headline": "Central Banks Signal Rate Stability Amid Global Inflation Moderation",
+      "summary": "Major central banks, including the US Federal Reserve, indicated a pause in interest rate hikes, signaling confidence in inflation control and supporting market stability.",
+      "category": "Business",
+      "region": "Americas",
+      "urgency": "high"
+    },
+    {
+      "headline": "New Malaria Vaccine Trial Shows Promising Efficacy in Africa",
+      "summary": "A phase 3 clinical trial for a novel malaria vaccine demonstrated high efficacy in several African nations, offering significant hope for reducing the disease burden.",
       "category": "Health",
-      "region": "US",
+      "region": "Africa",
       "urgency": "high"
     }
-  ],
-  "fallback": true
+  ]
 }
