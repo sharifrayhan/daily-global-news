@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-07-01T01:06:13.538Z",
+  "updatedAt": "2026-07-02T01:01:53.183Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-06-28",
+  "date": "2026-07-02",
   "stories": [
     {
-      "headline": "EU Leaders Finalize Landmark Green Transition Investment Package",
-      "summary": "European Union leaders concluded a summit by approving a multi-billion euro investment to accelerate green energy and climate resilience, aiming for long-term economic stability.",
+      "headline": "EU Parliament Fails to Pass Key Climate Bill Amid Deep Divisions",
+      "summary": "The European Parliament failed to pass a crucial climate change bill, highlighting internal divisions that could delay the bloc's green transition goals. This setback impacts climate targets and policy. ",
       "category": "Politics",
       "region": "Europe",
       "urgency": "high"
     },
     {
-      "headline": "Global Tech Consortium Launches Open-Source AI Ethics Framework",
-      "summary": "A coalition of leading tech companies and governments unveiled a universal ethical AI framework, setting new standards for responsible development and deployment worldwide.",
+      "headline": "Quantum Computing Breakthrough Achieved by International Research Team",
+      "summary": "Scientists from a global consortium announced a significant advancement in quantum error correction, potentially accelerating the development of fault-tolerant quantum computers. This marks a major step for future computing.",
       "category": "Technology",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "Monsoon Floods Displace Millions Across Southeast Asia",
-      "summary": "Record monsoon rains have caused widespread flooding in several Southeast Asian nations, leading to mass evacuations and urgent international calls for humanitarian aid.",
-      "category": "World",
+      "headline": "Asian Markets React to China's Q2 GDP Growth Exceeding Expectations",
+      "summary": "China reported stronger-than-expected Q2 GDP growth, boosting investor confidence across Asian markets and signaling potential stabilization in the global economy. This impacts global trade and investment outlooks.",
+      "category": "Business",
       "region": "Asia",
+      "urgency": "high"
+    },
+    {
+      "headline": "New Outbreak of Unknown Respiratory Illness Reported in East Africa",
+      "summary": "Health authorities in East Africa are investigating a rapidly spreading respiratory illness, prompting fears of a new public health crisis. Urgent international aid is being requested to contain the spread.",
+      "category": "Health",
+      "region": "Africa",
       "urgency": "breaking"
     },
     {
-      "headline": "Central Banks Signal Rate Stability Amid Global Inflation Moderation",
-      "summary": "Major central banks, including the US Federal Reserve, indicated a pause in interest rate hikes, signaling confidence in inflation control and supporting market stability.",
-      "category": "Business",
+      "headline": "Amazon Rainforest Reforestation Project Exceeds Initial Targets",
+      "summary": "A major international reforestation initiative in the Amazon has announced it has surpassed its initial tree-planting goals, offering hope for biodiversity and climate mitigation efforts. This is a significant environmental win.",
+      "category": "World",
       "region": "Americas",
-      "urgency": "high"
-    },
-    {
-      "headline": "New Malaria Vaccine Trial Shows Promising Efficacy in Africa",
-      "summary": "A phase 3 clinical trial for a novel malaria vaccine demonstrated high efficacy in several African nations, offering significant hope for reducing the disease burden.",
-      "category": "Health",
-      "region": "Africa",
-      "urgency": "high"
+      "urgency": "medium"
     }
-  ],
-  "fallback": true
+  ]
 }
