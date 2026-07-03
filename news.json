@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-07-02T01:01:53.183Z",
+  "updatedAt": "2026-07-03T00:49:18.947Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-07-02",
+  "date": "2026-07-03",
   "stories": [
     {
-      "headline": "EU Parliament Fails to Pass Key Climate Bill Amid Deep Divisions",
-      "summary": "The European Parliament failed to pass a crucial climate change bill, highlighting internal divisions that could delay the bloc's green transition goals. This setback impacts climate targets and policy. ",
+      "headline": "EU Parliament Approves Landmark Green Energy Transition Package",
+      "summary": "The European Parliament passed ambitious legislation to accelerate renewable energy adoption. This marks a critical step towards 2050 climate neutrality goals.",
       "category": "Politics",
       "region": "Europe",
       "urgency": "high"
     },
     {
-      "headline": "Quantum Computing Breakthrough Achieved by International Research Team",
-      "summary": "Scientists from a global consortium announced a significant advancement in quantum error correction, potentially accelerating the development of fault-tolerant quantum computers. This marks a major step for future computing.",
+      "headline": "Asian Tech Giant Unveils Next-Gen AI Processor for Consumer Devices",
+      "summary": "A leading Asian firm introduced a powerful new AI chip promising faster, more efficient on-device processing. It could revolutionize smartphone and smart home tech.",
       "category": "Technology",
-      "region": "Global",
-      "urgency": "high"
-    },
-    {
-      "headline": "Asian Markets React to China's Q2 GDP Growth Exceeding Expectations",
-      "summary": "China reported stronger-than-expected Q2 GDP growth, boosting investor confidence across Asian markets and signaling potential stabilization in the global economy. This impacts global trade and investment outlooks.",
-      "category": "Business",
       "region": "Asia",
       "urgency": "high"
     },
     {
-      "headline": "New Outbreak of Unknown Respiratory Illness Reported in East Africa",
-      "summary": "Health authorities in East Africa are investigating a rapidly spreading respiratory illness, prompting fears of a new public health crisis. Urgent international aid is being requested to contain the spread.",
+      "headline": "New Malaria Vaccine Shows High Efficacy in Phase 3 African Trials",
+      "summary": "A promising new vaccine demonstrated strong protection against malaria in large-scale trials across Africa. This offers hope for millions at risk.",
       "category": "Health",
       "region": "Africa",
-      "urgency": "breaking"
+      "urgency": "high"
     },
     {
-      "headline": "Amazon Rainforest Reforestation Project Exceeds Initial Targets",
-      "summary": "A major international reforestation initiative in the Amazon has announced it has surpassed its initial tree-planting goals, offering hope for biodiversity and climate mitigation efforts. This is a significant environmental win.",
+      "headline": "Global Oil and Food Prices Surge Amid New Supply Chain Disruptions",
+      "summary": "Fresh disruptions, possibly from geopolitical tensions or extreme weather, have driven up essential commodity costs worldwide. This threatens global economic stability.",
+      "category": "Business",
+      "region": "Global",
+      "urgency": "high"
+    },
+    {
+      "headline": "Diplomatic Efforts Intensify After Border Clashes in Middle East Region",
+      "summary": "International mediators are urgently intervening after renewed cross-border hostilities escalated. De-escalation is critical to prevent wider conflict.",
       "category": "World",
-      "region": "Americas",
-      "urgency": "medium"
+      "region": "Middle East",
+      "urgency": "breaking"
     }
   ]
 }
