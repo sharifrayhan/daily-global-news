@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-07-04T00:47:56.069Z",
+  "updatedAt": "2026-07-05T00:52:38.704Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-07-03",
+  "date": "2026-07-05",
   "stories": [
     {
-      "headline": "EU Parliament Approves Landmark Green Energy Transition Package",
-      "summary": "The European Parliament passed ambitious legislation to accelerate renewable energy adoption. This marks a critical step towards 2050 climate neutrality goals.",
+      "headline": "UN Security Council Votes on New Sanctions Amid Escalating Conflict",
+      "summary": "The UN Security Council passed new sanctions against a nation involved in a regional conflict, aiming to de-escalate violence and protect civilians.",
       "category": "Politics",
-      "region": "Europe",
-      "urgency": "high"
-    },
-    {
-      "headline": "Asian Tech Giant Unveils Next-Gen AI Processor for Consumer Devices",
-      "summary": "A leading Asian firm introduced a powerful new AI chip promising faster, more efficient on-device processing. It could revolutionize smartphone and smart home tech.",
-      "category": "Technology",
-      "region": "Asia",
-      "urgency": "high"
-    },
-    {
-      "headline": "New Malaria Vaccine Shows High Efficacy in Phase 3 African Trials",
-      "summary": "A promising new vaccine demonstrated strong protection against malaria in large-scale trials across Africa. This offers hope for millions at risk.",
-      "category": "Health",
-      "region": "Africa",
-      "urgency": "high"
-    },
-    {
-      "headline": "Global Oil and Food Prices Surge Amid New Supply Chain Disruptions",
-      "summary": "Fresh disruptions, possibly from geopolitical tensions or extreme weather, have driven up essential commodity costs worldwide. This threatens global economic stability.",
-      "category": "Business",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "Diplomatic Efforts Intensify After Border Clashes in Middle East Region",
-      "summary": "International mediators are urgently intervening after renewed cross-border hostilities escalated. De-escalation is critical to prevent wider conflict.",
+      "headline": "Leading AI Firm Announces Breakthrough in General AI Model Development",
+      "summary": "A prominent AI company unveiled significant progress in developing a general artificial intelligence model, potentially revolutionizing industries.",
+      "category": "Technology",
+      "region": "Global",
+      "urgency": "high"
+    },
+    {
+      "headline": "New Malaria Vaccine Shows High Efficacy in Phase 3 African Trials",
+      "summary": "A novel malaria vaccine completed successful Phase 3 trials in Africa, demonstrating high efficacy. This offers hope for combating a major global health burden.",
+      "category": "Health",
+      "region": "Africa",
+      "urgency": "medium"
+    },
+    {
+      "headline": "European Central Bank Signals Potential Interest Rate Hike Amid Inflation",
+      "summary": "The European Central Bank indicated a possible interest rate increase, reacting to persistent inflation. This could affect economic stability across the Eurozone.",
+      "category": "Business",
+      "region": "Europe",
+      "urgency": "high"
+    },
+    {
+      "headline": "Severe Typhoon Strikes Southeast Asia, Causing Widespread Evacuations",
+      "summary": "A powerful typhoon made landfall in Southeast Asia, leading to mass evacuations and significant infrastructure damage. Humanitarian aid efforts are mobilizing.",
       "category": "World",
-      "region": "Middle East",
+      "region": "Asia",
       "urgency": "breaking"
     }
-  ],
-  "fallback": true
+  ]
 }
