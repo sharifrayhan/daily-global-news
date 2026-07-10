@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-07-09T00:48:26.256Z",
+  "updatedAt": "2026-07-10T00:47:55.868Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-07-05",
+  "date": "2026-07-10",
   "stories": [
     {
-      "headline": "UN Security Council Votes on New Sanctions Amid Escalating Conflict",
-      "summary": "The UN Security Council passed new sanctions against a nation involved in a regional conflict, aiming to de-escalate violence and protect civilians.",
+      "headline": "New European Coalition Government Formed After Weeks of Negotiations",
+      "summary": "After prolonged talks, a new centrist coalition has been announced, promising stability for the EU amidst economic uncertainty. This impacts policy direction.",
       "category": "Politics",
-      "region": "Global",
+      "region": "Europe",
       "urgency": "high"
     },
     {
-      "headline": "Leading AI Firm Announces Breakthrough in General AI Model Development",
-      "summary": "A prominent AI company unveiled significant progress in developing a general artificial intelligence model, potentially revolutionizing industries.",
+      "headline": "Global Tech Giants Agree on AI Ethics Framework to Guide Development",
+      "summary": "Leading tech companies announced a joint framework for ethical AI development, aiming to address public concerns about bias and safety. This sets a precedent for the industry.",
       "category": "Technology",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "New Malaria Vaccine Shows High Efficacy in Phase 3 African Trials",
-      "summary": "A novel malaria vaccine completed successful Phase 3 trials in Africa, demonstrating high efficacy. This offers hope for combating a major global health burden.",
-      "category": "Health",
-      "region": "Africa",
-      "urgency": "medium"
-    },
-    {
-      "headline": "European Central Bank Signals Potential Interest Rate Hike Amid Inflation",
-      "summary": "The European Central Bank indicated a possible interest rate increase, reacting to persistent inflation. This could affect economic stability across the Eurozone.",
+      "headline": "US Inflation Rate Shows Unexpected Dip, Boosting Market Confidence",
+      "summary": "The latest consumer price index revealed a surprising decrease in inflation, signaling potential relief for consumers and boosting investor optimism. This could influence central bank policy.",
       "category": "Business",
-      "region": "Europe",
+      "region": "US",
       "urgency": "high"
     },
     {
-      "headline": "Severe Typhoon Strikes Southeast Asia, Causing Widespread Evacuations",
-      "summary": "A powerful typhoon made landfall in Southeast Asia, leading to mass evacuations and significant infrastructure damage. Humanitarian aid efforts are mobilizing.",
-      "category": "World",
-      "region": "Asia",
+      "headline": "New Malaria Vaccine Shows 90% Efficacy in Phase 3 African Trials",
+      "summary": "A groundbreaking new malaria vaccine has demonstrated exceptional efficacy in late-stage trials across Africa, offering hope to eradicate the deadly disease. This is a major public health victory.",
+      "category": "Health",
+      "region": "Africa",
       "urgency": "breaking"
+    },
+    {
+      "headline": "Ceasefire Holds in Middle East Conflict Zone, Humanitarian Aid Resumes",
+      "summary": "A fragile ceasefire has been maintained for over 24 hours in a key conflict area, allowing critical humanitarian aid convoys to reach besieged populations. This offers a glimmer of hope for peace.",
+      "category": "World",
+      "region": "Middle East",
+      "urgency": "high"
     }
-  ],
-  "fallback": true
+  ]
 }
