@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-07-10T00:47:55.868Z",
+  "updatedAt": "2026-07-11T00:41:32.448Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-07-10",
+  "date": "2026-07-11",
   "stories": [
     {
-      "headline": "New European Coalition Government Formed After Weeks of Negotiations",
-      "summary": "After prolonged talks, a new centrist coalition has been announced, promising stability for the EU amidst economic uncertainty. This impacts policy direction.",
+      "headline": "Global Climate Summit Reaches Provisional Agreement on Carbon Targets",
+      "summary": "Nations provisionally agree on stricter carbon emission reduction targets, signaling a renewed push for climate action. This impacts global environmental policy.",
       "category": "Politics",
-      "region": "Europe",
-      "urgency": "high"
-    },
-    {
-      "headline": "Global Tech Giants Agree on AI Ethics Framework to Guide Development",
-      "summary": "Leading tech companies announced a joint framework for ethical AI development, aiming to address public concerns about bias and safety. This sets a precedent for the industry.",
-      "category": "Technology",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "US Inflation Rate Shows Unexpected Dip, Boosting Market Confidence",
-      "summary": "The latest consumer price index revealed a surprising decrease in inflation, signaling potential relief for consumers and boosting investor optimism. This could influence central bank policy.",
-      "category": "Business",
+      "headline": "Leading Tech Firm Unveils Next-Gen AI Chip, Boosting Data Processing Speeds",
+      "summary": "A major tech company announced a revolutionary AI chip, promising unprecedented processing power. This could accelerate AI development and impact various industries.",
+      "category": "Technology",
       "region": "US",
       "urgency": "high"
     },
     {
-      "headline": "New Malaria Vaccine Shows 90% Efficacy in Phase 3 African Trials",
-      "summary": "A groundbreaking new malaria vaccine has demonstrated exceptional efficacy in late-stage trials across Africa, offering hope to eradicate the deadly disease. This is a major public health victory.",
+      "headline": "Breakthrough in Alzheimer's Treatment Shows Promising Results in Clinical Trials",
+      "summary": "New drug therapy for early-stage Alzheimer's disease demonstrated significant cognitive improvement in late-stage trials. This offers hope for millions affected globally.",
       "category": "Health",
+      "region": "Global",
+      "urgency": "high"
+    },
+    {
+      "headline": "Ceasefire Declared in East African Nation After Weeks of Intense Fighting",
+      "summary": "A fragile ceasefire has been announced between warring factions in an East African country, offering a temporary halt to hostilities. This is crucial for humanitarian aid access.",
+      "category": "World",
       "region": "Africa",
       "urgency": "breaking"
     },
     {
-      "headline": "Ceasefire Holds in Middle East Conflict Zone, Humanitarian Aid Resumes",
-      "summary": "A fragile ceasefire has been maintained for over 24 hours in a key conflict area, allowing critical humanitarian aid convoys to reach besieged populations. This offers a glimmer of hope for peace.",
-      "category": "World",
-      "region": "Middle East",
-      "urgency": "high"
+      "headline": "European Central Bank Hints at Future Rate Hike Amid Persistent Inflation",
+      "summary": "The ECB indicated potential interest rate increases later this year due to stubbornly high inflation figures. This impacts borrowing costs and economic stability across Europe.",
+      "category": "Business",
+      "region": "Europe",
+      "urgency": "medium"
     }
   ]
 }
