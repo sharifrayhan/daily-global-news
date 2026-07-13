@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-07-12T00:46:40.927Z",
+  "updatedAt": "2026-07-13T00:46:30.000Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-07-11",
+  "date": "2026-07-13",
   "stories": [
     {
-      "headline": "Global Climate Summit Reaches Provisional Agreement on Carbon Targets",
-      "summary": "Nations provisionally agree on stricter carbon emission reduction targets, signaling a renewed push for climate action. This impacts global environmental policy.",
+      "headline": "UN Security Council Emergency Session Called Over Escalating Sahel Crisis",
+      "summary": "Renewed fighting and humanitarian concerns in the Sahel region have prompted an urgent UN Security Council meeting, aiming to de-escalate tensions and protect civilians.",
       "category": "Politics",
-      "region": "Global",
-      "urgency": "high"
-    },
-    {
-      "headline": "Leading Tech Firm Unveils Next-Gen AI Chip, Boosting Data Processing Speeds",
-      "summary": "A major tech company announced a revolutionary AI chip, promising unprecedented processing power. This could accelerate AI development and impact various industries.",
-      "category": "Technology",
-      "region": "US",
-      "urgency": "high"
-    },
-    {
-      "headline": "Breakthrough in Alzheimer's Treatment Shows Promising Results in Clinical Trials",
-      "summary": "New drug therapy for early-stage Alzheimer's disease demonstrated significant cognitive improvement in late-stage trials. This offers hope for millions affected globally.",
-      "category": "Health",
-      "region": "Global",
-      "urgency": "high"
-    },
-    {
-      "headline": "Ceasefire Declared in East African Nation After Weeks of Intense Fighting",
-      "summary": "A fragile ceasefire has been announced between warring factions in an East African country, offering a temporary halt to hostilities. This is crucial for humanitarian aid access.",
-      "category": "World",
       "region": "Africa",
-      "urgency": "breaking"
+      "urgency": "high"
     },
     {
-      "headline": "European Central Bank Hints at Future Rate Hike Amid Persistent Inflation",
-      "summary": "The ECB indicated potential interest rate increases later this year due to stubbornly high inflation figures. This impacts borrowing costs and economic stability across Europe.",
+      "headline": "Breakthrough AI Model Achieves 98% Accuracy in Early Cancer Detection",
+      "summary": "Researchers announced a new AI system significantly improving early cancer diagnosis, promising to revolutionize medical imaging and patient outcomes globally.",
+      "category": "Technology",
+      "region": "Global",
+      "urgency": "high"
+    },
+    {
+      "headline": "Federal Reserve Holds Interest Rates Steady Amidst Persistent Inflation",
+      "summary": "The US Federal Reserve maintained current interest rates, signaling a cautious approach as inflation remains persistent despite slowing economic growth.",
       "category": "Business",
+      "region": "US",
+      "urgency": "medium"
+    },
+    {
+      "headline": "ESA Launches Advanced Climate Satellite for Enhanced Ocean Monitoring",
+      "summary": "The European Space Agency successfully deployed a new satellite designed to provide unprecedented data on ocean health and sea-level rise, crucial for climate models.",
+      "category": "Science",
       "region": "Europe",
+      "urgency": "high"
+    },
+    {
+      "headline": "Monsoon Floods Displace Thousands in Southeast Asia, Aid Efforts Underway",
+      "summary": "Heavy monsoon rains caused widespread flooding across several Southeast Asian nations, displacing thousands and prompting urgent international humanitarian aid.",
+      "category": "World",
+      "region": "Asia",
       "urgency": "medium"
     }
-  ],
-  "fallback": true
+  ]
 }
