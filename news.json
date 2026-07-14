@@ -1,41 +1,41 @@
 {
-  "updatedAt": "2026-07-13T00:46:30.000Z",
+  "updatedAt": "2026-07-14T00:39:32.572Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-07-13",
+  "date": "2026-07-14",
   "stories": [
     {
-      "headline": "UN Security Council Emergency Session Called Over Escalating Sahel Crisis",
-      "summary": "Renewed fighting and humanitarian concerns in the Sahel region have prompted an urgent UN Security Council meeting, aiming to de-escalate tensions and protect civilians.",
+      "headline": "Middle East Peace Talks Yield Significant Ceasefire Agreement",
+      "summary": "Rival factions in the Levant signed a landmark ceasefire after intense negotiations, raising hopes for lasting stability in the war-torn region.",
       "category": "Politics",
-      "region": "Africa",
+      "region": "Middle East",
       "urgency": "high"
     },
     {
-      "headline": "Breakthrough AI Model Achieves 98% Accuracy in Early Cancer Detection",
-      "summary": "Researchers announced a new AI system significantly improving early cancer diagnosis, promising to revolutionize medical imaging and patient outcomes globally.",
+      "headline": "EU Commission Proposes Stricter AI Ethics Guidelines for Member States",
+      "summary": "New guidelines aim to ensure responsible AI development and deployment, impacting tech firms globally and setting a precedent for future regulation.",
       "category": "Technology",
-      "region": "Global",
-      "urgency": "high"
-    },
-    {
-      "headline": "Federal Reserve Holds Interest Rates Steady Amidst Persistent Inflation",
-      "summary": "The US Federal Reserve maintained current interest rates, signaling a cautious approach as inflation remains persistent despite slowing economic growth.",
-      "category": "Business",
-      "region": "US",
-      "urgency": "medium"
-    },
-    {
-      "headline": "ESA Launches Advanced Climate Satellite for Enhanced Ocean Monitoring",
-      "summary": "The European Space Agency successfully deployed a new satellite designed to provide unprecedented data on ocean health and sea-level rise, crucial for climate models.",
-      "category": "Science",
       "region": "Europe",
       "urgency": "high"
     },
     {
-      "headline": "Monsoon Floods Displace Thousands in Southeast Asia, Aid Efforts Underway",
-      "summary": "Heavy monsoon rains caused widespread flooding across several Southeast Asian nations, displacing thousands and prompting urgent international humanitarian aid.",
-      "category": "World",
+      "headline": "Global Inflation Eases Slightly in June, Central Banks Eye Rate Cuts",
+      "summary": "New data shows a marginal dip in global inflation, signaling potential for central banks to consider interest rate adjustments later this year.",
+      "category": "Business",
+      "region": "Global",
+      "urgency": "high"
+    },
+    {
+      "headline": "New Malaria Vaccine Shows Promising Results in Phase 3 African Trials",
+      "summary": "A novel malaria vaccine demonstrated high efficacy in large-scale trials, offering a significant step towards eradicating the deadly disease in Africa.",
+      "category": "Health",
+      "region": "Africa",
+      "urgency": "high"
+    },
+    {
+      "headline": "Southeast Asian Nation Holds Peaceful General Election Amid High Turnout",
+      "summary": "Citizens of a key Southeast Asian nation participated in a peaceful election, with early results indicating a stable transition of power.",
+      "category": "Politics",
       "region": "Asia",
       "urgency": "medium"
     }
