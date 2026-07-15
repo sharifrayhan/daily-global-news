@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T00:39:32.572Z",
+  "updatedAt": "2026-07-15T00:37:35.444Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
   "date": "2026-07-14",
@@ -39,5 +39,6 @@
       "region": "Asia",
       "urgency": "medium"
     }
-  ]
+  ],
+  "fallback": true
 }
