@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-07-15T00:37:35.444Z",
+  "updatedAt": "2026-07-16T00:40:54.476Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-07-14",
+  "date": "2026-07-16",
   "stories": [
     {
-      "headline": "Middle East Peace Talks Yield Significant Ceasefire Agreement",
-      "summary": "Rival factions in the Levant signed a landmark ceasefire after intense negotiations, raising hopes for lasting stability in the war-torn region.",
+      "headline": "Middle East Peace Summit Yields Landmark Ceasefire Agreement",
+      "summary": "Leaders from Israel and Palestine signed a landmark ceasefire and framework for future talks, offering hope for regional stability.",
       "category": "Politics",
       "region": "Middle East",
       "urgency": "high"
     },
     {
-      "headline": "EU Commission Proposes Stricter AI Ethics Guidelines for Member States",
-      "summary": "New guidelines aim to ensure responsible AI development and deployment, impacting tech firms globally and setting a precedent for future regulation.",
+      "headline": "UN Member States Adopt First Global AI Governance Framework",
+      "summary": "Nations approved the first international framework for AI ethics and safety, aiming to guide responsible development and deployment worldwide.",
       "category": "Technology",
-      "region": "Europe",
-      "urgency": "high"
-    },
-    {
-      "headline": "Global Inflation Eases Slightly in June, Central Banks Eye Rate Cuts",
-      "summary": "New data shows a marginal dip in global inflation, signaling potential for central banks to consider interest rate adjustments later this year.",
-      "category": "Business",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "New Malaria Vaccine Shows Promising Results in Phase 3 African Trials",
-      "summary": "A novel malaria vaccine demonstrated high efficacy in large-scale trials, offering a significant step towards eradicating the deadly disease in Africa.",
-      "category": "Health",
-      "region": "Africa",
-      "urgency": "high"
-    },
-    {
-      "headline": "Southeast Asian Nation Holds Peaceful General Election Amid High Turnout",
-      "summary": "Citizens of a key Southeast Asian nation participated in a peaceful election, with early results indicating a stable transition of power.",
-      "category": "Politics",
+      "headline": "Asian Markets Rally on Strong Q2 Economic Growth Reports",
+      "summary": "Major Asian economies reported robust growth, boosting global investor confidence and signaling a strong recovery trajectory.",
+      "category": "Business",
       "region": "Asia",
       "urgency": "medium"
+    },
+    {
+      "headline": "Fusion Reactor Achieves Sustained Net Energy Gain Milestone",
+      "summary": "Researchers announced a breakthrough in fusion energy, maintaining net energy gain for over an hour, a critical step towards clean power.",
+      "category": "Science",
+      "region": "Europe",
+      "urgency": "breaking"
+    },
+    {
+      "headline": "Severe Drought Escalates Humanitarian Crisis in Horn of Africa",
+      "summary": "UN agencies warn of escalating needs as persistent drought conditions intensify food insecurity for millions across the region.",
+      "category": "World",
+      "region": "Africa",
+      "urgency": "high"
     }
-  ],
-  "fallback": true
+  ]
 }
