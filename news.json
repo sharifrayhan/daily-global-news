@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-07-18T00:39:50.504Z",
+  "updatedAt": "2026-07-19T00:44:33.191Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-07-16",
+  "date": "2026-07-19",
   "stories": [
     {
-      "headline": "Middle East Peace Summit Yields Landmark Ceasefire Agreement",
-      "summary": "Leaders from Israel and Palestine signed a landmark ceasefire and framework for future talks, offering hope for regional stability.",
+      "headline": "EU Parliament Approves Landmark Green Energy Transition Bill",
+      "summary": "The European Parliament passed a bill mandating faster renewable energy adoption across member states. This accelerates climate goals and significantly impacts energy markets continent-wide.",
       "category": "Politics",
-      "region": "Middle East",
+      "region": "Europe",
       "urgency": "high"
     },
     {
-      "headline": "UN Member States Adopt First Global AI Governance Framework",
-      "summary": "Nations approved the first international framework for AI ethics and safety, aiming to guide responsible development and deployment worldwide.",
+      "headline": "Quantum Computing Breakthrough Achieved by Leading Tech Firm",
+      "summary": "A major tech company announced a significant advance in quantum error correction. This breakthrough could accelerate the development of practical quantum computers, revolutionizing data processing.",
       "category": "Technology",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "Asian Markets Rally on Strong Q2 Economic Growth Reports",
-      "summary": "Major Asian economies reported robust growth, boosting global investor confidence and signaling a strong recovery trajectory.",
-      "category": "Business",
-      "region": "Asia",
+      "headline": "Humanitarian Aid Convoy Reaches Stricken Region in East Africa",
+      "summary": "A large international aid convoy successfully delivered critical food and medical supplies to millions facing famine. This provides temporary relief amidst ongoing regional instability and drought.",
+      "category": "World",
+      "region": "Africa",
       "urgency": "medium"
     },
     {
-      "headline": "Fusion Reactor Achieves Sustained Net Energy Gain Milestone",
-      "summary": "Researchers announced a breakthrough in fusion energy, maintaining net energy gain for over an hour, a critical step towards clean power.",
-      "category": "Science",
-      "region": "Europe",
-      "urgency": "breaking"
+      "headline": "Asian Markets React to Surprise Interest Rate Hike by Major Central Bank",
+      "summary": "A key Asian central bank unexpectedly raised its benchmark interest rate to curb persistent inflation. This signals tightening global monetary policy and impacts investment flows across the region.",
+      "category": "Business",
+      "region": "Asia",
+      "urgency": "high"
     },
     {
-      "headline": "Severe Drought Escalates Humanitarian Crisis in Horn of Africa",
-      "summary": "UN agencies warn of escalating needs as persistent drought conditions intensify food insecurity for millions across the region.",
-      "category": "World",
-      "region": "Africa",
+      "headline": "New Alzheimer's Drug Shows Promising Results in Phase 3 Trials",
+      "summary": "A pharmaceutical company announced positive late-stage trial results for a novel Alzheimer's treatment. This offers significant hope for millions affected by the neurodegenerative disease globally.",
+      "category": "Health",
+      "region": "Global",
       "urgency": "high"
     }
-  ],
-  "fallback": true
+  ]
 }
