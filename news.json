@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-07-23T00:44:01.623Z",
+  "updatedAt": "2026-07-24T00:40:52.054Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-07-19",
+  "date": "2026-07-24",
   "stories": [
     {
-      "headline": "EU Parliament Approves Landmark Green Energy Transition Bill",
-      "summary": "The European Parliament passed a bill mandating faster renewable energy adoption across member states. This accelerates climate goals and significantly impacts energy markets continent-wide.",
+      "headline": "Major Powers Agree on Global AI Governance Framework at UN Summit",
+      "summary": "UN Security Council members reached a landmark agreement on AI regulation, aiming to prevent autonomous weapon proliferation and ensure ethical development. This sets a crucial precedent for future tech governance.",
       "category": "Politics",
-      "region": "Europe",
-      "urgency": "high"
-    },
-    {
-      "headline": "Quantum Computing Breakthrough Achieved by Leading Tech Firm",
-      "summary": "A major tech company announced a significant advance in quantum error correction. This breakthrough could accelerate the development of practical quantum computers, revolutionizing data processing.",
-      "category": "Technology",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "Humanitarian Aid Convoy Reaches Stricken Region in East Africa",
-      "summary": "A large international aid convoy successfully delivered critical food and medical supplies to millions facing famine. This provides temporary relief amidst ongoing regional instability and drought.",
-      "category": "World",
-      "region": "Africa",
+      "headline": "Artemis V Crew Successfully Docks with Lunar Gateway Station",
+      "summary": "NASA's Artemis V mission achieved its primary objective, docking with the Lunar Gateway. This marks a critical step towards sustained human presence on the Moon and deep space exploration.",
+      "category": "Technology",
+      "region": "Americas",
+      "urgency": "high"
+    },
+    {
+      "headline": "Eurozone Q2 GDP Shows Unexpected Growth Amidst Inflation Concerns",
+      "summary": "The Eurozone economy expanded by 0.4% in Q2, surprising analysts. While inflation remains a concern, the growth offers hope for economic stability in the region.",
+      "category": "Business",
+      "region": "Europe",
       "urgency": "medium"
     },
     {
-      "headline": "Asian Markets React to Surprise Interest Rate Hike by Major Central Bank",
-      "summary": "A key Asian central bank unexpectedly raised its benchmark interest rate to curb persistent inflation. This signals tightening global monetary policy and impacts investment flows across the region.",
-      "category": "Business",
+      "headline": "New Carbon Capture Tech Shows High Efficiency in Asian Pilot Program",
+      "summary": "An international consortium announced successful trials of a direct air carbon capture system in Asia, achieving unprecedented efficiency. This offers new hope for combating climate change.",
+      "category": "Science",
       "region": "Asia",
       "urgency": "high"
     },
     {
-      "headline": "New Alzheimer's Drug Shows Promising Results in Phase 3 Trials",
-      "summary": "A pharmaceutical company announced positive late-stage trial results for a novel Alzheimer's treatment. This offers significant hope for millions affected by the neurodegenerative disease globally.",
-      "category": "Health",
-      "region": "Global",
-      "urgency": "high"
+      "headline": "Drought Worsens in East Africa, United Nations Calls for Urgent Aid",
+      "summary": "Millions face severe food insecurity as a prolonged drought intensifies across East Africa. The UN has launched an urgent appeal for international humanitarian assistance.",
+      "category": "World",
+      "region": "Africa",
+      "urgency": "breaking"
     }
-  ],
-  "fallback": true
+  ]
 }
