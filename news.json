@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-07-27T00:47:06.801Z",
+  "updatedAt": "2026-07-28T00:41:27.190Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-07-24",
+  "date": "2026-07-28",
   "stories": [
     {
-      "headline": "Major Powers Agree on Global AI Governance Framework at UN Summit",
-      "summary": "UN Security Council members reached a landmark agreement on AI regulation, aiming to prevent autonomous weapon proliferation and ensure ethical development. This sets a crucial precedent for future tech governance.",
+      "headline": "EU-African Union Summit Concludes with Landmark Green Energy Partnership",
+      "summary": "Leaders agreed on a multi-billion euro initiative to boost renewable energy infrastructure across Africa. This aims to accelerate sustainable development and combat climate change.",
       "category": "Politics",
-      "region": "Global",
-      "urgency": "high"
-    },
-    {
-      "headline": "Artemis V Crew Successfully Docks with Lunar Gateway Station",
-      "summary": "NASA's Artemis V mission achieved its primary objective, docking with the Lunar Gateway. This marks a critical step towards sustained human presence on the Moon and deep space exploration.",
-      "category": "Technology",
-      "region": "Americas",
-      "urgency": "high"
-    },
-    {
-      "headline": "Eurozone Q2 GDP Shows Unexpected Growth Amidst Inflation Concerns",
-      "summary": "The Eurozone economy expanded by 0.4% in Q2, surprising analysts. While inflation remains a concern, the growth offers hope for economic stability in the region.",
-      "category": "Business",
       "region": "Europe",
-      "urgency": "medium"
+      "urgency": "high"
     },
     {
-      "headline": "New Carbon Capture Tech Shows High Efficiency in Asian Pilot Program",
-      "summary": "An international consortium announced successful trials of a direct air carbon capture system in Asia, achieving unprecedented efficiency. This offers new hope for combating climate change.",
-      "category": "Science",
+      "headline": "Asian Tech Giant Unveils AI Chip Designed for Extreme Energy Efficiency",
+      "summary": "The new chip promises significantly reduced power consumption for large AI models, addressing critical sustainability concerns. It could set a new industry standard.",
+      "category": "Technology",
       "region": "Asia",
       "urgency": "high"
     },
     {
-      "headline": "Drought Worsens in East Africa, United Nations Calls for Urgent Aid",
-      "summary": "Millions face severe food insecurity as a prolonged drought intensifies across East Africa. The UN has launched an urgent appeal for international humanitarian assistance.",
+      "headline": "North American Trade Bloc Finalizes Digital Economy Pact",
+      "summary": "US, Canada, and Mexico signed an agreement standardizing digital trade rules and data privacy. It aims to boost cross-border e-commerce and innovation.",
+      "category": "Business",
+      "region": "Americas",
+      "urgency": "high"
+    },
+    {
+      "headline": "Promising Phase 3 Trial Results for Novel Alzheimer's Treatment Announced",
+      "summary": "A new drug showed significant cognitive decline reduction in late-stage trials, offering hope for millions. Regulatory approval is expected within months.",
+      "category": "Health",
+      "region": "Global",
+      "urgency": "high"
+    },
+    {
+      "headline": "UN Warns of Worsening Humanitarian Crisis in Sahel Region",
+      "summary": "Drought and ongoing conflict have exacerbated food insecurity and displacement, leaving millions in urgent need of aid. International response is critical.",
       "category": "World",
       "region": "Africa",
       "urgency": "breaking"
     }
-  ],
-  "fallback": true
+  ]
 }
