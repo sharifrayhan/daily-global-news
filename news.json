@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-07-30T00:39:59.506Z",
+  "updatedAt": "2026-07-31T00:45:02.491Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-07-29",
+  "date": "2026-07-31",
   "stories": [
     {
-      "headline": "EU Finalizes Landmark AI Governance Framework",
-      "summary": "The European Parliament officially adopted its comprehensive AI Act, setting global standards for AI development and deployment. This impacts tech companies worldwide and user data privacy.",
-      "category": "Politics",
-      "region": "Europe",
-      "urgency": "high"
-    },
-    {
-      "headline": "Quantum Computing Firm Announces Major Error Correction Breakthrough",
-      "summary": "A leading quantum computing company reported a significant advance in qubit error correction, a critical step toward practical quantum computers. This accelerates the field's progress.",
+      "headline": "Global AI Ethics Accord Signed by Major Tech Nations",
+      "summary": "Leading nations and tech giants agreed on a landmark framework for ethical AI development, aiming to prevent misuse and ensure responsible innovation.",
       "category": "Technology",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "New Malaria Vaccine Shows High Efficacy in African Trials",
-      "summary": "Phase 3 trials for a novel malaria vaccine in several African nations reported over 90% efficacy. This offers significant hope for reducing disease burden across the continent.",
-      "category": "Health",
+      "headline": "EU-UK Trade Talks Stalled Amid New Customs Dispute",
+      "summary": "Negotiations between the EU and UK hit an impasse following new border checks, threatening supply chains and economic stability across Europe.",
+      "category": "Politics",
+      "region": "Europe",
+      "urgency": "high"
+    },
+    {
+      "headline": "Promising Vaccine Trial Results for Tropical Disease in Africa",
+      "summary": "A phase 3 clinical trial in several African nations reported high efficacy for a new vaccine targeting a widespread neglected tropical disease, offering hope for millions.",
+      "category": "Science",
       "region": "Africa",
       "urgency": "high"
     },
     {
-      "headline": "Asian Markets React to China's Unexpected Economic Stimulus Package",
-      "summary": "Beijing announced a substantial new economic stimulus, surprising analysts and boosting regional stock markets. The move aims to counter recent growth slowdowns.",
+      "headline": "Southeast Asian Economy Exceeds Growth Forecasts",
+      "summary": "A key Southeast Asian nation announced stronger-than-expected Q2 GDP growth, signaling resilience and potential for regional economic uplift.",
       "category": "Business",
       "region": "Asia",
-      "urgency": "high"
+      "urgency": "medium"
     },
     {
-      "headline": "Amazon Rainforest Fires Intensify Amid Record Dry Season",
-      "summary": "Satellite data confirms a sharp increase in wildfires across the Brazilian Amazon, driven by extreme drought conditions. Environmental groups warn of ecological disaster.",
+      "headline": "Extreme Heatwave Grips South America, Causing Power Outages",
+      "summary": "An unprecedented heatwave across parts of South America led to critical infrastructure failures and emergency declarations, impacting millions.",
       "category": "World",
       "region": "Americas",
       "urgency": "breaking"
     }
-  ],
-  "fallback": true
+  ]
 }
