@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-08-04T00:43:37.752Z",
+  "updatedAt": "2026-08-05T00:40:23.577Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-07-31",
+  "date": "2026-08-05",
   "stories": [
     {
-      "headline": "Global AI Ethics Accord Signed by Major Tech Nations",
-      "summary": "Leading nations and tech giants agreed on a landmark framework for ethical AI development, aiming to prevent misuse and ensure responsible innovation.",
-      "category": "Technology",
+      "headline": "Global Leaders Agree to Accelerated Climate Adaptation Fund",
+      "summary": "Nations pledged significant new funds to help vulnerable countries combat climate change impacts, aiming to boost resilience globally.",
+      "category": "Politics",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "EU-UK Trade Talks Stalled Amid New Customs Dispute",
-      "summary": "Negotiations between the EU and UK hit an impasse following new border checks, threatening supply chains and economic stability across Europe.",
-      "category": "Politics",
+      "headline": "EU Finalizes Landmark AI Regulation Package",
+      "summary": "The European Union passed comprehensive AI laws, setting global standards for AI safety and transparency and impacting tech companies worldwide.",
+      "category": "Technology",
       "region": "Europe",
       "urgency": "high"
     },
     {
-      "headline": "Promising Vaccine Trial Results for Tropical Disease in Africa",
-      "summary": "A phase 3 clinical trial in several African nations reported high efficacy for a new vaccine targeting a widespread neglected tropical disease, offering hope for millions.",
-      "category": "Science",
+      "headline": "US Federal Reserve Holds Rates Amid Cooling Inflation Concerns",
+      "summary": "The Fed maintained interest rates, signaling confidence in inflation trending downwards but emphasizing continued vigilance for economic stability.",
+      "category": "Business",
+      "region": "US",
+      "urgency": "high"
+    },
+    {
+      "headline": "New Malaria Vaccine Shows Promising Phase 3 Trial Results in Africa",
+      "summary": "A novel malaria vaccine demonstrated high efficacy in late-stage trials, offering hope for millions in regions heavily affected by the disease.",
+      "category": "Health",
       "region": "Africa",
       "urgency": "high"
     },
     {
-      "headline": "Southeast Asian Economy Exceeds Growth Forecasts",
-      "summary": "A key Southeast Asian nation announced stronger-than-expected Q2 GDP growth, signaling resilience and potential for regional economic uplift.",
-      "category": "Business",
+      "headline": "Southeast Asian Nations Form New Economic Cooperation Bloc",
+      "summary": "Several Southeast Asian countries announced a new alliance to boost regional trade and investment, aiming for stronger economic integration.",
+      "category": "Politics",
       "region": "Asia",
       "urgency": "medium"
-    },
-    {
-      "headline": "Extreme Heatwave Grips South America, Causing Power Outages",
-      "summary": "An unprecedented heatwave across parts of South America led to critical infrastructure failures and emergency declarations, impacting millions.",
-      "category": "World",
-      "region": "Americas",
-      "urgency": "breaking"
     }
-  ],
-  "fallback": true
+  ]
 }
