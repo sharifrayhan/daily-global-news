@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-08-06T02:49:18.750Z",
+  "updatedAt": "2026-08-07T02:48:37.181Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-08-05",
+  "date": "2026-08-07",
   "stories": [
     {
-      "headline": "Global Leaders Agree to Accelerated Climate Adaptation Fund",
-      "summary": "Nations pledged significant new funds to help vulnerable countries combat climate change impacts, aiming to boost resilience globally.",
+      "headline": "UN Security Council Deadlock on Sahel Region Intervention",
+      "summary": "Vetoes by permanent members block a critical resolution for peacekeeping forces in the Sahel, raising fears of wider instability and a humanitarian crisis in the region.",
       "category": "Politics",
-      "region": "Global",
+      "region": "Africa",
       "urgency": "high"
     },
     {
-      "headline": "EU Finalizes Landmark AI Regulation Package",
-      "summary": "The European Union passed comprehensive AI laws, setting global standards for AI safety and transparency and impacting tech companies worldwide.",
+      "headline": "Major Quantum Computing Breakthrough Achieved by European Consortium",
+      "summary": "Scientists announce a stable, scalable quantum entanglement system, potentially accelerating drug discovery and advanced materials research. This marks a significant leap in computing power.",
       "category": "Technology",
       "region": "Europe",
       "urgency": "high"
     },
     {
-      "headline": "US Federal Reserve Holds Rates Amid Cooling Inflation Concerns",
-      "summary": "The Fed maintained interest rates, signaling confidence in inflation trending downwards but emphasizing continued vigilance for economic stability.",
+      "headline": "Global Shipping Index Plummets Amid Red Sea Route Disruptions",
+      "summary": "The Baltic Dry Index sees its sharpest single-day drop in years, signaling severe supply chain stress due to continued Red Sea shipping challenges and rising insurance costs.",
       "category": "Business",
+      "region": "Global",
+      "urgency": "high"
+    },
+    {
+      "headline": "New Gene Therapy Shows Promise for Inherited Blindness",
+      "summary": "Clinical trials in the US report significant vision restoration in patients with a specific inherited retinal disease using a novel gene therapy. This offers hope for millions.",
+      "category": "Health",
       "region": "US",
       "urgency": "high"
     },
     {
-      "headline": "New Malaria Vaccine Shows Promising Phase 3 Trial Results in Africa",
-      "summary": "A novel malaria vaccine demonstrated high efficacy in late-stage trials, offering hope for millions in regions heavily affected by the disease.",
-      "category": "Health",
-      "region": "Africa",
+      "headline": "Amazon Rainforest Deforestation Reaches Record Highs for 2026",
+      "summary": "Satellite data confirms a devastating increase in deforestation in the Amazon, threatening biodiversity and global climate goals as illegal logging intensifies across the region.",
+      "category": "World",
+      "region": "Americas",
       "urgency": "high"
-    },
-    {
-      "headline": "Southeast Asian Nations Form New Economic Cooperation Bloc",
-      "summary": "Several Southeast Asian countries announced a new alliance to boost regional trade and investment, aiming for stronger economic integration.",
-      "category": "Politics",
-      "region": "Asia",
-      "urgency": "medium"
     }
-  ],
-  "fallback": true
+  ]
 }
