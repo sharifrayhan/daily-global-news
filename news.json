@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-08-10T02:02:37.565Z",
+  "updatedAt": "2026-08-11T01:57:51.415Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-08-07",
+  "date": "2026-08-11",
   "stories": [
     {
-      "headline": "UN Security Council Deadlock on Sahel Region Intervention",
-      "summary": "Vetoes by permanent members block a critical resolution for peacekeeping forces in the Sahel, raising fears of wider instability and a humanitarian crisis in the region.",
-      "category": "Politics",
-      "region": "Africa",
+      "headline": "Border Tensions Escalate Between Two Asian Powers",
+      "summary": "A new skirmish reported along a disputed border has heightened regional instability, prompting calls for de-escalation from international bodies.",
+      "category": "World",
+      "region": "Asia",
       "urgency": "high"
     },
     {
-      "headline": "Major Quantum Computing Breakthrough Achieved by European Consortium",
-      "summary": "Scientists announce a stable, scalable quantum entanglement system, potentially accelerating drug discovery and advanced materials research. This marks a significant leap in computing power.",
+      "headline": "Quantum Computing Breakthrough Promises New Era of Discovery",
+      "summary": "Researchers announced a significant leap in quantum error correction, paving the way for more stable and powerful quantum processors with vast applications.",
       "category": "Technology",
-      "region": "Europe",
-      "urgency": "high"
-    },
-    {
-      "headline": "Global Shipping Index Plummets Amid Red Sea Route Disruptions",
-      "summary": "The Baltic Dry Index sees its sharpest single-day drop in years, signaling severe supply chain stress due to continued Red Sea shipping challenges and rising insurance costs.",
-      "category": "Business",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "New Gene Therapy Shows Promise for Inherited Blindness",
-      "summary": "Clinical trials in the US report significant vision restoration in patients with a specific inherited retinal disease using a novel gene therapy. This offers hope for millions.",
-      "category": "Health",
+      "headline": "Major Tech Firm Reports Record Profits Amid Market Uncertainty",
+      "summary": "A leading US tech company exceeded Q3 earnings forecasts, signaling strong consumer demand in key sectors despite broader economic concerns.",
+      "category": "Business",
       "region": "US",
+      "urgency": "medium"
+    },
+    {
+      "headline": "Promising New Alzheimer's Treatment Enters Final Trial Phase",
+      "summary": "A novel therapeutic drug showed significant cognitive improvement in early-stage Alzheimer's patients, moving closer to potential market approval.",
+      "category": "Health",
+      "region": "Europe",
       "urgency": "high"
     },
     {
-      "headline": "Amazon Rainforest Deforestation Reaches Record Highs for 2026",
-      "summary": "Satellite data confirms a devastating increase in deforestation in the Amazon, threatening biodiversity and global climate goals as illegal logging intensifies across the region.",
+      "headline": "East Africa Faces Worsening Food Crisis Amid Prolonged Drought",
+      "summary": "UN agencies warn of escalating humanitarian needs as persistent drought conditions severely impact harvests and water access across the region.",
       "category": "World",
-      "region": "Americas",
+      "region": "Africa",
       "urgency": "high"
     }
-  ],
-  "fallback": true
+  ]
 }
