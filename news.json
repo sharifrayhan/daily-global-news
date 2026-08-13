@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-08-12T00:29:42.761Z",
+  "updatedAt": "2026-08-13T00:30:25.696Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-08-11",
+  "date": "2026-08-13",
   "stories": [
     {
-      "headline": "Border Tensions Escalate Between Two Asian Powers",
-      "summary": "A new skirmish reported along a disputed border has heightened regional instability, prompting calls for de-escalation from international bodies.",
-      "category": "World",
-      "region": "Asia",
+      "headline": "Sudan Peace Talks Yield Provisional Agreement on Power-Sharing",
+      "summary": "Rival factions in Sudan signed a provisional power-sharing deal in Addis Ababa, offering hope to end years of conflict and humanitarian crisis.",
+      "category": "Politics",
+      "region": "Africa",
       "urgency": "high"
     },
     {
-      "headline": "Quantum Computing Breakthrough Promises New Era of Discovery",
-      "summary": "Researchers announced a significant leap in quantum error correction, paving the way for more stable and powerful quantum processors with vast applications.",
+      "headline": "Global Tech Leaders Adopt New Ethical AI Development Standards",
+      "summary": "Major tech companies and governments globally endorsed a new framework for ethical AI, focusing on transparency and user safety. This sets a precedent for future AI governance.",
       "category": "Technology",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "Major Tech Firm Reports Record Profits Amid Market Uncertainty",
-      "summary": "A leading US tech company exceeded Q3 earnings forecasts, signaling strong consumer demand in key sectors despite broader economic concerns.",
+      "headline": "Asian Manufacturing Sector Shows Unexpected Growth in Q3 Report",
+      "summary": "New economic data reveals surprising resilience and growth in key Asian manufacturing hubs, boosting global market confidence amid economic uncertainties.",
       "category": "Business",
-      "region": "US",
-      "urgency": "medium"
+      "region": "Asia",
+      "urgency": "high"
     },
     {
-      "headline": "Promising New Alzheimer's Treatment Enters Final Trial Phase",
-      "summary": "A novel therapeutic drug showed significant cognitive improvement in early-stage Alzheimer's patients, moving closer to potential market approval.",
+      "headline": "Breakthrough Gene Therapy Shows Promise for Alzheimer's Treatment",
+      "summary": "European researchers announced promising Phase 3 trial results for a novel gene therapy targeting early-stage Alzheimer's, offering new hope for patients.",
       "category": "Health",
       "region": "Europe",
       "urgency": "high"
     },
     {
-      "headline": "East Africa Faces Worsening Food Crisis Amid Prolonged Drought",
-      "summary": "UN agencies warn of escalating humanitarian needs as persistent drought conditions severely impact harvests and water access across the region.",
+      "headline": "Hurricane Lorenzo Devastates Caribbean Islands, Humanitarian Crisis Looms",
+      "summary": "Category 4 Hurricane Lorenzo caused widespread destruction across several Caribbean nations, triggering urgent international calls for aid and relief efforts.",
       "category": "World",
-      "region": "Africa",
-      "urgency": "high"
+      "region": "Americas",
+      "urgency": "breaking"
     }
-  ],
-  "fallback": true
+  ]
 }
