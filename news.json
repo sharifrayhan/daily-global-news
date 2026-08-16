@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-08-15T00:17:56.737Z",
+  "updatedAt": "2026-08-16T00:18:47.418Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-08-13",
+  "date": "2026-08-16",
   "stories": [
     {
-      "headline": "Sudan Peace Talks Yield Provisional Agreement on Power-Sharing",
-      "summary": "Rival factions in Sudan signed a provisional power-sharing deal in Addis Ababa, offering hope to end years of conflict and humanitarian crisis.",
+      "headline": "Global Climate Pact Secures Landmark Emissions Reduction Commitments",
+      "summary": "Nations agreed to new, ambitious targets to curb greenhouse gases by 2035, marking a critical step in combating climate change and fostering international cooperation.",
       "category": "Politics",
-      "region": "Africa",
-      "urgency": "high"
-    },
-    {
-      "headline": "Global Tech Leaders Adopt New Ethical AI Development Standards",
-      "summary": "Major tech companies and governments globally endorsed a new framework for ethical AI, focusing on transparency and user safety. This sets a precedent for future AI governance.",
-      "category": "Technology",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "Asian Manufacturing Sector Shows Unexpected Growth in Q3 Report",
-      "summary": "New economic data reveals surprising resilience and growth in key Asian manufacturing hubs, boosting global market confidence amid economic uncertainties.",
-      "category": "Business",
+      "headline": "Quantum AI Chip Achieves Record Processing Speed in Asian Lab",
+      "summary": "Researchers unveiled a new quantum AI chip capable of processing complex data exponentially faster, promising advancements in computing and data analysis.",
+      "category": "Technology",
       "region": "Asia",
       "urgency": "high"
     },
     {
-      "headline": "Breakthrough Gene Therapy Shows Promise for Alzheimer's Treatment",
-      "summary": "European researchers announced promising Phase 3 trial results for a novel gene therapy targeting early-stage Alzheimer's, offering new hope for patients.",
-      "category": "Health",
+      "headline": "EU Parliament Approves New Digital Services Tax on Tech Giants",
+      "summary": "The European Union passed legislation imposing a new tax on large digital service providers, aiming to level the playing field and boost national revenues.",
+      "category": "Business",
       "region": "Europe",
-      "urgency": "high"
+      "urgency": "medium"
     },
     {
-      "headline": "Hurricane Lorenzo Devastates Caribbean Islands, Humanitarian Crisis Looms",
-      "summary": "Category 4 Hurricane Lorenzo caused widespread destruction across several Caribbean nations, triggering urgent international calls for aid and relief efforts.",
+      "headline": "Severe Flooding Displaces Thousands Across East African Nations",
+      "summary": "Torrential rains caused widespread flooding, leading to significant displacement and urgent calls for international humanitarian aid in the affected regions.",
       "category": "World",
-      "region": "Americas",
+      "region": "Africa",
       "urgency": "breaking"
+    },
+    {
+      "headline": "Breakthrough Gene Therapy Shows Promise for Rare Neurological Disorder",
+      "summary": "Clinical trials in the US revealed a novel gene therapy significantly slowed progression of a rare neurological disease, offering hope for patients.",
+      "category": "Health",
+      "region": "US",
+      "urgency": "medium"
     }
-  ],
-  "fallback": true
+  ]
 }
