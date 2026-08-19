@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-08-18T00:17:29.355Z",
+  "updatedAt": "2026-08-19T00:17:23.043Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-08-16",
+  "date": "2026-08-19",
   "stories": [
     {
-      "headline": "Global Climate Pact Secures Landmark Emissions Reduction Commitments",
-      "summary": "Nations agreed to new, ambitious targets to curb greenhouse gases by 2035, marking a critical step in combating climate change and fostering international cooperation.",
+      "headline": "UNSC Passes Resolution on East African Ceasefire",
+      "summary": "The UN Security Council approved a resolution calling for an immediate ceasefire in the escalating East African conflict, aiming to halt humanitarian crisis.",
       "category": "Politics",
+      "region": "Africa",
+      "urgency": "high"
+    },
+    {
+      "headline": "European Consortium Achieves Quantum Computing Stability Breakthrough",
+      "summary": "Scientists announced a significant leap in quantum computing stability, potentially accelerating next-gen AI and drug discovery.",
+      "category": "Technology",
+      "region": "Europe",
+      "urgency": "high"
+    },
+    {
+      "headline": "Global Markets React to Unexpected US Federal Reserve Rate Hike",
+      "summary": "The Federal Reserve's surprise interest rate increase sent ripples through global markets, raising concerns about economic slowdown.",
+      "category": "Business",
+      "region": "US",
+      "urgency": "high"
+    },
+    {
+      "headline": "WHO Warns of New Viral Variant Spread Amid Global Travel Surge",
+      "summary": "The World Health Organization issued an alert regarding a highly transmissible new viral variant, urging caution as international travel increases.",
+      "category": "Health",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "Quantum AI Chip Achieves Record Processing Speed in Asian Lab",
-      "summary": "Researchers unveiled a new quantum AI chip capable of processing complex data exponentially faster, promising advancements in computing and data analysis.",
-      "category": "Technology",
+      "headline": "Southeast Asia Battles Record Monsoon Flooding, Millions Displaced",
+      "summary": "Unprecedented monsoon rains caused severe flooding across Southeast Asia, leading to widespread displacement and urgent humanitarian aid calls.",
+      "category": "World",
       "region": "Asia",
       "urgency": "high"
-    },
-    {
-      "headline": "EU Parliament Approves New Digital Services Tax on Tech Giants",
-      "summary": "The European Union passed legislation imposing a new tax on large digital service providers, aiming to level the playing field and boost national revenues.",
-      "category": "Business",
-      "region": "Europe",
-      "urgency": "medium"
-    },
-    {
-      "headline": "Severe Flooding Displaces Thousands Across East African Nations",
-      "summary": "Torrential rains caused widespread flooding, leading to significant displacement and urgent calls for international humanitarian aid in the affected regions.",
-      "category": "World",
-      "region": "Africa",
-      "urgency": "breaking"
-    },
-    {
-      "headline": "Breakthrough Gene Therapy Shows Promise for Rare Neurological Disorder",
-      "summary": "Clinical trials in the US revealed a novel gene therapy significantly slowed progression of a rare neurological disease, offering hope for patients.",
-      "category": "Health",
-      "region": "US",
-      "urgency": "medium"
     }
-  ],
-  "fallback": true
+  ]
 }
