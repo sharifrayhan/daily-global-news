@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-08-20T00:18:32.677Z",
+  "updatedAt": "2026-08-21T00:19:02.588Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-08-19",
+  "date": "2026-08-21",
   "stories": [
     {
-      "headline": "UNSC Passes Resolution on East African Ceasefire",
-      "summary": "The UN Security Council approved a resolution calling for an immediate ceasefire in the escalating East African conflict, aiming to halt humanitarian crisis.",
+      "headline": "Nations agree on new global carbon reduction targets",
+      "summary": "Major economies commit to ambitious new climate goals, signaling renewed global cooperation to combat climate change.",
       "category": "Politics",
-      "region": "Africa",
-      "urgency": "high"
-    },
-    {
-      "headline": "European Consortium Achieves Quantum Computing Stability Breakthrough",
-      "summary": "Scientists announced a significant leap in quantum computing stability, potentially accelerating next-gen AI and drug discovery.",
-      "category": "Technology",
-      "region": "Europe",
-      "urgency": "high"
-    },
-    {
-      "headline": "Global Markets React to Unexpected US Federal Reserve Rate Hike",
-      "summary": "The Federal Reserve's surprise interest rate increase sent ripples through global markets, raising concerns about economic slowdown.",
-      "category": "Business",
-      "region": "US",
-      "urgency": "high"
-    },
-    {
-      "headline": "WHO Warns of New Viral Variant Spread Amid Global Travel Surge",
-      "summary": "The World Health Organization issued an alert regarding a highly transmissible new viral variant, urging caution as international travel increases.",
-      "category": "Health",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "Southeast Asia Battles Record Monsoon Flooding, Millions Displaced",
-      "summary": "Unprecedented monsoon rains caused severe flooding across Southeast Asia, leading to widespread displacement and urgent humanitarian aid calls.",
-      "category": "World",
-      "region": "Asia",
+      "headline": "Leading AI firm unveils next-gen multimodal foundation model",
+      "summary": "A major tech company launched an advanced AI model, promising significant leaps in human-computer interaction and various industries.",
+      "category": "Technology",
+      "region": "US",
       "urgency": "high"
+    },
+    {
+      "headline": "European Central Bank raises interest rates to curb inflation",
+      "summary": "The ECB increased key interest rates to combat persistent inflation across the Eurozone, impacting borrowing costs and economic growth.",
+      "category": "Business",
+      "region": "Europe",
+      "urgency": "high"
+    },
+    {
+      "headline": "New malaria vaccine shows high efficacy in final trials",
+      "summary": "A novel vaccine candidate demonstrated significant protection against malaria in Phase 3 trials, offering hope for millions in endemic regions.",
+      "category": "Health",
+      "region": "Africa",
+      "urgency": "high"
+    },
+    {
+      "headline": "Protests erupt in Southeast Asian capital over new austerity measures",
+      "summary": "Thousands took to the streets in a major Asian city, protesting government-imposed austerity measures expected to hit low-income families hard.",
+      "category": "Politics",
+      "region": "Asia",
+      "urgency": "medium"
     }
-  ],
-  "fallback": true
+  ]
 }
