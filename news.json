@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-08-22T00:17:42.649Z",
+  "updatedAt": "2026-08-23T00:18:38.589Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-08-21",
+  "date": "2026-08-23",
   "stories": [
     {
-      "headline": "Nations agree on new global carbon reduction targets",
-      "summary": "Major economies commit to ambitious new climate goals, signaling renewed global cooperation to combat climate change.",
-      "category": "Politics",
+      "headline": "New Malaria Vaccine Shows 90% Efficacy in Phase 3 Trials",
+      "summary": "A novel vaccine developed through international collaboration has achieved unprecedented success, offering hope to eradicate the disease globally. This marks a major public health milestone.",
+      "category": "Science",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "Leading AI firm unveils next-gen multimodal foundation model",
-      "summary": "A major tech company launched an advanced AI model, promising significant leaps in human-computer interaction and various industries.",
-      "category": "Technology",
-      "region": "US",
-      "urgency": "high"
-    },
-    {
-      "headline": "European Central Bank raises interest rates to curb inflation",
-      "summary": "The ECB increased key interest rates to combat persistent inflation across the Eurozone, impacting borrowing costs and economic growth.",
-      "category": "Business",
+      "headline": "EU Parliament Approves Landmark Digital Services Act Amendments",
+      "summary": "New regulations strengthen consumer data protection and platform accountability across the bloc, setting a global standard for tech governance. This impacts major tech firms worldwide.",
+      "category": "Politics",
       "region": "Europe",
       "urgency": "high"
     },
     {
-      "headline": "New malaria vaccine shows high efficacy in final trials",
-      "summary": "A novel vaccine candidate demonstrated significant protection against malaria in Phase 3 trials, offering hope for millions in endemic regions.",
-      "category": "Health",
-      "region": "Africa",
-      "urgency": "high"
-    },
-    {
-      "headline": "Protests erupt in Southeast Asian capital over new austerity measures",
-      "summary": "Thousands took to the streets in a major Asian city, protesting government-imposed austerity measures expected to hit low-income families hard.",
-      "category": "Politics",
+      "headline": "Asian Markets React to China's Q3 Economic Growth Report",
+      "summary": "China's economy shows unexpected resilience, impacting global supply chains and commodity prices. This signals potential shifts in international trade dynamics and investment.",
+      "category": "Business",
       "region": "Asia",
       "urgency": "medium"
+    },
+    {
+      "headline": "Humanitarian Crisis Deepens in East Africa Amid Severe Drought",
+      "summary": "Millions face acute food insecurity as prolonged drought exacerbates regional instability, prompting urgent international aid appeals. The situation demands immediate global attention.",
+      "category": "World",
+      "region": "Africa",
+      "urgency": "breaking"
+    },
+    {
+      "headline": "Major Tech Company Announces Breakthrough in Quantum Computing",
+      "summary": "A leading US tech firm claims a significant leap in quantum processing capabilities, promising faster data analysis and enhanced encryption. This could revolutionize multiple industries.",
+      "category": "Technology",
+      "region": "US",
+      "urgency": "high"
     }
-  ],
-  "fallback": true
+  ]
 }
