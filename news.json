@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-08-28T03:08:21.020Z",
+  "updatedAt": "2026-08-29T00:37:39.033Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-08-23",
+  "date": "2026-08-29",
   "stories": [
     {
-      "headline": "New Malaria Vaccine Shows 90% Efficacy in Phase 3 Trials",
-      "summary": "A novel vaccine developed through international collaboration has achieved unprecedented success, offering hope to eradicate the disease globally. This marks a major public health milestone.",
-      "category": "Science",
+      "headline": "Historic Peace Accord Signed Between Regional Powers in Middle East",
+      "summary": "Rival nations signed a landmark peace treaty, ending decades of conflict. This promises a new era of stability and economic cooperation for the region.",
+      "category": "Politics",
+      "region": "Middle East",
+      "urgency": "high"
+    },
+    {
+      "headline": "Quantum Computing Breakthrough Achieved by Major Tech Firm",
+      "summary": "A leading tech company unveiled a new quantum processor, significantly advancing computational power. This could revolutionize fields from medicine to finance.",
+      "category": "Technology",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "EU Parliament Approves Landmark Digital Services Act Amendments",
-      "summary": "New regulations strengthen consumer data protection and platform accountability across the bloc, setting a global standard for tech governance. This impacts major tech firms worldwide.",
-      "category": "Politics",
+      "headline": "EU and African Union Announce Landmark Free Trade Agreement",
+      "summary": "The European Union and African Union finalized a major trade deal, expected to boost economic growth and create jobs across both continents.",
+      "category": "Business",
       "region": "Europe",
       "urgency": "high"
     },
     {
-      "headline": "Asian Markets React to China's Q3 Economic Growth Report",
-      "summary": "China's economy shows unexpected resilience, impacting global supply chains and commodity prices. This signals potential shifts in international trade dynamics and investment.",
-      "category": "Business",
+      "headline": "New Drug Approved for Dengue Fever Shows High Efficacy in Asia",
+      "summary": "Regulators in several Asian nations approved a novel drug for dengue fever, demonstrating high success rates in clinical trials. It offers hope for millions at risk.",
+      "category": "Health",
       "region": "Asia",
       "urgency": "medium"
     },
     {
-      "headline": "Humanitarian Crisis Deepens in East Africa Amid Severe Drought",
-      "summary": "Millions face acute food insecurity as prolonged drought exacerbates regional instability, prompting urgent international aid appeals. The situation demands immediate global attention.",
+      "headline": "Category 4 Hurricane Makes Landfall in Central America, Widespread Devastation",
+      "summary": "A powerful Category 4 hurricane struck the coast of Honduras, bringing catastrophic winds and flooding. Urgent international aid efforts are mobilizing.",
       "category": "World",
-      "region": "Africa",
-      "urgency": "breaking"
-    },
-    {
-      "headline": "Major Tech Company Announces Breakthrough in Quantum Computing",
-      "summary": "A leading US tech firm claims a significant leap in quantum processing capabilities, promising faster data analysis and enhanced encryption. This could revolutionize multiple industries.",
-      "category": "Technology",
-      "region": "US",
+      "region": "Americas",
       "urgency": "high"
     }
-  ],
-  "fallback": true
+  ]
 }
