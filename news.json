@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-08-31T00:46:12.121Z",
+  "updatedAt": "2026-09-01T00:50:09.511Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-08-29",
+  "date": "2026-09-01",
   "stories": [
     {
-      "headline": "Historic Peace Accord Signed Between Regional Powers in Middle East",
-      "summary": "Rival nations signed a landmark peace treaty, ending decades of conflict. This promises a new era of stability and economic cooperation for the region.",
+      "headline": "EU Agrees Provisional Deal on Landmark AI Regulation",
+      "summary": "EU negotiators reached a tentative agreement on comprehensive AI rules. This landmark deal aims to set global standards for ethical AI development and deployment.",
       "category": "Politics",
-      "region": "Middle East",
-      "urgency": "high"
-    },
-    {
-      "headline": "Quantum Computing Breakthrough Achieved by Major Tech Firm",
-      "summary": "A leading tech company unveiled a new quantum processor, significantly advancing computational power. This could revolutionize fields from medicine to finance.",
-      "category": "Technology",
-      "region": "Global",
-      "urgency": "high"
-    },
-    {
-      "headline": "EU and African Union Announce Landmark Free Trade Agreement",
-      "summary": "The European Union and African Union finalized a major trade deal, expected to boost economic growth and create jobs across both continents.",
-      "category": "Business",
       "region": "Europe",
       "urgency": "high"
     },
     {
-      "headline": "New Drug Approved for Dengue Fever Shows High Efficacy in Asia",
-      "summary": "Regulators in several Asian nations approved a novel drug for dengue fever, demonstrating high success rates in clinical trials. It offers hope for millions at risk.",
-      "category": "Health",
-      "region": "Asia",
-      "urgency": "medium"
+      "headline": "Fusion Reactor Achieves New Sustained Energy Record",
+      "summary": "Scientists announced a major breakthrough in fusion energy, sustaining a reaction for a record duration. This development moves humanity closer to clean, limitless power.",
+      "category": "Science",
+      "region": "Global",
+      "urgency": "high"
     },
     {
-      "headline": "Category 4 Hurricane Makes Landfall in Central America, Widespread Devastation",
-      "summary": "A powerful Category 4 hurricane struck the coast of Honduras, bringing catastrophic winds and flooding. Urgent international aid efforts are mobilizing.",
+      "headline": "Asian Tech Giant Announces Global Restructuring, Job Cuts",
+      "summary": "A prominent Asian technology firm revealed a major global restructuring plan, including thousands of job cuts, citing market slowdowns and strategic refocusing efforts.",
+      "category": "Business",
+      "region": "Asia",
+      "urgency": "high"
+    },
+    {
+      "headline": "Aid Agencies Warn of Worsening Famine in East Africa",
+      "summary": "International aid organizations issued urgent warnings about a rapidly deteriorating famine crisis in parts of East Africa, exacerbated by conflict and climate change.",
       "category": "World",
+      "region": "Africa",
+      "urgency": "high"
+    },
+    {
+      "headline": "New Respiratory Virus Strain Detected in North America",
+      "summary": "Health authorities confirmed the emergence of a highly transmissible new strain of a common respiratory virus in North America, prompting increased public health advisories.",
+      "category": "Health",
       "region": "Americas",
       "urgency": "high"
     }
-  ],
-  "fallback": true
+  ]
 }
