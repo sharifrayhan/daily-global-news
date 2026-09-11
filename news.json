@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-09-10T03:50:10.112Z",
+  "updatedAt": "2026-09-11T03:46:29.921Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-09-01",
+  "date": "2026-09-11",
   "stories": [
     {
-      "headline": "EU Agrees Provisional Deal on Landmark AI Regulation",
-      "summary": "EU negotiators reached a tentative agreement on comprehensive AI rules. This landmark deal aims to set global standards for ethical AI development and deployment.",
+      "headline": "East African Nations Sign Landmark Regional Security and Trade Pact",
+      "summary": "Leaders from several East African nations signed a comprehensive security and trade agreement, aiming to stabilize the region and boost economic cooperation. This marks a significant step towards lasting peace.",
       "category": "Politics",
-      "region": "Europe",
-      "urgency": "high"
-    },
-    {
-      "headline": "Fusion Reactor Achieves New Sustained Energy Record",
-      "summary": "Scientists announced a major breakthrough in fusion energy, sustaining a reaction for a record duration. This development moves humanity closer to clean, limitless power.",
-      "category": "Science",
-      "region": "Global",
-      "urgency": "high"
-    },
-    {
-      "headline": "Asian Tech Giant Announces Global Restructuring, Job Cuts",
-      "summary": "A prominent Asian technology firm revealed a major global restructuring plan, including thousands of job cuts, citing market slowdowns and strategic refocusing efforts.",
-      "category": "Business",
-      "region": "Asia",
-      "urgency": "high"
-    },
-    {
-      "headline": "Aid Agencies Warn of Worsening Famine in East Africa",
-      "summary": "International aid organizations issued urgent warnings about a rapidly deteriorating famine crisis in parts of East Africa, exacerbated by conflict and climate change.",
-      "category": "World",
       "region": "Africa",
       "urgency": "high"
     },
     {
-      "headline": "New Respiratory Virus Strain Detected in North America",
-      "summary": "Health authorities confirmed the emergence of a highly transmissible new strain of a common respiratory virus in North America, prompting increased public health advisories.",
-      "category": "Health",
+      "headline": "Global Tech Alliance Unveils New AI Ethics & Governance Framework",
+      "summary": "A consortium of leading tech companies and governments released a unified framework for ethical AI development, aiming to standardize responsible innovation and build public trust.",
+      "category": "Technology",
+      "region": "Global",
+      "urgency": "high"
+    },
+    {
+      "headline": "Eurozone Inflation Rate Unexpectedly Drops to Two-Year Low",
+      "summary": "The European Central Bank reported a surprise decline in Eurozone inflation, sparking optimism for potential interest rate cuts. This could boost economic recovery across the continent.",
+      "category": "Business",
+      "region": "Europe",
+      "urgency": "high"
+    },
+    {
+      "headline": "New Solar Desalination Technology Promises Global Fresh Water Access",
+      "summary": "Researchers unveiled a highly efficient, low-cost solar desalination system. This breakthrough offers a scalable solution to global water scarcity and could transform access to potable water.",
+      "category": "Science",
+      "region": "Global",
+      "urgency": "medium"
+    },
+    {
+      "headline": "South American Nation's Presidential Election Heads to Runoff",
+      "summary": "The highly contested presidential election in a major South American country failed to produce a clear winner, leading to a runoff next month. Political uncertainty is expected to continue.",
+      "category": "Politics",
       "region": "Americas",
       "urgency": "high"
     }
-  ],
-  "fallback": true
+  ]
 }
