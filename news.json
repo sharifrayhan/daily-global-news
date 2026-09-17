@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-09-16T00:41:13.529Z",
+  "updatedAt": "2026-09-17T00:41:02.987Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-09-11",
+  "date": "2026-09-17",
   "stories": [
     {
-      "headline": "East African Nations Sign Landmark Regional Security and Trade Pact",
-      "summary": "Leaders from several East African nations signed a comprehensive security and trade agreement, aiming to stabilize the region and boost economic cooperation. This marks a significant step towards lasting peace.",
+      "headline": "UN Security Council Deadlocks on Climate Migration Framework",
+      "summary": "Member states failed to adopt a critical framework for climate-displaced populations, leaving millions vulnerable and unaddressed globally, highlighting deep international divisions.",
       "category": "Politics",
-      "region": "Africa",
+      "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "Global Tech Alliance Unveils New AI Ethics & Governance Framework",
-      "summary": "A consortium of leading tech companies and governments released a unified framework for ethical AI development, aiming to standardize responsible innovation and build public trust.",
+      "headline": "Breakthrough Fusion Reactor Prototype Achieves Net Energy Gain",
+      "summary": "A major tech firm announced a successful net energy gain from its compact fusion reactor, signaling a significant leap towards clean, abundant energy for the world.",
       "category": "Technology",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "Eurozone Inflation Rate Unexpectedly Drops to Two-Year Low",
-      "summary": "The European Central Bank reported a surprise decline in Eurozone inflation, sparking optimism for potential interest rate cuts. This could boost economic recovery across the continent.",
-      "category": "Business",
+      "headline": "Novel Gene Therapy Shows Promise in Treating Rare Neurological Disease",
+      "summary": "Early clinical trials of a new gene therapy demonstrated significant improvements for patients with a previously untreatable rare neurological disorder in Europe, offering new hope.",
+      "category": "Health",
       "region": "Europe",
-      "urgency": "high"
-    },
-    {
-      "headline": "New Solar Desalination Technology Promises Global Fresh Water Access",
-      "summary": "Researchers unveiled a highly efficient, low-cost solar desalination system. This breakthrough offers a scalable solution to global water scarcity and could transform access to potable water.",
-      "category": "Science",
-      "region": "Global",
       "urgency": "medium"
     },
     {
-      "headline": "South American Nation's Presidential Election Heads to Runoff",
-      "summary": "The highly contested presidential election in a major South American country failed to produce a clear winner, leading to a runoff next month. Political uncertainty is expected to continue.",
-      "category": "Politics",
-      "region": "Americas",
+      "headline": "Devastating Earthquake Rocks Southeast Asia, Thousands Displaced",
+      "summary": "A powerful 7.8 magnitude earthquake struck a densely populated region in Southeast Asia, causing extensive damage and triggering a large-scale humanitarian response.",
+      "category": "World",
+      "region": "Asia",
+      "urgency": "breaking"
+    },
+    {
+      "headline": "US Federal Reserve Hikes Rates Amid Persistent Inflation Fears",
+      "summary": "The Federal Reserve unexpectedly raised its benchmark interest rate, citing persistent inflationary pressures, leading to market volatility and economic uncertainty in the US.",
+      "category": "Business",
+      "region": "US",
       "urgency": "high"
     }
-  ],
-  "fallback": true
+  ]
 }
