@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-09-18T00:41:13.349Z",
+  "updatedAt": "2026-09-19T00:40:23.848Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-09-17",
+  "date": "2026-09-19",
   "stories": [
     {
-      "headline": "UN Security Council Deadlocks on Climate Migration Framework",
-      "summary": "Member states failed to adopt a critical framework for climate-displaced populations, leaving millions vulnerable and unaddressed globally, highlighting deep international divisions.",
+      "headline": "Malaria Vaccine Shows 90% Efficacy in Phase 3 African Trials",
+      "summary": "Researchers announced groundbreaking results for a new malaria vaccine, offering hope to millions in endemic regions. This could drastically reduce mortality and improve public health across Africa.",
+      "category": "Health",
+      "region": "Africa",
+      "urgency": "breaking"
+    },
+    {
+      "headline": "EU Finalizes Landmark Carbon Border Adjustment Mechanism Agreement",
+      "summary": "European Union leaders reached a final agreement on the CBAM, aiming to curb emissions and level the playing field for industries. This marks a significant step in global climate policy.",
       "category": "Politics",
-      "region": "Global",
+      "region": "Europe",
       "urgency": "high"
     },
     {
-      "headline": "Breakthrough Fusion Reactor Prototype Achieves Net Energy Gain",
-      "summary": "A major tech firm announced a successful net energy gain from its compact fusion reactor, signaling a significant leap towards clean, abundant energy for the world.",
+      "headline": "New Generative AI Model Achieves Unprecedented Language Fluency",
+      "summary": "A leading tech firm unveiled an AI model demonstrating human-like conversational abilities, sparking debate on future applications and ethical safeguards. Its implications for various industries are vast.",
       "category": "Technology",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "Novel Gene Therapy Shows Promise in Treating Rare Neurological Disease",
-      "summary": "Early clinical trials of a new gene therapy demonstrated significant improvements for patients with a previously untreatable rare neurological disorder in Europe, offering new hope.",
-      "category": "Health",
-      "region": "Europe",
-      "urgency": "medium"
-    },
-    {
-      "headline": "Devastating Earthquake Rocks Southeast Asia, Thousands Displaced",
-      "summary": "A powerful 7.8 magnitude earthquake struck a densely populated region in Southeast Asia, causing extensive damage and triggering a large-scale humanitarian response.",
-      "category": "World",
-      "region": "Asia",
-      "urgency": "breaking"
-    },
-    {
-      "headline": "US Federal Reserve Hikes Rates Amid Persistent Inflation Fears",
-      "summary": "The Federal Reserve unexpectedly raised its benchmark interest rate, citing persistent inflationary pressures, leading to market volatility and economic uncertainty in the US.",
+      "headline": "Asian Markets Rally on Strong Q3 Manufacturing Data from China",
+      "summary": "Key economic indicators from China showed unexpected manufacturing growth in Q3, boosting investor confidence across Asian markets. This signals potential stabilization for the global supply chain.",
       "category": "Business",
-      "region": "US",
+      "region": "Asia",
       "urgency": "high"
+    },
+    {
+      "headline": "Powerful Category 4 Hurricane Makes Landfall in Central America",
+      "summary": "Hurricane \"Solstice\" brought destructive winds and flooding to coastal regions of Nicaragua and Honduras, prompting widespread evacuations. Humanitarian aid efforts are mobilizing for affected populations.",
+      "category": "World",
+      "region": "Americas",
+      "urgency": "breaking"
     }
-  ],
-  "fallback": true
+  ]
 }
