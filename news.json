@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-09-20T00:46:11.612Z",
+  "updatedAt": "2026-09-21T00:45:27.654Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-09-19",
+  "date": "2026-09-21",
   "stories": [
     {
-      "headline": "Malaria Vaccine Shows 90% Efficacy in Phase 3 African Trials",
-      "summary": "Researchers announced groundbreaking results for a new malaria vaccine, offering hope to millions in endemic regions. This could drastically reduce mortality and improve public health across Africa.",
-      "category": "Health",
-      "region": "Africa",
-      "urgency": "breaking"
-    },
-    {
-      "headline": "EU Finalizes Landmark Carbon Border Adjustment Mechanism Agreement",
-      "summary": "European Union leaders reached a final agreement on the CBAM, aiming to curb emissions and level the playing field for industries. This marks a significant step in global climate policy.",
+      "headline": "Global Leaders Announce Landmark Green Technology Investment Pact",
+      "summary": "Nations committed billions to accelerate renewable energy deployment and carbon capture. This aims to meet 2030 climate targets and foster sustainable growth.",
       "category": "Politics",
-      "region": "Europe",
-      "urgency": "high"
-    },
-    {
-      "headline": "New Generative AI Model Achieves Unprecedented Language Fluency",
-      "summary": "A leading tech firm unveiled an AI model demonstrating human-like conversational abilities, sparking debate on future applications and ethical safeguards. Its implications for various industries are vast.",
-      "category": "Technology",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "Asian Markets Rally on Strong Q3 Manufacturing Data from China",
-      "summary": "Key economic indicators from China showed unexpected manufacturing growth in Q3, boosting investor confidence across Asian markets. This signals potential stabilization for the global supply chain.",
-      "category": "Business",
-      "region": "Asia",
+      "headline": "EU Finalizes New AI Ethics Guidelines, Setting Global Precedent",
+      "summary": "The European Parliament approved comprehensive AI regulations focusing on transparency and accountability. This will impact tech companies worldwide.",
+      "category": "Technology",
+      "region": "Europe",
       "urgency": "high"
     },
     {
-      "headline": "Powerful Category 4 Hurricane Makes Landfall in Central America",
-      "summary": "Hurricane \"Solstice\" brought destructive winds and flooding to coastal regions of Nicaragua and Honduras, prompting widespread evacuations. Humanitarian aid efforts are mobilizing for affected populations.",
+      "headline": "Asia-Pacific Economic Forecast Upgraded Amid Strong Manufacturing Rebound",
+      "summary": "A new report indicates robust manufacturing growth across Asia, boosting global trade confidence. This signals potential easing of inflationary pressures.",
+      "category": "Business",
+      "region": "Asia",
+      "urgency": "medium"
+    },
+    {
+      "headline": "Breakthrough Gene Therapy Shows Promise in Treating Rare Neurological Disorder",
+      "summary": "Clinical trials report significant improvement in patients with a previously untreatable condition. This offers new hope for millions globally.",
+      "category": "Health",
+      "region": "Global",
+      "urgency": "high"
+    },
+    {
+      "headline": "Escalating Tensions in Sahel Region Prompt Calls for International Intervention",
+      "summary": "Renewed clashes between armed groups and government forces have displaced thousands. Regional stability is threatened, increasing humanitarian concerns.",
       "category": "World",
-      "region": "Americas",
+      "region": "Africa",
       "urgency": "breaking"
     }
-  ],
-  "fallback": true
+  ]
 }
