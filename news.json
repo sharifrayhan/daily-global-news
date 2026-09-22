@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-09-21T00:45:27.654Z",
+  "updatedAt": "2026-09-22T00:41:37.110Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-09-21",
+  "date": "2026-09-22",
   "stories": [
     {
-      "headline": "Global Leaders Announce Landmark Green Technology Investment Pact",
-      "summary": "Nations committed billions to accelerate renewable energy deployment and carbon capture. This aims to meet 2030 climate targets and foster sustainable growth.",
+      "headline": "UN Security Council Approves Landmark Climate Adaptation Fund",
+      "summary": "The UNSC passed a resolution establishing a global fund for climate adaptation, aiming to support vulnerable nations and accelerate green infrastructure.",
       "category": "Politics",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "EU Finalizes New AI Ethics Guidelines, Setting Global Precedent",
-      "summary": "The European Parliament approved comprehensive AI regulations focusing on transparency and accountability. This will impact tech companies worldwide.",
+      "headline": "Asian Tech Giant Unveils Breakthrough in Neuromorphic AI Processors",
+      "summary": "A leading Asian firm announced a new AI chip architecture significantly boosting processing efficiency for complex tasks, set to revolutionize AI applications.",
       "category": "Technology",
-      "region": "Europe",
+      "region": "Asia",
       "urgency": "high"
     },
     {
-      "headline": "Asia-Pacific Economic Forecast Upgraded Amid Strong Manufacturing Rebound",
-      "summary": "A new report indicates robust manufacturing growth across Asia, boosting global trade confidence. This signals potential easing of inflationary pressures.",
+      "headline": "EU-Mercosur Trade Deal Ratified, Boosting Transatlantic Commerce",
+      "summary": "The long-negotiated trade agreement between the EU and Mercosur bloc was ratified, promising to open new markets and stimulate economic growth across both regions.",
       "category": "Business",
-      "region": "Asia",
+      "region": "Europe",
       "urgency": "medium"
     },
     {
-      "headline": "Breakthrough Gene Therapy Shows Promise in Treating Rare Neurological Disorder",
-      "summary": "Clinical trials report significant improvement in patients with a previously untreatable condition. This offers new hope for millions globally.",
+      "headline": "New Dengue Strain Detected in West Africa, Prompting WHO Alert",
+      "summary": "The World Health Organization issued an alert after a more virulent strain of dengue fever was identified in West Africa, raising concerns for regional health systems.",
       "category": "Health",
-      "region": "Global",
+      "region": "Africa",
       "urgency": "high"
     },
     {
-      "headline": "Escalating Tensions in Sahel Region Prompt Calls for International Intervention",
-      "summary": "Renewed clashes between armed groups and government forces have displaced thousands. Regional stability is threatened, increasing humanitarian concerns.",
+      "headline": "Category 4 Hurricane Makes Landfall in Caribbean, Causing Widespread Damage",
+      "summary": "Hurricane \"Seraphina\" struck several Caribbean islands as a Category 4 storm, bringing destructive winds and flooding, with initial reports indicating significant infrastructure damage.",
       "category": "World",
-      "region": "Africa",
+      "region": "Americas",
       "urgency": "breaking"
     }
   ]
