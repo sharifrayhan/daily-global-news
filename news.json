@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-09-23T00:39:35.828Z",
+  "updatedAt": "2026-09-24T00:41:12.968Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-09-22",
+  "date": "2026-09-24",
   "stories": [
     {
-      "headline": "UN Security Council Approves Landmark Climate Adaptation Fund",
-      "summary": "The UNSC passed a resolution establishing a global fund for climate adaptation, aiming to support vulnerable nations and accelerate green infrastructure.",
+      "headline": "German Coalition Government Faces Collapse After Budget Vote Defeat",
+      "summary": "Germany's ruling coalition is in crisis after failing to pass its budget, potentially triggering snap elections and political uncertainty across Europe.",
       "category": "Politics",
+      "region": "Europe",
+      "urgency": "high"
+    },
+    {
+      "headline": "UN-Backed Consortium Proposes Global AI Ethics and Governance Framework",
+      "summary": "A new framework aims to standardize AI development and deployment, promoting safety and fairness worldwide and preventing future misuse.",
+      "category": "Technology",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "Asian Tech Giant Unveils Breakthrough in Neuromorphic AI Processors",
-      "summary": "A leading Asian firm announced a new AI chip architecture significantly boosting processing efficiency for complex tasks, set to revolutionize AI applications.",
-      "category": "Technology",
+      "headline": "Asian Researchers Announce Major Alzheimer's Treatment Breakthrough",
+      "summary": "Scientists in South Korea have reported significant success in early human trials for a novel Alzheimer's therapy, offering new hope for millions globally.",
+      "category": "Science",
       "region": "Asia",
       "urgency": "high"
     },
     {
-      "headline": "EU-Mercosur Trade Deal Ratified, Boosting Transatlantic Commerce",
-      "summary": "The long-negotiated trade agreement between the EU and Mercosur bloc was ratified, promising to open new markets and stimulate economic growth across both regions.",
+      "headline": "Mercosur Nations Agree to Landmark Economic Integration Package",
+      "summary": "The South American trade bloc has finalized agreements to reduce tariffs and streamline trade, boosting regional economic growth and stability.",
       "category": "Business",
-      "region": "Europe",
+      "region": "Americas",
       "urgency": "medium"
     },
     {
-      "headline": "New Dengue Strain Detected in West Africa, Prompting WHO Alert",
-      "summary": "The World Health Organization issued an alert after a more virulent strain of dengue fever was identified in West Africa, raising concerns for regional health systems.",
-      "category": "Health",
+      "headline": "East African Nations Launch Major Cross-Border Renewable Energy Grid",
+      "summary": "Several East African countries have inaugurated a new interconnected renewable energy grid, enhancing energy access and combating climate change in the region.",
+      "category": "World",
       "region": "Africa",
       "urgency": "high"
-    },
-    {
-      "headline": "Category 4 Hurricane Makes Landfall in Caribbean, Causing Widespread Damage",
-      "summary": "Hurricane \"Seraphina\" struck several Caribbean islands as a Category 4 storm, bringing destructive winds and flooding, with initial reports indicating significant infrastructure damage.",
-      "category": "World",
-      "region": "Americas",
-      "urgency": "breaking"
     }
-  ],
-  "fallback": true
+  ]
 }
