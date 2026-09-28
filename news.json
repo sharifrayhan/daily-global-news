@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-09-27T00:48:17.835Z",
+  "updatedAt": "2026-09-28T00:48:15.263Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-09-24",
+  "date": "2026-09-28",
   "stories": [
     {
-      "headline": "German Coalition Government Faces Collapse After Budget Vote Defeat",
-      "summary": "Germany's ruling coalition is in crisis after failing to pass its budget, potentially triggering snap elections and political uncertainty across Europe.",
+      "headline": "Eastern European Peace Talks Yield Provisional Ceasefire Agreement",
+      "summary": "Negotiators reached a temporary ceasefire in the ongoing regional conflict, offering hope for de-escalation and improved humanitarian aid access.",
       "category": "Politics",
       "region": "Europe",
       "urgency": "high"
     },
     {
-      "headline": "UN-Backed Consortium Proposes Global AI Ethics and Governance Framework",
-      "summary": "A new framework aims to standardize AI development and deployment, promoting safety and fairness worldwide and preventing future misuse.",
+      "headline": "Global Tech Consortium Unveils Open-Source AI Ethics Framework",
+      "summary": "Leading tech firms and governments released a unified framework for responsible AI development, aiming to guide future innovation and mitigate risks globally.",
       "category": "Technology",
       "region": "Global",
-      "urgency": "high"
-    },
-    {
-      "headline": "Asian Researchers Announce Major Alzheimer's Treatment Breakthrough",
-      "summary": "Scientists in South Korea have reported significant success in early human trials for a novel Alzheimer's therapy, offering new hope for millions globally.",
-      "category": "Science",
-      "region": "Asia",
-      "urgency": "high"
-    },
-    {
-      "headline": "Mercosur Nations Agree to Landmark Economic Integration Package",
-      "summary": "The South American trade bloc has finalized agreements to reduce tariffs and streamline trade, boosting regional economic growth and stability.",
-      "category": "Business",
-      "region": "Americas",
       "urgency": "medium"
     },
     {
-      "headline": "East African Nations Launch Major Cross-Border Renewable Energy Grid",
-      "summary": "Several East African countries have inaugurated a new interconnected renewable energy grid, enhancing energy access and combating climate change in the region.",
-      "category": "World",
+      "headline": "US Federal Reserve Signals Potential Interest Rate Hike Amid Inflation Concerns",
+      "summary": "The Federal Reserve indicated a possible rate increase next quarter, reacting to persistent inflation pressures and aiming to stabilize the economy.",
+      "category": "Business",
+      "region": "US",
+      "urgency": "high"
+    },
+    {
+      "headline": "New Malaria Vaccine Shows High Efficacy in Phase 3 African Trials",
+      "summary": "A novel malaria vaccine demonstrated significant protection rates in trials across several African nations, promising a major tool against the disease.",
+      "category": "Health",
       "region": "Africa",
       "urgency": "high"
+    },
+    {
+      "headline": "Massive Dust Storms Disrupt Air Travel and Health Across Middle East",
+      "summary": "Unprecedented dust storms blanketed multiple Middle Eastern countries, causing severe health warnings and widespread transportation disruptions.",
+      "category": "World",
+      "region": "Middle East",
+      "urgency": "high"
     }
-  ],
-  "fallback": true
+  ]
 }
