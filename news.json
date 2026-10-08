@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-10-07T05:05:02.545Z",
+  "updatedAt": "2026-10-08T05:15:40.187Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-09-28",
+  "date": "2026-10-08",
   "stories": [
     {
-      "headline": "Eastern European Peace Talks Yield Provisional Ceasefire Agreement",
-      "summary": "Negotiators reached a temporary ceasefire in the ongoing regional conflict, offering hope for de-escalation and improved humanitarian aid access.",
+      "headline": "EU-Africa Summit Concludes with Landmark Trade Deal",
+      "summary": "Leaders signed a new trade agreement aimed at boosting economic ties and sustainable development. This could reshape global trade dynamics.",
       "category": "Politics",
       "region": "Europe",
       "urgency": "high"
     },
     {
-      "headline": "Global Tech Consortium Unveils Open-Source AI Ethics Framework",
-      "summary": "Leading tech firms and governments released a unified framework for responsible AI development, aiming to guide future innovation and mitigate risks globally.",
+      "headline": "Global Tech Giants Face New AI Regulation in Asia",
+      "summary": "A coalition of Asian nations introduced strict new AI ethics and data privacy laws, impacting development and deployment of advanced AI models.",
       "category": "Technology",
-      "region": "Global",
-      "urgency": "medium"
-    },
-    {
-      "headline": "US Federal Reserve Signals Potential Interest Rate Hike Amid Inflation Concerns",
-      "summary": "The Federal Reserve indicated a possible rate increase next quarter, reacting to persistent inflation pressures and aiming to stabilize the economy.",
-      "category": "Business",
-      "region": "US",
+      "region": "Asia",
       "urgency": "high"
     },
     {
-      "headline": "New Malaria Vaccine Shows High Efficacy in Phase 3 African Trials",
-      "summary": "A novel malaria vaccine demonstrated significant protection rates in trials across several African nations, promising a major tool against the disease.",
+      "headline": "Breakthrough in Alzheimer's Treatment Shows Promising Results",
+      "summary": "Researchers announced successful phase 3 trials for a novel Alzheimer's drug, offering hope for millions affected worldwide.",
       "category": "Health",
+      "region": "Global",
+      "urgency": "high"
+    },
+    {
+      "headline": "OPEC+ Agrees to Surprise Oil Production Cut Amid Market Volatility",
+      "summary": "The alliance announced an unexpected reduction in oil output, likely leading to higher global energy prices and impacting inflation forecasts.",
+      "category": "Business",
+      "region": "Middle East",
+      "urgency": "breaking"
+    },
+    {
+      "headline": "UN Appeals for Urgent Aid as Climate Migration Surges in Africa",
+      "summary": "The UN issued a critical appeal for funds and resources as millions are displaced by escalating climate-related disasters across several African nations.",
+      "category": "World",
       "region": "Africa",
       "urgency": "high"
-    },
-    {
-      "headline": "Massive Dust Storms Disrupt Air Travel and Health Across Middle East",
-      "summary": "Unprecedented dust storms blanketed multiple Middle Eastern countries, causing severe health warnings and widespread transportation disruptions.",
-      "category": "World",
-      "region": "Middle East",
-      "urgency": "high"
     }
-  ],
-  "fallback": true
+  ]
 }
