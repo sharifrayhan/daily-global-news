@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-10-17T00:38:20.968Z",
+  "updatedAt": "2026-10-18T00:42:58.245Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-10-08",
+  "date": "2026-10-18",
   "stories": [
     {
-      "headline": "EU-Africa Summit Concludes with Landmark Trade Deal",
-      "summary": "Leaders signed a new trade agreement aimed at boosting economic ties and sustainable development. This could reshape global trade dynamics.",
+      "headline": "EU Leaders Face Gridlock Over New Climate Levy Implementation",
+      "summary": "European Union summit ends without agreement on a controversial carbon border adjustment mechanism, threatening bloc unity and climate targets.",
       "category": "Politics",
       "region": "Europe",
       "urgency": "high"
     },
     {
-      "headline": "Global Tech Giants Face New AI Regulation in Asia",
-      "summary": "A coalition of Asian nations introduced strict new AI ethics and data privacy laws, impacting development and deployment of advanced AI models.",
+      "headline": "Major Breakthrough in AI Ethics Framework Adopted by Tech Giants",
+      "summary": "Leading global tech companies agree on a unified ethical AI development framework, aiming to prevent misuse and foster responsible innovation.",
       "category": "Technology",
-      "region": "Asia",
-      "urgency": "high"
-    },
-    {
-      "headline": "Breakthrough in Alzheimer's Treatment Shows Promising Results",
-      "summary": "Researchers announced successful phase 3 trials for a novel Alzheimer's drug, offering hope for millions affected worldwide.",
-      "category": "Health",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "OPEC+ Agrees to Surprise Oil Production Cut Amid Market Volatility",
-      "summary": "The alliance announced an unexpected reduction in oil output, likely leading to higher global energy prices and impacting inflation forecasts.",
-      "category": "Business",
-      "region": "Middle East",
-      "urgency": "breaking"
-    },
-    {
-      "headline": "UN Appeals for Urgent Aid as Climate Migration Surges in Africa",
-      "summary": "The UN issued a critical appeal for funds and resources as millions are displaced by escalating climate-related disasters across several African nations.",
-      "category": "World",
+      "headline": "New Malaria Vaccine Shows Promising Efficacy in African Trials",
+      "summary": "Phase 3 clinical trials for a novel malaria vaccine in several African nations report over 90% efficacy, offering hope against a major killer.",
+      "category": "Health",
       "region": "Africa",
       "urgency": "high"
+    },
+    {
+      "headline": "Asian Markets Dip Amidst Concerns Over Chinese Property Sector Debt",
+      "summary": "Major Asian stock exchanges experienced declines following renewed fears regarding the stability of China's heavily indebted real estate market.",
+      "category": "Business",
+      "region": "Asia",
+      "urgency": "medium"
+    },
+    {
+      "headline": "Severe Hurricane Hits Caribbean, Causes Widespread Damage",
+      "summary": "A Category 4 hurricane made landfall in the Eastern Caribbean, leading to extensive infrastructure damage and humanitarian concerns across multiple islands.",
+      "category": "World",
+      "region": "Americas",
+      "urgency": "breaking"
     }
-  ],
-  "fallback": true
+  ]
 }
