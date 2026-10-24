@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-10-23T00:40:18.972Z",
+  "updatedAt": "2026-10-24T00:37:49.377Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-10-18",
+  "date": "2026-10-24",
   "stories": [
     {
-      "headline": "EU Leaders Face Gridlock Over New Climate Levy Implementation",
-      "summary": "European Union summit ends without agreement on a controversial carbon border adjustment mechanism, threatening bloc unity and climate targets.",
+      "headline": "EU Parliament Approves Landmark Carbon Border Adjustment Mechanism Expansion",
+      "summary": "New regulations expand the CBAM to more industrial sectors, aiming to accelerate global decarbonization efforts and prevent carbon leakage. This significantly impacts international trade.",
       "category": "Politics",
       "region": "Europe",
       "urgency": "high"
     },
     {
-      "headline": "Major Breakthrough in AI Ethics Framework Adopted by Tech Giants",
-      "summary": "Leading global tech companies agree on a unified ethical AI development framework, aiming to prevent misuse and foster responsible innovation.",
+      "headline": "Asian Tech Giant Unveils Breakthrough in Energy-Efficient AI Processors",
+      "summary": "A leading company announced a new AI chip architecture significantly reducing power consumption, critical for next-gen data centers and edge computing globally.",
       "category": "Technology",
-      "region": "Global",
+      "region": "Asia",
       "urgency": "high"
     },
     {
-      "headline": "New Malaria Vaccine Shows Promising Efficacy in African Trials",
-      "summary": "Phase 3 clinical trials for a novel malaria vaccine in several African nations report over 90% efficacy, offering hope against a major killer.",
+      "headline": "New Clinical Trial Results Boost Hope for Universal Malaria Vaccine",
+      "summary": "Phase 3 trials in several African nations show promising efficacy for a new malaria vaccine candidate, offering hope for eradication efforts and saving millions of lives.",
       "category": "Health",
       "region": "Africa",
       "urgency": "high"
     },
     {
-      "headline": "Asian Markets Dip Amidst Concerns Over Chinese Property Sector Debt",
-      "summary": "Major Asian stock exchanges experienced declines following renewed fears regarding the stability of China's heavily indebted real estate market.",
-      "category": "Business",
-      "region": "Asia",
-      "urgency": "medium"
+      "headline": "UN Envoy Calls for Urgent Ceasefire Amid Rising Regional Tensions",
+      "summary": "The UN special envoy urged immediate de-escalation in the Middle East following cross-border skirmishes, emphasizing civilian protection and diplomatic solutions to avert wider conflict.",
+      "category": "World",
+      "region": "Middle East",
+      "urgency": "breaking"
     },
     {
-      "headline": "Severe Hurricane Hits Caribbean, Causes Widespread Damage",
-      "summary": "A Category 4 hurricane made landfall in the Eastern Caribbean, leading to extensive infrastructure damage and humanitarian concerns across multiple islands.",
-      "category": "World",
-      "region": "Americas",
-      "urgency": "breaking"
+      "headline": "US Q3 GDP Exceeds Expectations, Signaling Economic Resilience",
+      "summary": "The Commerce Department reported stronger-than-forecast GDP growth for Q3, indicating robust consumer spending and business investment despite ongoing inflation concerns.",
+      "category": "Business",
+      "region": "US",
+      "urgency": "medium"
     }
-  ],
-  "fallback": true
+  ]
 }
