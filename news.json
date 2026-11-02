@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-11-01T00:31:38.658Z",
+  "updatedAt": "2026-11-02T05:07:38.221Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-10-24",
+  "date": "2026-11-02",
   "stories": [
     {
-      "headline": "EU Parliament Approves Landmark Carbon Border Adjustment Mechanism Expansion",
-      "summary": "New regulations expand the CBAM to more industrial sectors, aiming to accelerate global decarbonization efforts and prevent carbon leakage. This significantly impacts international trade.",
+      "headline": "G20 Nations Commit to Ambitious Renewable Energy Targets",
+      "summary": "G20 leaders reached a landmark agreement to triple renewable energy capacity by 2030, a critical step in combating climate change.",
       "category": "Politics",
+      "region": "Global",
+      "urgency": "high"
+    },
+    {
+      "headline": "Powerful Earthquake Strikes Southeast Asia; Rescue Efforts Underway",
+      "summary": "A magnitude 7.5 earthquake hit a densely populated region in Southeast Asia, causing widespread damage and significant loss of life.",
+      "category": "World",
+      "region": "Asia",
+      "urgency": "breaking"
+    },
+    {
+      "headline": "EU Passes Landmark AI Liability Law, Setting Global Precedent",
+      "summary": "The European Union approved new regulations holding AI developers accountable for system errors, influencing global tech governance.",
+      "category": "Technology",
       "region": "Europe",
       "urgency": "high"
     },
     {
-      "headline": "Asian Tech Giant Unveils Breakthrough in Energy-Efficient AI Processors",
-      "summary": "A leading company announced a new AI chip architecture significantly reducing power consumption, critical for next-gen data centers and edge computing globally.",
-      "category": "Technology",
-      "region": "Asia",
-      "urgency": "high"
-    },
-    {
-      "headline": "New Clinical Trial Results Boost Hope for Universal Malaria Vaccine",
-      "summary": "Phase 3 trials in several African nations show promising efficacy for a new malaria vaccine candidate, offering hope for eradication efforts and saving millions of lives.",
+      "headline": "WHO Reports Major Progress in African Malaria Vaccine Rollout",
+      "summary": "The World Health Organization announced successful expansion of the new malaria vaccine across several African nations, drastically reducing infections.",
       "category": "Health",
       "region": "Africa",
       "urgency": "high"
     },
     {
-      "headline": "UN Envoy Calls for Urgent Ceasefire Amid Rising Regional Tensions",
-      "summary": "The UN special envoy urged immediate de-escalation in the Middle East following cross-border skirmishes, emphasizing civilian protection and diplomatic solutions to avert wider conflict.",
-      "category": "World",
-      "region": "Middle East",
-      "urgency": "breaking"
-    },
-    {
-      "headline": "US Q3 GDP Exceeds Expectations, Signaling Economic Resilience",
-      "summary": "The Commerce Department reported stronger-than-forecast GDP growth for Q3, indicating robust consumer spending and business investment despite ongoing inflation concerns.",
+      "headline": "US Federal Reserve Hints at Rate Hike Amid Persistent Inflation",
+      "summary": "The Federal Reserve indicated a potential interest rate increase in its next meeting, responding to stubbornly high inflation figures.",
       "category": "Business",
       "region": "US",
-      "urgency": "medium"
+      "urgency": "high"
     }
-  ],
-  "fallback": true
+  ]
 }
