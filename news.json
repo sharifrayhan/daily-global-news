@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-11-03T05:53:33.270Z",
+  "updatedAt": "2026-11-04T05:29:22.944Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-11-02",
+  "date": "2026-11-04",
   "stories": [
     {
-      "headline": "G20 Nations Commit to Ambitious Renewable Energy Targets",
-      "summary": "G20 leaders reached a landmark agreement to triple renewable energy capacity by 2030, a critical step in combating climate change.",
+      "headline": "US Midterm Results Point to Divided Congress, Policy Gridlock",
+      "summary": "Final tallies confirm a split legislature, signaling potential challenges for future legislative agendas and presidential initiatives.",
       "category": "Politics",
-      "region": "Global",
+      "region": "US",
       "urgency": "high"
     },
     {
-      "headline": "Powerful Earthquake Strikes Southeast Asia; Rescue Efforts Underway",
-      "summary": "A magnitude 7.5 earthquake hit a densely populated region in Southeast Asia, causing widespread damage and significant loss of life.",
-      "category": "World",
-      "region": "Asia",
-      "urgency": "breaking"
-    },
-    {
-      "headline": "EU Passes Landmark AI Liability Law, Setting Global Precedent",
-      "summary": "The European Union approved new regulations holding AI developers accountable for system errors, influencing global tech governance.",
+      "headline": "UN-Backed AI Ethics Framework Gains Broad International Support",
+      "summary": "A new global agreement on AI development and deployment ethics receives widespread endorsement, aiming to guide responsible innovation.",
       "category": "Technology",
-      "region": "Europe",
-      "urgency": "high"
+      "region": "Global",
+      "urgency": "medium"
     },
     {
-      "headline": "WHO Reports Major Progress in African Malaria Vaccine Rollout",
-      "summary": "The World Health Organization announced successful expansion of the new malaria vaccine across several African nations, drastically reducing infections.",
+      "headline": "New Malaria Vaccine Program Expands Across African Nations",
+      "summary": "A highly effective malaria vaccine is now being rapidly rolled out across several sub-Saharan African countries, promising to save millions of lives.",
       "category": "Health",
       "region": "Africa",
       "urgency": "high"
     },
     {
-      "headline": "US Federal Reserve Hints at Rate Hike Amid Persistent Inflation",
-      "summary": "The Federal Reserve indicated a potential interest rate increase in its next meeting, responding to stubbornly high inflation figures.",
+      "headline": "Key Asian Stock Markets See Sharp Decline Amid Economic Concerns",
+      "summary": "Major indices across Asia fell significantly today, driven by fears of slowing global demand and regional manufacturing data.",
       "category": "Business",
-      "region": "US",
+      "region": "Asia",
       "urgency": "high"
+    },
+    {
+      "headline": "European Climate Summit Delegates Agree on New Emissions Targets",
+      "summary": "Nations at the Brussels climate summit reached a consensus on ambitious new carbon reduction goals, aiming to accelerate global climate action.",
+      "category": "World",
+      "region": "Europe",
+      "urgency": "medium"
     }
-  ],
-  "fallback": true
+  ]
 }
