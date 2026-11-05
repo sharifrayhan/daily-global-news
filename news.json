@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-11-04T05:29:22.944Z",
+  "updatedAt": "2026-11-05T05:49:36.425Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "stories": [
     {
-      "headline": "US Midterm Results Point to Divided Congress, Policy Gridlock",
-      "summary": "Final tallies confirm a split legislature, signaling potential challenges for future legislative agendas and presidential initiatives.",
+      "headline": "Global Leaders Agree to New Carbon Emission Reduction Targets",
+      "summary": "Nations committed to ambitious new goals at the UN climate summit, aiming to accelerate renewable energy transition and mitigate global warming.",
       "category": "Politics",
-      "region": "US",
-      "urgency": "high"
-    },
-    {
-      "headline": "UN-Backed AI Ethics Framework Gains Broad International Support",
-      "summary": "A new global agreement on AI development and deployment ethics receives widespread endorsement, aiming to guide responsible innovation.",
-      "category": "Technology",
       "region": "Global",
-      "urgency": "medium"
-    },
-    {
-      "headline": "New Malaria Vaccine Program Expands Across African Nations",
-      "summary": "A highly effective malaria vaccine is now being rapidly rolled out across several sub-Saharan African countries, promising to save millions of lives.",
-      "category": "Health",
-      "region": "Africa",
       "urgency": "high"
     },
     {
-      "headline": "Key Asian Stock Markets See Sharp Decline Amid Economic Concerns",
-      "summary": "Major indices across Asia fell significantly today, driven by fears of slowing global demand and regional manufacturing data.",
-      "category": "Business",
-      "region": "Asia",
-      "urgency": "high"
-    },
-    {
-      "headline": "European Climate Summit Delegates Agree on New Emissions Targets",
-      "summary": "Nations at the Brussels climate summit reached a consensus on ambitious new carbon reduction goals, aiming to accelerate global climate action.",
-      "category": "World",
+      "headline": "EU Finalizes Landmark AI Regulation Package",
+      "summary": "The European Union passed comprehensive AI laws, setting global standards for ethical AI development, impacting tech companies worldwide.",
+      "category": "Technology",
       "region": "Europe",
+      "urgency": "high"
+    },
+    {
+      "headline": "Central Banks Signal Easing Interest Rate Hikes Amid Global Slowdown",
+      "summary": "Major central banks indicated a pause in rate increases, responding to signs of global economic slowdown and easing inflationary pressures.",
+      "category": "Business",
+      "region": "Global",
+      "urgency": "high"
+    },
+    {
+      "headline": "Breakthrough Gene Therapy Shows Promise for Alzheimer's Treatment",
+      "summary": "Researchers announced successful Phase 3 trial results for a novel gene therapy, offering new hope for patients battling early-stage Alzheimer's.",
+      "category": "Health",
+      "region": "Global",
+      "urgency": "high"
+    },
+    {
+      "headline": "Key African Nation Holds Pivotal General Election",
+      "summary": "Millions voted in a critical general election in a major African nation, with results expected to shape regional stability and economic policy.",
+      "category": "Politics",
+      "region": "Africa",
       "urgency": "medium"
     }
   ]
