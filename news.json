@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-11-05T05:49:36.425Z",
+  "updatedAt": "2026-11-06T05:45:36.710Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "stories": [
     {
-      "headline": "Global Leaders Agree to New Carbon Emission Reduction Targets",
-      "summary": "Nations committed to ambitious new goals at the UN climate summit, aiming to accelerate renewable energy transition and mitigate global warming.",
+      "headline": "Post-Midterm Analysis Shows Shift in US Congressional Control",
+      "summary": "Preliminary results indicate a significant power shift in the US Congress, impacting future legislative priorities and the presidential agenda for the next two years.",
       "category": "Politics",
+      "region": "US",
+      "urgency": "high"
+    },
+    {
+      "headline": "Global AI Ethics Summit Concludes with Landmark Regulatory Framework",
+      "summary": "Nations agreed on initial binding rules for AI development and deployment, aiming to balance innovation with safety and human rights, setting a precedent for future tech governance.",
+      "category": "Technology",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "EU Finalizes Landmark AI Regulation Package",
-      "summary": "The European Union passed comprehensive AI laws, setting global standards for ethical AI development, impacting tech companies worldwide.",
-      "category": "Technology",
+      "headline": "Eurozone Inflation Nears Target Amidst Cautious ECB Outlook",
+      "summary": "Latest data shows inflation rates in the Eurozone are approaching the ECB's target, signaling potential policy shifts but economic growth remains fragile.",
+      "category": "Business",
       "region": "Europe",
       "urgency": "high"
     },
     {
-      "headline": "Central Banks Signal Easing Interest Rate Hikes Amid Global Slowdown",
-      "summary": "Major central banks indicated a pause in rate increases, responding to signs of global economic slowdown and easing inflationary pressures.",
-      "category": "Business",
-      "region": "Global",
-      "urgency": "high"
-    },
-    {
-      "headline": "Breakthrough Gene Therapy Shows Promise for Alzheimer's Treatment",
-      "summary": "Researchers announced successful Phase 3 trial results for a novel gene therapy, offering new hope for patients battling early-stage Alzheimer's.",
-      "category": "Health",
-      "region": "Global",
-      "urgency": "high"
-    },
-    {
-      "headline": "Key African Nation Holds Pivotal General Election",
-      "summary": "Millions voted in a critical general election in a major African nation, with results expected to shape regional stability and economic policy.",
-      "category": "Politics",
+      "headline": "New Malaria Vaccine Trial Shows Promising Results in African Children",
+      "summary": "Phase 3 clinical trials for a novel malaria vaccine in several African nations reported high efficacy, offering hope for millions vulnerable to the deadly disease.",
+      "category": "Science",
       "region": "Africa",
-      "urgency": "medium"
+      "urgency": "high"
+    },
+    {
+      "headline": "Southeast Asia Grapples with Severe Flooding After Record Monsoon Rains",
+      "summary": "Widespread flooding in parts of Southeast Asia has displaced thousands and caused significant infrastructure damage, prompting urgent international aid appeals.",
+      "category": "World",
+      "region": "Asia",
+      "urgency": "high"
     }
   ]
 }
