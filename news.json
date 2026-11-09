@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-11-08T05:13:01.123Z",
+  "updatedAt": "2026-11-09T05:24:59.927Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-11-06",
+  "date": "2026-11-09",
   "stories": [
     {
-      "headline": "Post-Midterm Analysis Shows Shift in US Congressional Control",
-      "summary": "Preliminary results indicate a significant power shift in the US Congress, impacting future legislative priorities and the presidential agenda for the next two years.",
+      "headline": "EU Parliament Approves Landmark AI Governance Framework",
+      "summary": "The European Parliament passed a comprehensive AI regulation bill, setting a global standard for ethical AI development and deployment. This impacts tech companies and citizens worldwide.",
       "category": "Politics",
-      "region": "US",
-      "urgency": "high"
-    },
-    {
-      "headline": "Global AI Ethics Summit Concludes with Landmark Regulatory Framework",
-      "summary": "Nations agreed on initial binding rules for AI development and deployment, aiming to balance innovation with safety and human rights, setting a precedent for future tech governance.",
-      "category": "Technology",
-      "region": "Global",
-      "urgency": "high"
-    },
-    {
-      "headline": "Eurozone Inflation Nears Target Amidst Cautious ECB Outlook",
-      "summary": "Latest data shows inflation rates in the Eurozone are approaching the ECB's target, signaling potential policy shifts but economic growth remains fragile.",
-      "category": "Business",
       "region": "Europe",
       "urgency": "high"
     },
     {
-      "headline": "New Malaria Vaccine Trial Shows Promising Results in African Children",
-      "summary": "Phase 3 clinical trials for a novel malaria vaccine in several African nations reported high efficacy, offering hope for millions vulnerable to the deadly disease.",
-      "category": "Science",
-      "region": "Africa",
+      "headline": "Quantum Computing Breakthrough Achieved by US Research Team",
+      "summary": "Researchers at a major US university announced a significant leap in quantum error correction, accelerating the path to practical quantum computers. This could revolutionize multiple industries.",
+      "category": "Technology",
+      "region": "US",
       "urgency": "high"
     },
     {
-      "headline": "Southeast Asia Grapples with Severe Flooding After Record Monsoon Rains",
-      "summary": "Widespread flooding in parts of Southeast Asia has displaced thousands and caused significant infrastructure damage, prompting urgent international aid appeals.",
-      "category": "World",
+      "headline": "Asian Markets Rebound Following China's Economic Stimulus Package",
+      "summary": "Major Asian stock markets saw significant gains after China unveiled a substantial economic stimulus package aimed at boosting consumer spending and infrastructure. This signals potential regional recovery.",
+      "category": "Business",
       "region": "Asia",
       "urgency": "high"
+    },
+    {
+      "headline": "New Malaria Vaccine Proves Highly Effective in African Trials",
+      "summary": "Phase 3 clinical trials in several African nations show a novel malaria vaccine to be 90% effective, offering hope to eradicate the disease. This could save millions of lives annually.",
+      "category": "Health",
+      "region": "Africa",
+      "urgency": "breaking"
+    },
+    {
+      "headline": "Ceasefire Agreement Reached in Regional Middle East Conflict",
+      "summary": "Diplomatic efforts led to a fragile ceasefire agreement between warring factions in a long-standing Middle Eastern conflict. While tentative, it offers a glimmer of hope for peace.",
+      "category": "World",
+      "region": "Middle East",
+      "urgency": "breaking"
     }
-  ],
-  "fallback": true
+  ]
 }
