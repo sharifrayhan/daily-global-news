@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-11-09T05:24:59.927Z",
+  "updatedAt": "2026-11-10T06:36:08.814Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "stories": [
     {
-      "headline": "EU Parliament Approves Landmark AI Governance Framework",
-      "summary": "The European Parliament passed a comprehensive AI regulation bill, setting a global standard for ethical AI development and deployment. This impacts tech companies and citizens worldwide.",
+      "headline": "Middle East Peace Talks Stall Amid Border Dispute",
+      "summary": "Negotiations between two key nations paused after new territorial claims emerged. This development threatens regional stability and ongoing security efforts.",
       "category": "Politics",
-      "region": "Europe",
+      "region": "Middle East",
       "urgency": "high"
     },
     {
-      "headline": "Quantum Computing Breakthrough Achieved by US Research Team",
-      "summary": "Researchers at a major US university announced a significant leap in quantum error correction, accelerating the path to practical quantum computers. This could revolutionize multiple industries.",
+      "headline": "New AI Model Achieves Human-Level Generalization in Complex Tasks",
+      "summary": "Researchers unveiled an AI capable of unprecedented learning and adaptation across diverse domains. This could revolutionize industries and scientific discovery globally.",
       "category": "Technology",
-      "region": "US",
+      "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "Asian Markets Rebound Following China's Economic Stimulus Package",
-      "summary": "Major Asian stock markets saw significant gains after China unveiled a substantial economic stimulus package aimed at boosting consumer spending and infrastructure. This signals potential regional recovery.",
+      "headline": "Global Supply Chain Resilience Index Shows Record High Stability",
+      "summary": "A new report indicates significant improvements in global supply chain robustness. This signals a stronger economic outlook and reduced inflation risks worldwide.",
       "category": "Business",
-      "region": "Asia",
-      "urgency": "high"
+      "region": "Global",
+      "urgency": "medium"
     },
     {
-      "headline": "New Malaria Vaccine Proves Highly Effective in African Trials",
-      "summary": "Phase 3 clinical trials in several African nations show a novel malaria vaccine to be 90% effective, offering hope to eradicate the disease. This could save millions of lives annually.",
+      "headline": "Breakthrough Vaccine Trial Shows 95% Efficacy Against New Tropical Virus",
+      "summary": "A phase 3 trial in Africa demonstrated high effectiveness against an emerging pathogen. This offers hope for controlling outbreaks and preventing a global health crisis.",
       "category": "Health",
       "region": "Africa",
       "urgency": "breaking"
     },
     {
-      "headline": "Ceasefire Agreement Reached in Regional Middle East Conflict",
-      "summary": "Diplomatic efforts led to a fragile ceasefire agreement between warring factions in a long-standing Middle Eastern conflict. While tentative, it offers a glimmer of hope for peace.",
+      "headline": "UN Climate Summit Delegates Agree on Accelerated Emission Targets",
+      "summary": "Nations committed to faster carbon reduction goals following intense negotiations. This is a critical step towards mitigating long-term climate change impacts globally.",
       "category": "World",
-      "region": "Middle East",
-      "urgency": "breaking"
+      "region": "Global",
+      "urgency": "high"
     }
   ]
 }
