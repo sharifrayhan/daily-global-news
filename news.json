@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-11-12T06:26:41.250Z",
+  "updatedAt": "2026-11-13T05:46:50.152Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-11-10",
+  "date": "2026-11-13",
   "stories": [
     {
-      "headline": "Middle East Peace Talks Stall Amid Border Dispute",
-      "summary": "Negotiations between two key nations paused after new territorial claims emerged. This development threatens regional stability and ongoing security efforts.",
+      "headline": "Global Leaders Finalize Historic Carbon Removal Investment Fund",
+      "summary": "Major economies committed billions to accelerate carbon capture tech, a crucial step for 2030 climate goals and net-zero targets.",
       "category": "Politics",
-      "region": "Middle East",
+      "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "New AI Model Achieves Human-Level Generalization in Complex Tasks",
-      "summary": "Researchers unveiled an AI capable of unprecedented learning and adaptation across diverse domains. This could revolutionize industries and scientific discovery globally.",
+      "headline": "US Congress Passes Sweeping AI Accountability and Ethics Legislation",
+      "summary": "New law mandates transparency for AI algorithms and establishes a federal oversight body, impacting tech development and consumer trust.",
       "category": "Technology",
-      "region": "Global",
+      "region": "US",
       "urgency": "high"
     },
     {
-      "headline": "Global Supply Chain Resilience Index Shows Record High Stability",
-      "summary": "A new report indicates significant improvements in global supply chain robustness. This signals a stronger economic outlook and reduced inflation risks worldwide.",
-      "category": "Business",
-      "region": "Global",
+      "headline": "Fragile Ceasefire Holds in Sudan, Humanitarian Aid Access Improves",
+      "summary": "Rival factions in Sudan maintain a fragile ceasefire for a third day, offering hope for lasting peace and increased humanitarian aid access.",
+      "category": "World",
+      "region": "Africa",
       "urgency": "medium"
     },
     {
-      "headline": "Breakthrough Vaccine Trial Shows 95% Efficacy Against New Tropical Virus",
-      "summary": "A phase 3 trial in Africa demonstrated high effectiveness against an emerging pathogen. This offers hope for controlling outbreaks and preventing a global health crisis.",
-      "category": "Health",
-      "region": "Africa",
-      "urgency": "breaking"
+      "headline": "China's Central Bank Unexpectedly Raises Interest Rates to Curb Inflation",
+      "summary": "The People's Bank of China raised benchmark interest rates by 25 basis points, sending ripples through global financial markets and commodity prices.",
+      "category": "Business",
+      "region": "Asia",
+      "urgency": "high"
     },
     {
-      "headline": "UN Climate Summit Delegates Agree on Accelerated Emission Targets",
-      "summary": "Nations committed to faster carbon reduction goals following intense negotiations. This is a critical step towards mitigating long-term climate change impacts globally.",
-      "category": "World",
-      "region": "Global",
+      "headline": "EU Approves Groundbreaking Gene Therapy for Rare Neurological Disorder",
+      "summary": "European regulators greenlight a novel gene therapy, offering new hope for patients with a previously untreatable neurological condition.",
+      "category": "Health",
+      "region": "Europe",
       "urgency": "high"
     }
-  ],
-  "fallback": true
+  ]
 }
