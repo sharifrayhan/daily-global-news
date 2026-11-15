@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-11-14T05:37:21.568Z",
+  "updatedAt": "2026-11-15T05:34:50.212Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-11-13",
+  "date": "2026-11-15",
   "stories": [
     {
-      "headline": "Global Leaders Finalize Historic Carbon Removal Investment Fund",
-      "summary": "Major economies committed billions to accelerate carbon capture tech, a crucial step for 2030 climate goals and net-zero targets.",
+      "headline": "Middle East Peace Talks Collapse Amid Border Dispute Escalation",
+      "summary": "Diplomatic efforts failed to resolve key border issues, raising fears of renewed regional instability and impacting global oil markets.",
       "category": "Politics",
+      "region": "Middle East",
+      "urgency": "high"
+    },
+    {
+      "headline": "Global AI Consortium Unveils Landmark Ethical Guidelines for Development",
+      "summary": "Leading tech firms and governments agreed on crucial AI ethics standards, aiming to ensure responsible innovation and prevent misuse globally.",
+      "category": "Technology",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "US Congress Passes Sweeping AI Accountability and Ethics Legislation",
-      "summary": "New law mandates transparency for AI algorithms and establishes a federal oversight body, impacting tech development and consumer trust.",
-      "category": "Technology",
-      "region": "US",
+      "headline": "European Central Bank Holds Rates Steady Amid Stagnant Growth Concerns",
+      "summary": "The ECB kept interest rates unchanged, signaling caution over persistent inflation and weak economic recovery across the Eurozone.",
+      "category": "Business",
+      "region": "Europe",
       "urgency": "high"
     },
     {
-      "headline": "Fragile Ceasefire Holds in Sudan, Humanitarian Aid Access Improves",
-      "summary": "Rival factions in Sudan maintain a fragile ceasefire for a third day, offering hope for lasting peace and increased humanitarian aid access.",
-      "category": "World",
-      "region": "Africa",
+      "headline": "New Gene Therapy Shows Promise in Treating Rare Neurological Disorder",
+      "summary": "Clinical trials reveal a novel gene therapy significantly slows progression of a debilitating neurological condition, offering hope to thousands.",
+      "category": "Health",
+      "region": "Global",
       "urgency": "medium"
     },
     {
-      "headline": "China's Central Bank Unexpectedly Raises Interest Rates to Curb Inflation",
-      "summary": "The People's Bank of China raised benchmark interest rates by 25 basis points, sending ripples through global financial markets and commodity prices.",
-      "category": "Business",
-      "region": "Asia",
-      "urgency": "high"
-    },
-    {
-      "headline": "EU Approves Groundbreaking Gene Therapy for Rare Neurological Disorder",
-      "summary": "European regulators greenlight a novel gene therapy, offering new hope for patients with a previously untreatable neurological condition.",
-      "category": "Health",
-      "region": "Europe",
+      "headline": "Southern African Nations Grapple with Severe Drought and Food Shortages",
+      "summary": "Millions face acute food insecurity as prolonged drought devastates crops across several Southern African countries, prompting urgent aid appeals.",
+      "category": "World",
+      "region": "Africa",
       "urgency": "high"
     }
-  ],
-  "fallback": true
+  ]
 }
