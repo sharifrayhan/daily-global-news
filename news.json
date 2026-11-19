@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-11-18T06:36:01.331Z",
+  "updatedAt": "2026-11-19T06:37:26.859Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-11-15",
+  "date": "2026-11-19",
   "stories": [
     {
-      "headline": "Middle East Peace Talks Collapse Amid Border Dispute Escalation",
-      "summary": "Diplomatic efforts failed to resolve key border issues, raising fears of renewed regional instability and impacting global oil markets.",
-      "category": "Politics",
-      "region": "Middle East",
-      "urgency": "high"
-    },
-    {
-      "headline": "Global AI Consortium Unveils Landmark Ethical Guidelines for Development",
-      "summary": "Leading tech firms and governments agreed on crucial AI ethics standards, aiming to ensure responsible innovation and prevent misuse globally.",
-      "category": "Technology",
+      "headline": "Compact Fusion Reactor Achieves Sustained Net Energy Gain",
+      "summary": "Researchers announced a major step towards viable fusion power, with a new reactor design sustaining net energy for hours. This breakthrough could revolutionize global energy production and climate efforts.",
+      "category": "Science",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "European Central Bank Holds Rates Steady Amid Stagnant Growth Concerns",
-      "summary": "The ECB kept interest rates unchanged, signaling caution over persistent inflation and weak economic recovery across the Eurozone.",
-      "category": "Business",
+      "headline": "EU Parliament Approves Landmark Digital Sovereignty Act",
+      "summary": "The legislation aims to reduce reliance on non-EU tech giants for critical infrastructure and data, impacting global tech firms and setting new standards for data governance across Europe.",
+      "category": "Politics",
       "region": "Europe",
       "urgency": "high"
     },
     {
-      "headline": "New Gene Therapy Shows Promise in Treating Rare Neurological Disorder",
-      "summary": "Clinical trials reveal a novel gene therapy significantly slows progression of a debilitating neurological condition, offering hope to thousands.",
-      "category": "Health",
-      "region": "Global",
+      "headline": "Major Asian Manufacturing Hub Reports Unexpected Economic Slowdown",
+      "summary": "Official data from a key Asian economy shows a surprising contraction in manufacturing output for the third consecutive month, raising concerns about global supply chains and consumer demand.",
+      "category": "Business",
+      "region": "Asia",
       "urgency": "medium"
     },
     {
-      "headline": "Southern African Nations Grapple with Severe Drought and Food Shortages",
-      "summary": "Millions face acute food insecurity as prolonged drought devastates crops across several Southern African countries, prompting urgent aid appeals.",
+      "headline": "Ceasefire Agreement Reached in East African Conflict Zone",
+      "summary": "Rival factions in a long-standing East African conflict have signed a UN-brokered ceasefire, offering hope for stability and humanitarian aid access after years of violence and displacement.",
       "category": "World",
       "region": "Africa",
+      "urgency": "breaking"
+    },
+    {
+      "headline": "US Regulators Announce New AI Ethics Guidelines for Public Sector",
+      "summary": "New federal guidelines aim to ensure fairness, transparency, and accountability in AI systems used by government agencies, impacting development and deployment of artificial intelligence in public services.",
+      "category": "Technology",
+      "region": "US",
       "urgency": "high"
     }
-  ],
-  "fallback": true
+  ]
 }
