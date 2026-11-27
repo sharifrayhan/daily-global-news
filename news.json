@@ -1,44 +1,43 @@
 {
-  "updatedAt": "2026-11-26T07:31:18.092Z",
+  "updatedAt": "2026-11-27T07:29:16.941Z",
   "version": "1.0",
   "source": "gemini-1.5-flash",
-  "date": "2026-11-19",
+  "date": "2026-11-27",
   "stories": [
     {
-      "headline": "Compact Fusion Reactor Achieves Sustained Net Energy Gain",
-      "summary": "Researchers announced a major step towards viable fusion power, with a new reactor design sustaining net energy for hours. This breakthrough could revolutionize global energy production and climate efforts.",
-      "category": "Science",
+      "headline": "Sahel Region Peace Accord Gains Momentum After Key Negotiations",
+      "summary": "Rival factions in the Sahel sign a provisional agreement, offering hope for stability and humanitarian aid in the war-torn region.",
+      "category": "Politics",
+      "region": "Africa",
+      "urgency": "high"
+    },
+    {
+      "headline": "Quantum Computing Breakthrough Promises Faster Drug Discovery",
+      "summary": "Researchers announce a significant leap in quantum algorithm efficiency, accelerating simulations crucial for pharmaceutical development globally.",
+      "category": "Technology",
       "region": "Global",
       "urgency": "high"
     },
     {
-      "headline": "EU Parliament Approves Landmark Digital Sovereignty Act",
-      "summary": "The legislation aims to reduce reliance on non-EU tech giants for critical infrastructure and data, impacting global tech firms and setting new standards for data governance across Europe.",
-      "category": "Politics",
+      "headline": "New Malaria Vaccine Shows 90% Efficacy in Phase 3 Trials",
+      "summary": "A novel malaria vaccine demonstrated exceptional results, potentially saving millions of lives and shifting global health strategies.",
+      "category": "Health",
+      "region": "Global",
+      "urgency": "high"
+    },
+    {
+      "headline": "European Central Bank Warns of Persistent Inflationary Pressures",
+      "summary": "ECB signals continued vigilance as inflation remains stubbornly high, prompting fears of further interest rate hikes impacting consumers.",
+      "category": "Business",
       "region": "Europe",
       "urgency": "high"
     },
     {
-      "headline": "Major Asian Manufacturing Hub Reports Unexpected Economic Slowdown",
-      "summary": "Official data from a key Asian economy shows a surprising contraction in manufacturing output for the third consecutive month, raising concerns about global supply chains and consumer demand.",
-      "category": "Business",
-      "region": "Asia",
-      "urgency": "medium"
-    },
-    {
-      "headline": "Ceasefire Agreement Reached in East African Conflict Zone",
-      "summary": "Rival factions in a long-standing East African conflict have signed a UN-brokered ceasefire, offering hope for stability and humanitarian aid access after years of violence and displacement.",
+      "headline": "Southeast Asia Braces for Super Typhoon, Mass Evacuations Underway",
+      "summary": "A powerful super typhoon threatens coastal areas across Southeast Asia, triggering widespread evacuations and disaster preparedness.",
       "category": "World",
-      "region": "Africa",
+      "region": "Asia",
       "urgency": "breaking"
-    },
-    {
-      "headline": "US Regulators Announce New AI Ethics Guidelines for Public Sector",
-      "summary": "New federal guidelines aim to ensure fairness, transparency, and accountability in AI systems used by government agencies, impacting development and deployment of artificial intelligence in public services.",
-      "category": "Technology",
-      "region": "US",
-      "urgency": "high"
     }
-  ],
-  "fallback": true
+  ]
 }
